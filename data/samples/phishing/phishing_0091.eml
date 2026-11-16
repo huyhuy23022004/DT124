@@ -1,0 +1,48 @@
+From: notice@chase-alerts.online
+To: victim31@example.com
+Subject: Power outage maintenance window [ref AB841EB]
+Date: Tue, 25 Mar 2002 13:23:00 -0500
+Message-ID: <phish-91-c4f796ba-e883-491d-aea7-585188a70c74@chase-alerts.online>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 28 Mar 2002 06:09:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 25 Mar 2002 05:52:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 27 Mar 2002 14:34:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 20 Mar 2002 13:54:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 10 Mar 2002 05:27:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 07 Mar 2002 02:43:00 -0500
+Return-Path: <notice@chase-alerts.online>
+Reply-To: notice@chase-alerts.online
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=chase-alerts.online; dkim=pass header.d=chase-alerts.online; dmarc=pass header.from=chase-alerts.online
+Received-SPF: pass (mx.example.com: domain of notice@chase-alerts.online designates 192.0.2.31 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=chase-alerts.online; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-91-772bc891"
+
+--bnd-p-91-772bc891
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: AB841EB
+
+Thanks,
+Colleague
+--bnd-p-91-772bc891
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+TVqQAMm3nONjkEKm2Kf1h7W+t743o9Iub54mmtR+iX8jTHv23ZoUXmHdlONYKUruwj1OdxGzSCOA
+RzcvWqKbmGiTvcg5gYzSqF7Ad67ijC9S/8nULd1AtoFzIYTacSXC0Xc+qcYWF+IJ7KJYJUhSvBJD
+Zv6X1p2tzuspRH9edMbf6/xb90/taEb8LrIOpgEuhdmbFt17ouwYpjjphF3LqD2pD4k9iTAQVAbr
+ZYPj1ITGXyss2MIsM+HQ8m2pkLapDRoufcNzP1iqU1MQIi8d/grtvdgAu7+KSHL6vscX0Q458QC4
++zsliDSajw8rFTv+V8V/88wO8OO/L9N5IIqJQDwGq+91hZcbYP0lCJJ/voEGeEzvoYqfYxOb7lvO
+mFPC7egu4YKuBxLP3AVtehZLqXIC01jSO4TqXqtZ++tZzmnCo/yZKtdTwhcBc4admq3UdGBK6yGI
+lT1EvpBC4cFndRRIXYboNX6MLaRpeiaYm8kMIxzYW9zBch+7+SdhvOnv3qcX/LgwCwjmzcfacQu7
+b9NzKZt2U3z4f9aCJ5N2hOB6wdaQ7MlgIRaJ/y08a0+eqBj+AsP6pOiCVuQB6k3M09l+4Nxaxsik
+0HmQ+cafH3oT7ZvJqww87poPCTQo5iouugqJHEcohLo7P/vSVlwV4uxaO1p4wXV8Gd8evA/1RNZd
+f+wzq3F02408iuq3aQ5twDuhNagikZcx0cGRPyHWqjc3bIo8J9Stmi+KnRZSYYBpzGlwVmch5r5U
+2WXAnoZHGmF5WssqjlSLKmOD2gCY6HIB3dsqXAlpewqVKbrmJqZhTBnKaU2itCVbFoDeteSRquPX
+RVBS6GUKtgjJ3CDzBg==
+
+--bnd-p-91-772bc891--

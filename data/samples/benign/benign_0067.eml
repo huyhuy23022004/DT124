@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee27@enron.com
+Subject: Confirm your payment method to avoid suspension [ref M84D953]
+Date: Tue, 14 Mar 2002 01:42:00 -0500
+Message-ID: <benign-67-ce4538ed-bf71-4dd7-9f8a-912824a1aa02@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 09 Mar 2002 02:45:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.27 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-67-86c1ab81"
+
+--bnd-b-67-86c1ab81
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: M84D953
+--bnd-b-67-86c1ab81
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: M84D953</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-67-86c1ab81
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCi5JSUrjzGCWHLUJjEi787f1
+3WTGy7mkJ87lG/aJoKU8Ud7f4P58rB1eTdDUN3C6UaunOWO8dXaj8uJn7xWZDShOUNboQdDI16LR
+/D4PiZze6yeZsYMMaaljb9cr9nVBRRA8h62Be4/IWIJn5KiQCv6tjqndFsg4zByJ+vQU+IdY7qLY
+im3hTTEK3FDC6MaGkfSEOwJh36/ToeqJxNkFD1VFiZLDe8mV+X3dI3PGgJOj71OmTF0+6it+bPxV
+NaakcLzdZgm/bn9RJauJsub6uLX6npj+U/BG3kERvLh0yK+7pxAhLzpX8BFZGU4tThwy2AsTSezW
+lJh4iida+G0rIuYUBoZ9IohdTsWTjBaosq4s+5yi0/BdGWiMFU3GfPy5jv2uXjSYeoessOOmBqCM
+tCg9mdIdDC6WZKVCzKrcoxqyGPIytVtvtuF3XZGj0xkfT3OVx5cMPlk0
+
+--bnd-b-67-86c1ab81--

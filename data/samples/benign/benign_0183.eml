@@ -1,0 +1,40 @@
+From: service@netflix.com
+To: employee23@enron.com
+Subject: Your subscription is about to expire - update payment [ref MA7FD87]
+Date: Tue, 10 Mar 2002 04:47:00 -0500
+Message-ID: <benign-183-63b57d86-27a1-491a-9a03-9f82dada69fe@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 08 Mar 2002 08:37:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 17 Mar 2002 06:22:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.43 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-183-3d2739b3"
+
+--bnd-b-183-3d2739b3
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: MA7FD87
+--bnd-b-183-3d2739b3
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: MA7FD87</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-183-3d2739b3
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCnoORClhZKfN0XEBp3n0a7bL
+SeblfBTlEfT4rwDfH9RseZVyyTCEaHZT143B/2Xp4KaV/+iaX/icCsD/yqllrJNC2k/vsTfGpLmu
+hF88GveDq6Fjk17IneaON5fylSVMQLaqK6EJQDggkT6jMyUt8TortxmUWePKGNTQc2Oo5QVD3c6e
+tkOQG+JeU9AzGT99re5r2leq5bsz8lcfpubLUIP0FfePJhs8cw+iM7t6YTW6+hgEk7bfaJDEU6vo
+nIOzX5pcSaJ0ot6lMzeQnEcZbiO3imD2jEWsBOqnCkbqgfbIhQGVYg8KoUJdflu2PQR7RuZVT2do
+L5czNhZ8whstJblZQ5P+gKzbHz5RDX0Bowhk7mbSX+HdboETDW1+OmrcZgwZmXllLd0Z9aIz+sTB
+/eP5QefmOfvROVs9Vqp0+mG+YfwYm0dRpnoTL7zM+fxzKmttz5ZRJ5xW
+
+--bnd-b-183-3d2739b3--

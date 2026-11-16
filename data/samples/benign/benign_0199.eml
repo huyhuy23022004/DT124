@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee39@enron.com
+Subject: Confirm your payment method to avoid suspension [ref M1F9897]
+Date: Tue, 20 Mar 2002 16:02:00 -0500
+Message-ID: <benign-199-0d5ad4df-0d15-403c-9b00-128c1783487b@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 26 Mar 2002 07:01:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.59 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-199-7235c55"
+
+--bnd-b-199-7235c55
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: M1F9897
+--bnd-b-199-7235c55
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: M1F9897</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-199-7235c55
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCvVrB43vG7mDX9QL137UJz4X
+/0j4KZCQOShNhk3lDzeCsFJMyDRBJdBF5aOKnck97cwilIXygIc6ZVvyycGpKE1GBB4CgvES9fgE
+5K2rU7/VQWnadg4VPBeefIo2GG5brbI6RBirNyX1luePelPgmYow+TI9c1ExqhfIJFEGygtymKwP
+eQurUNug1bCCp0wGciYAD0RAPrlxqV95KqchE+AdZiIlZSc7REcZnWPThrBsKhmgY6C0bdKvcxBn
+lxZaKQROC71ixV2OosNvtgmHETwBDkquj6mKVzHq5fvyZc/vqVZDMj+aQDBnRHW1Nj2mRHmgwiMD
+gLZFwQVR3lvndlJS5QGNGLVtwItQLB3/xnQEWrFGqP/SvSWHqKY2jTf7A0ntckdY3JEWZZgvxX+U
+UORaZG/pA0G0tw6iFn3sb1rjXTbOyNSOQSq30p9xS/N7xLayIIxtxwfF
+
+--bnd-b-199-7235c55--

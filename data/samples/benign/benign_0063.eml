@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee23@enron.com
+Subject: Your subscription is about to expire - update payment [ref MA6F28F]
+Date: Tue, 18 Mar 2002 13:53:00 -0500
+Message-ID: <benign-63-8e245145-cd55-4479-be03-2e792f263d9d@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 16 Mar 2002 22:53:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.23 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-63-a0ad68ef"
+
+--bnd-b-63-a0ad68ef
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: MA6F28F
+--bnd-b-63-a0ad68ef
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: MA6F28F</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-63-a0ad68ef
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqChf82oYu20Px2gr9NCElGZwH
+pVkvogCFHu2AyAKrchylmG9DJNCVuyeReEJws78re75/9BLH7E+NXMAfnR0/zZKygVqyXfglnZKn
+sk3hJMg7Ba8hmh9+PyL4M8kHJmJAhLq4jPXwfG32aK2fetTehVY6hYBeE2IayqzEEHXW9CI/QkvL
+bYwZVahYrqUon0b/pyt0qKH+9JcPpxQ9iL4muFQpRwW6ePbxro+zR+iRJml0VlMUv94aqRWQ8/BI
+XpKZna4PICnagmP09Oqn2mbcCXBdMMQHgrleooqI3LS6T4na6qPoAh9rcR0F2+LG4n0eFzQzJZvC
+S8Kyk7Jac5tHEPVHQYQSnfZkAlENgn1Md7n+ehmrvzgaWRCzFV4Q50QrfGfR5uQINa+GAZ2QHlQ3
++oyWs7QmAZmceIBWSWKuT8GxCqO0QR6m6Sz2QsOx2lNEkfgCH7MCWwfL
+
+--bnd-b-63-a0ad68ef--

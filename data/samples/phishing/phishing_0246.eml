@@ -1,0 +1,48 @@
+From: notice@amazon-security.click
+To: victim6@example.com
+Subject: Lunch on Friday? [ref A4EF016]
+Date: Tue, 17 Mar 2002 19:50:00 -0500
+Message-ID: <phish-246-75a43169-87c9-4deb-a459-5a23e513d923@amazon-security.click>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 03 Mar 2002 15:46:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 18 Mar 2002 00:13:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 11 Mar 2002 18:32:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 21 Mar 2002 18:57:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 18 Mar 2002 10:45:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 07 Mar 2002 15:52:00 -0500
+Return-Path: <notice@amazon-security.click>
+Reply-To: notice@amazon-security.click
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=amazon-security.click; dkim=pass header.d=amazon-security.click; dmarc=pass header.from=amazon-security.click
+Received-SPF: pass (mx.example.com: domain of notice@amazon-security.click designates 192.0.2.26 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=amazon-security.click; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-246-20990046"
+
+--bnd-p-246-20990046
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: A4EF016
+
+Thanks,
+Colleague
+--bnd-p-246-20990046
+Content-Type: application/octet-stream; name="invoice.pdf.exe"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.pdf.exe"
+
+TVqQAP/lIKq6czgpJJWu+dHycPP2D8JxCjdMl8HBnGVmgFTbrdEJyljLfNseZDEdwaTJ684UZj6C
+twC+EVEbakHOFS0u60cO3ftmgzipHreDday9hw6bVV9zawmECJXYXvg7lCgvSXmPIoruQLHtGTro
+rnpHyMW/9r7wu2HjWJ+XvP/d0hzsGAchnKAd0gKy2jWuidaCyXebcshKBNqOCKLaNpnwS/xPiiz+
+xCXxsCdEXuMWVsXZ/wBjYoT7dhtmO+LLDGMvd1KFzhkRI8ogO5pR4yTNqUta8ZfY3R5uq9DTV2f3
+0HEKRK/lBDmefpQFZ6kRsw/y4/cFpu6PIMlSb0mk0cPnelWPXBEHRNbnk+wLegaMfJ8tD6rZLeQa
+AlbUKGp0hryfc952G2B8+jNs+fC+YSMXUlHjKHOBTouzl974nKRmu2s6TpnK5kEWO6DyDcmRFnom
+4XQEvfSuVEcZqQ76Bt27ncBB4rr3bj0trb8qXQnUHWc5IEw59F8wLS0NaFi0Tp87pmjfmDSqae+6
+o3TNa899rc+sU5OsghsUwC0WP42JGVWedS1dmUCUzaG817sh3JbfD0ROxev5QaZCiqdhNJsD57H3
+O/9X843p21Ce4+MkOpcy2GHuI6/XUbgvHmNFhdBlze66EA5NBfTSbeZ/tjq9c5p3jWHtlHaOaF74
+ezdLlWcMfzHZyuhQpgpQTMXYx37BKwwPZK3YbSyqUbNkcucz/UNbQmReOmmDuBtw8BtbyRYpDKMr
+vOGNKFeJXykVjgsnSlYO/oVfo1wtWLljNNSNShaQM4OjgeeCXCO/Pend3fKQp0qzW1SdHKvL6md6
+5HBXDFxrs/LrD5nqxQ==
+
+--bnd-p-246-20990046--

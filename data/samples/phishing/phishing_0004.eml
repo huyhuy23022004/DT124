@@ -1,0 +1,23 @@
+From: notice@microsoft-support.vip
+To: victim4@example.com
+Subject: Weekly trading summary [ref HDDE6C4]
+Date: Tue, 14 Mar 2002 18:24:00 -0500
+Message-ID: <phish-4-aee550d8-c086-4a63-b26b-81967ca493b9@microsoft-support.vip>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 27 Mar 2002 06:42:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 23 Mar 2002 19:18:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 14 Mar 2002 10:04:00 -0500
+Return-Path: <bounce@mail-b23aff1f.top>
+Reply-To: recovery4@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-b23aff1f.top; dkim=fail header.d=microsoft-support.vip; dmarc=fail header.from=microsoft-support.vip
+Received-SPF: fail (mx.example.com: domain of notice@microsoft-support.vip does not designate 198.51.100.24 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=microsoft-support.vip; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the schedule before Friday. No action needed beyond that.
+Reference: HDDE6C4
+
+Thanks,
+Colleague

@@ -1,0 +1,24 @@
+From: notice@usps-tracking.icu
+To: victim39@example.com
+Subject: Team offsite planning [ref H740F73]
+Date: Tue, 22 Mar 2002 07:57:00 -0500
+Message-ID: <phish-99-67400989-25f7-42af-bb85-a730a8889261@usps-tracking.icu>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 01 Mar 2002 13:19:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 18 Mar 2002 20:56:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 03 Mar 2002 22:31:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 08 Mar 2002 08:28:00 -0500
+Return-Path: <bounce@mail-7575c010.top>
+Reply-To: recovery9@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-7575c010.top; dkim=fail header.d=usps-tracking.icu; dmarc=fail header.from=usps-tracking.icu
+Received-SPF: fail (mx.example.com: domain of notice@usps-tracking.icu does not designate 203.0.113.10 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=usps-tracking.icu; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the schedule before Friday. No action needed beyond that.
+Reference: H740F73
+
+Thanks,
+Colleague

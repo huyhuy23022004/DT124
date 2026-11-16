@@ -1,0 +1,41 @@
+From: service@netflix.com
+To: employee7@enron.com
+Subject: Confirm your payment method to avoid suspension [ref M8453D7]
+Date: Tue, 18 Mar 2002 18:49:00 -0500
+Message-ID: <benign-7-6ef9cf9f-5c15-458b-a2b5-5a68e7e952a9@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 12 Mar 2002 11:55:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 17 Mar 2002 20:31:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 18 Mar 2002 17:42:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.17 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-7-433a76e5"
+
+--bnd-b-7-433a76e5
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: M8453D7
+--bnd-b-7-433a76e5
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: M8453D7</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-7-433a76e5
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCri81YMbCTq5MBw29hyqH4VS
+4+cha75HRoChcfeEvbRYVVnlPr/QkHHQxNW4OtkVvrNG8OVZs8o0S26Id7T+wG04jSpXjRWHfawj
+g5EQXu/QxzIqf6QeCS5MMAYWjxx5vR1L4CELyOfhHN0p87VxRs09efIK2PbDlnC8G+/L2DyJISHW
+hPj0wcu3av4EmzLiDE3bOLyNg3Wdc158zKQBK+pY2l38T6l1+SKcgQ4mNSVppTKc1vPW3fHcbsGj
+vxtwYrVRIqTzJVXI1m7lMX1vylPxCJj5OMJySieDiY+UrQ+Ax/Nb6Hu/h2tVqny/KgdvI3EpWUZg
+20BprKbNxN22yQzQd9lBqBKJylfgpOH5gmc3KJyl5/TtuP2zKP30hraGM6s+b5n46uSIbCSr7pza
+Y1wekWViHn7o7UF8VLio6MxLC+4/vep0i76UMDP2l+la/T3FUEyuyKeT
+
+--bnd-b-7-433a76e5--

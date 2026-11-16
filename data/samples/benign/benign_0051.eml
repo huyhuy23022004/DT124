@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee11@enron.com
+Subject: Your subscription is about to expire - update payment [ref M0D3E43]
+Date: Tue, 13 Mar 2002 07:23:00 -0500
+Message-ID: <benign-51-008134d4-9840-496a-8fce-adf597169eb5@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 28 Mar 2002 19:50:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.11 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-51-c4ad92a5"
+
+--bnd-b-51-c4ad92a5
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: M0D3E43
+--bnd-b-51-c4ad92a5
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: M0D3E43</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-51-c4ad92a5
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCgrZpA6DnH/Wz/phC5DcGWP9
+K7JUqF7vs6Hx2FVMSoWtSUVj0PeANzaiVzgW/6kfGMxznQs47OUrtub3WgaUVK6+OMoVQaolKh7o
+Gx+SlxB+huo/slBMC1FGbiF8G/uahBZKSuOTVjXJZxUtN5iKFhSgXu2bZIwtIVLWLvC6J6nxsRCq
+6x4tIborc+onqYuIb/ts4QS0jOvH6nczrPySekRdcKzSS4V6ptzyp1Lu3Yfg/cg9CZK+D4WSWb30
+CLDqfHD3GO6lve2q4ykbFcBYeDBSvsI+lzZhyPJIT7fLhxLCybWz5AUmSjdmPn43HGLa/M6CqnhT
+j3/9QrmwM8w5PMA6EqmxY/3F+AX5qORwJ/8m+Lc7OfAZKJ8FHY1fjgP4UtIq25/m9vEmKm7Hqjd6
+FuG5uXxHSuCI+oMQ26AFI8kIjCumnabZ/N5Szx4E7ewe0qspnur5AgUq
+
+--bnd-b-51-c4ad92a5--

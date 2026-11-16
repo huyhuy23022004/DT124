@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee3@enron.com
+Subject: Please confirm your billing information immediately [ref MFC7463]
+Date: Tue, 04 Mar 2002 22:14:00 -0500
+Message-ID: <benign-83-36662b27-6a52-4392-b3c2-a3c9ccbd346c@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 08 Mar 2002 19:13:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.43 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-83-944690dd"
+
+--bnd-b-83-944690dd
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: MFC7463
+--bnd-b-83-944690dd
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: MFC7463</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-83-944690dd
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqChfWLtxx55KCKIn96nncL9zW
+1zmGqoDx/Ui7Ce8zzxG5uPB+zEQvugqPYGuSuOd3lLHT27tpAvpYT25R/K+t0rPt41dBb3KKEvjy
+qnjn4rYGZMC8vB5MrLlLz5XTac0BGozgy4P9h1KAkt3CtAE4uu5d8J70vmzwh9lX/IPvaCtSRxgA
+pDKgC9NQvWClu+z1rtdU3K9R8OPwP5HbK3AsNFcthRlVQu/Tikak/Dex8ubLeOxtUXXKZn2/zEq0
+dmgifBYrBaM34CUPjzaCLVhG6gYfARq4UAGjaq+8jdC+Iov4a2G4IZRhUow44g/5VifniFSYYk16
+rRYq03HGxqOdGtfam1X2Irq1TK/CPJifClCu17SLM1jNiquEOW+Cm9i7v20xyVp/diIBNJJx/fbA
+C+rhxFsrdGme1g/aLXdMdtULhqpF9NbjFJLUV8qBNES0QHrmBpY/gzzB
+
+--bnd-b-83-944690dd--

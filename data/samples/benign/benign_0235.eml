@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee35@enron.com
+Subject: Confirm your payment method to avoid suspension [ref MECB57B]
+Date: Tue, 13 Mar 2002 23:06:00 -0500
+Message-ID: <benign-235-6b0ef237-9c19-4205-87e3-0ed828932757@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 11 Mar 2002 02:32:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.45 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-235-1abf70e3"
+
+--bnd-b-235-1abf70e3
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: MECB57B
+--bnd-b-235-1abf70e3
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: MECB57B</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-235-1abf70e3
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCmW/KV0qbUqZ9UL0+PFjbpLo
+sB6psjY4p7e/BdYj1trf7hdJ7gSOM5YEpP9DSAHeoJIFOzd9ZGDOqoirv66Km2xT+JOLcX1F0PKP
+gNsYpgt5jrjef0E0+7RkAA9CF03qUDxuonGp1OpcUL4iK6D1Ro9JblZ7ioEbjSdMxmee/mnkSFs0
+epbxZzYACu+BthHr0mGJGbC4aAKcwMJ2lIUmKfuyxOnRG7EuQsjMj9sH8XPpg/E0mh0NFawiUhcZ
+9OSkqAkoAC+pVhFkinkwWUEL/6GUMgPfrMXs4th8KKoScX1+ZpCrIa4h0jCbA57Yws7oHZWDvMjC
+PgNx6ztMP92yd8amqmzaVB2MtMt8CjwqbME21C08hIQNgJyff9XhJFouLyuY/Aobm4Lchnr83nJ0
+XZvi0a+7SziflKKavdtOIgV6ptNKQr/ev+6jtu6h68VSJsURet6wJDOz
+
+--bnd-b-235-1abf70e3--

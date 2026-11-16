@@ -1,0 +1,31 @@
+From: newsletter@bloomberg.com
+To: employee34@enron.com
+Subject: Market briefing and weekly highlights [ref NB430D2]
+Date: Tue, 10 Mar 2002 19:13:00 -0500
+Message-ID: <benign-114-894dd8f3-2da2-4bad-9716-a419c3393695@bloomberg.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 03 Mar 2002 16:11:00 -0500
+Return-Path: <newsletter@bloomberg.com>
+Reply-To: newsletter@bloomberg.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=bloomberg.com; dkim=pass header.d=bloomberg.com; dmarc=pass header.from=bloomberg.com
+Received-SPF: pass (mx.example.com: domain of newsletter@bloomberg.com designates 192.0.2.24 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=bloomberg.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-b-114-995554df"
+
+--bnd-b-114-995554df
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Here is your market briefing.
+Read more:
+https://www.bloomberg.com/markets
+https://www.bloomberg.com/energy
+https://careers.bloomberg.com/openings
+
+Reference: NB430D2
+--bnd-b-114-995554df
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Hello,<br/><br/>Here is your market briefing.<br/>Read more:<br/>https://www.bloomberg.com/markets<br/>https://www.bloomberg.com/energy<br/>https://careers.bloomberg.com/openings<br/><br/>Reference: NB430D2</p><p><a href="https://www.bloomberg.com/portal">Open portal</a></p></body></html>
+--bnd-b-114-995554df--

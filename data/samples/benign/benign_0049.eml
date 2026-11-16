@@ -1,0 +1,21 @@
+From: david.delainey@enron.com
+To: employee9@enron.com
+Subject: Draft contract for review [ref S9E4AE1]
+Date: Tue, 23 Mar 2002 18:49:00 -0500
+Message-ID: <benign-49-f8481df0-d78c-4aea-b3de-139293a253bb@enron.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 17 Mar 2002 00:41:00 -0500
+Return-Path: <david.delainey@enron.com>
+Reply-To: david.delainey@enron.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=enron.com; dkim=pass header.d=enron.com; dmarc=pass header.from=enron.com
+Received-SPF: pass (mx.example.com: domain of david.delainey@enron.com designates 192.0.2.59 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=enron.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: B9E4AE1
+
+Thanks,
+Colleague

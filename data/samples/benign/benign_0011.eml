@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee11@enron.com
+Subject: Please confirm your billing information immediately [ref M623A9B]
+Date: Tue, 19 Mar 2002 23:32:00 -0500
+Message-ID: <benign-11-27788778-0b95-4fe2-a12f-0dd0911aee7b@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 07 Mar 2002 03:37:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.21 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-11-fa174205"
+
+--bnd-b-11-fa174205
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: M623A9B
+--bnd-b-11-fa174205
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: M623A9B</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-11-fa174205
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCuBqszRLGUKR+zev5vMbmZn+
++NCaeuhrW6ruqZCjxsyd0ld8s5kEK5HxN0n9FGX8Q2vlG2Kw7ECAWrar8f30JKtpyF0sqHzrA3b1
+EhDYxIlbFBZvsV3ut4IkWw3u2+nOE99Cf/yNT1K5ksUqhnvT+3NOtNI9R+ID5YjlCLPNq5MnXrTb
+xOEwhTvRnN6kYlQosOMaAEC0uDrLu+HDgX0cF/uRXhOgFX4dLxn6Yq7FhDdLjP+sI1Huz6E4GNBX
+wqjGO7tfzmObyKZlpI65Qdc32NRBgaB0PBuwncRGHAt3+Pv60FohX2p69/GeHkZN3k38sL+OFJed
+6YKfS1TGTnc+4PcRzIwtTUHq6eowiznA74dH2zXj01f7ceYmjmUPWY+T3rRw+w+Tn/E0jPSXs4Ym
+f3McUwgYSU4lGkxfPNVdzgP+DFNcRokpBvg07aCkVjw2oxIe4hSnflM5
+
+--bnd-b-11-fa174205--

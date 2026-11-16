@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee31@enron.com
+Subject: Confirm your payment method to avoid suspension [ref MB7BC6F]
+Date: Tue, 28 Mar 2002 08:28:00 -0500
+Message-ID: <benign-31-3ab5174c-dd28-48fa-a1bb-eca1c2dd093e@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 02 Mar 2002 11:47:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.41 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-31-fdf5472f"
+
+--bnd-b-31-fdf5472f
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: MB7BC6F
+--bnd-b-31-fdf5472f
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: MB7BC6F</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-31-fdf5472f
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCt574tANr6LP+i6/NVHNzmkm
+/GvaVd/V4HSl2LqaD1f/fV68zvaZbTgB5MzmqU/YYK2HaUNyYjdaqo6p89PrwO+QzH/dfZyc45x1
+czZv0GN/60yN/RukJIl0KxgSKkQCElNQXFsPf8AwlWnBdrHHezt8ZZJn60pn5pQHUtR1Zrkui/eK
+WRXQqczrghKlof4xoEqNIEF57D1JdETJ44g7Bexb+UOW2aiwEGon1RQUXqQzySB6+NY4uNLw8fnP
+FQz2XYsnwjo3RtKkUb3t1mO5cTvpJWjkCC0wa3+M/iMzdaMrxbK+uocRGO6RdiqVLRcP+kDr4QMN
+/z5FKTmaEf4pavFFw92KV3fDzCERZzyHApdE4rrusOYWx+TUKAM56+zmQYJcqvRiMtUO5AO89wlU
+gQ11Dk7LIrGQOGWuIAg3UAjISheFt1RmWUiqoFUPQgfDU/fsU+VtrOU4
+
+--bnd-b-31-fdf5472f--

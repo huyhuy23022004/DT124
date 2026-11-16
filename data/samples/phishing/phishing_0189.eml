@@ -1,0 +1,25 @@
+From: notice@coinbase-wallet.top
+To: victim9@example.com
+Subject: Draft contract for review [ref HF4D7AD]
+Date: Tue, 09 Mar 2002 11:39:00 -0500
+Message-ID: <phish-189-d44ee55c-5f1d-464f-bff6-330890de0824@coinbase-wallet.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 11 Mar 2002 14:56:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 13 Mar 2002 03:26:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 26 Mar 2002 15:36:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 12 Mar 2002 13:16:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 09 Mar 2002 23:31:00 -0500
+Return-Path: <bounce@mail-aeb03fab.top>
+Reply-To: recovery9@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-aeb03fab.top; dkim=fail header.d=coinbase-wallet.top; dmarc=fail header.from=coinbase-wallet.top
+Received-SPF: fail (mx.example.com: domain of notice@coinbase-wallet.top does not designate 203.0.113.10 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=coinbase-wallet.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the schedule before Friday. No action needed beyond that.
+Reference: HF4D7AD
+
+Thanks,
+Colleague

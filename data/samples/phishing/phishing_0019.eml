@@ -1,0 +1,23 @@
+From: notice@chase-alerts.online
+To: victim19@example.com
+Subject: Team offsite planning [ref H1E0823]
+Date: Tue, 10 Mar 2002 20:41:00 -0500
+Message-ID: <phish-19-c848e581-07dd-4038-9037-5cdd53a22523@chase-alerts.online>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 23 Mar 2002 00:58:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 27 Mar 2002 03:23:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 01 Mar 2002 21:17:00 -0500
+Return-Path: <bounce@mail-b451c1eb.top>
+Reply-To: recovery9@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-b451c1eb.top; dkim=fail header.d=chase-alerts.online; dmarc=fail header.from=chase-alerts.online
+Received-SPF: fail (mx.example.com: domain of notice@chase-alerts.online does not designate 198.51.100.24 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=chase-alerts.online; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the schedule before Friday. No action needed beyond that.
+Reference: H1E0823
+
+Thanks,
+Colleague

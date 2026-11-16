@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee19@enron.com
+Subject: Please confirm your billing information immediately [ref MC90BCB]
+Date: Tue, 25 Mar 2002 08:29:00 -0500
+Message-ID: <benign-59-e63764c6-56a3-4904-98a3-f4eb15931c9f@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 04 Mar 2002 22:50:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.19 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-59-765b9d33"
+
+--bnd-b-59-765b9d33
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: MC90BCB
+--bnd-b-59-765b9d33
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: MC90BCB</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-59-765b9d33
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCvJS+gYJb7z0B3DF2C2w2XqW
+oTKz17ZPVF0UEPsuE2DGNrNtR/gXhfPyw1JywVffXOwnm7qQkxWQOA761VFs5HGRMQeATwWoBbNd
+jqFdj1YyugORtiL/lm+ArhQTHXwy3sXCJvW4G5UNCKzefoQn+geQsXUKW/KkQTnpO5HXVMNy0IAX
+MM5At0LOS+w1H7DrYD/inpg73eN6c+d1Bhsw/z712TRVaZMZlsril3+Z5Fv1uVXX8LMAq7u1Fopk
+PI93aBUmTkmCBiZ+UIjWCSeT/9x5SVyER3VHc4n7y2kXICNBxR/hGyr1CI5QIQdKy6a1su8T4mr9
+ZxWXq0CG0eL6FZmxsp46FSgicE1BKTyEtOk+b1M8KCQE+Pdhiqy4bKsxz7u4tfI6xSeytBKEfkCk
+OAgpUPj+cpS2p3WOGaNMkF0YZQ15rgy3TvActEFh9eXSbKTqnUfuSaMI
+
+--bnd-b-59-765b9d33--

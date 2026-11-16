@@ -1,0 +1,41 @@
+From: service@netflix.com
+To: employee11@enron.com
+Subject: Confirm your payment method to avoid suspension [ref MB94CE3]
+Date: Tue, 17 Mar 2002 17:13:00 -0500
+Message-ID: <benign-211-4872566d-6e3f-439a-b3e6-7b2ab496a0df@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 06 Mar 2002 14:54:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 09 Mar 2002 03:39:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 15 Mar 2002 19:18:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.21 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-211-bb1294e6"
+
+--bnd-b-211-bb1294e6
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: MB94CE3
+--bnd-b-211-bb1294e6
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: MB94CE3</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-211-bb1294e6
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqChOHC3nscZCVh7nsKaJKkHIQ
+2ZY/oxekM7+zUEAK6sPreZFoZ/TXbMk0s3eV6BbUMwu1lzpOnXprk0/U8ppjC7N0t+GtVkrolKoi
+fOdpgye0R1/VgRuCoIrCIgm2rBNu+xzE/Lv4/Un8JWrqcvSDYwhAHZPhP6yfWNJVPvwOl5Wvcm6s
+oxNGbJN7GMCf0j9Z2n9py+n8IY14RUFoWQG0eqjS+E56JWaSovHGxzegGQ8yNEpJo1UE8sJfjUo7
+rCEQr1dhiJgH6PLUk5XTsPleZcr2cPZ8NW+fW7ErcvWmSnlOk4+aQsMKhNiTzhMMfS6QiSOP0deO
+kgcA7bh9jBV1bAg5+Z1DnLyFeSwj7bapDvuMbXwOweiumw94wSrL3ucnWylWLOTIrkG1iw/n8AOx
+90oDh+lX6ViXxkZfuyhxbI0mXMn71WLukEg32R9JIW7XWOWhplBSlNc+
+
+--bnd-b-211-bb1294e6--

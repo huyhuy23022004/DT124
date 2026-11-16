@@ -1,0 +1,21 @@
+From: john.lavorato@enron.com
+To: employee16@enron.com
+Subject: Updated holiday calendar [ref S229EB8]
+Date: Tue, 17 Mar 2002 21:54:00 -0500
+Message-ID: <benign-56-3fc9b0de-f031-4a8d-85d0-20102ec45d42@enron.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 25 Mar 2002 09:01:00 -0500
+Return-Path: <john.lavorato@enron.com>
+Reply-To: john.lavorato@enron.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=enron.com; dkim=pass header.d=enron.com; dmarc=pass header.from=enron.com
+Received-SPF: pass (mx.example.com: domain of john.lavorato@enron.com designates 192.0.2.16 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=enron.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: B229EB8
+
+Thanks,
+Colleague

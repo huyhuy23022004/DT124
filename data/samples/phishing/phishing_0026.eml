@@ -1,0 +1,47 @@
+From: notice@secure-dhl.xyz
+To: victim26@example.com
+Subject: Lunch on Friday? [ref AA25BFA]
+Date: Tue, 26 Mar 2002 17:10:00 -0500
+Message-ID: <phish-26-236f6fe7-c2f6-48e4-962a-c804ce3989c4@secure-dhl.xyz>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 27 Mar 2002 06:43:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 27 Mar 2002 22:14:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 12 Mar 2002 02:55:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 16 Mar 2002 14:17:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 03 Mar 2002 10:22:00 -0500
+Return-Path: <notice@secure-dhl.xyz>
+Reply-To: notice@secure-dhl.xyz
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=secure-dhl.xyz; dkim=pass header.d=secure-dhl.xyz; dmarc=pass header.from=secure-dhl.xyz
+Received-SPF: pass (mx.example.com: domain of notice@secure-dhl.xyz designates 192.0.2.46 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=secure-dhl.xyz; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-26-dfe9438"
+
+--bnd-p-26-dfe9438
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: AA25BFA
+
+Thanks,
+Colleague
+--bnd-p-26-dfe9438
+Content-Type: application/octet-stream; name="invoice.pdf.exe"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.pdf.exe"
+
+TVqQAIMaKsMaryiIhYblV14HL3tjJIkTOVjAWut/k153tQZV3UIHNiX3EQ9MS8Si0UNbASxVREDJ
+InRhqg0xniVujHAl5XFNMqTaGiI9vUyuqiYM3Zdv9O8yqPrGv3ePI1VSB32/SbF/s+djkmqilUTZ
++6nAFGEnZRec8g/GM8KWOrNdt+zyZIjWi4eE73/hL+Wclt+lqYDxkLZjsPAWo7vO8u6fAZBJKXtT
+ZnL6Ba8II+IIs7KC4KuDFYnhTO3N1izSAyxV1lw3VvkarbG16a8YT633ixfyBbv9btnnzPv8zTOt
+HAnbLxHubfIgXi0SsgrTTSu3FzYN5afgjRStETJbK7V8P40jrLCMASh/NdNIvGKiP7AfAFxb9TS2
+1P/LZOwn+o4AMNyTCO637hzwX2jGttTgn2gETSeAVqXOon68I4WyqGZocGf7WAjNAMU9dhzpKveI
+WNHk2Y6kV1faf8m0OSNsal3eVc1ToD49eugMNDxmyWdV0e6YYh1bGq6kBs7mP/b4bTAAJVujzon7
+zFtPrklLyXJC4Pt2U/7MOl836Qe6a6fs6nE6OXih8lUnpG7Iyg9VaK7nLA+xO3p3/B56if91tHov
+bYT5KPliYj5OZzZ5a85iXrnGsoz76OV2DQ11mSOrYiPXc/7CSHqldQ2hlIs8BhxQmf/9ghyJu2zL
+QBGNukSYDIGmvVRJRtnCqvIIF9lIzB4WmmGkwIb2tFgqBhfp/Lat9DKY5aY/rvzhJhb/rLhncAQR
+POxjZuIJCJ4GWeTYmmG3X1ULpCk5itaqNQf3JaxiLJXTiD67k1Zy23F+8eoMdZB5vINaPpXtp9qo
+lj3Uhmo4RK1kcXHOIQ==
+
+--bnd-p-26-dfe9438--

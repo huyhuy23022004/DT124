@@ -1,0 +1,23 @@
+From: notice@secure-dhl.xyz
+To: victim14@example.com
+Subject: Conference call dial-in details [ref H08A7AE]
+Date: Tue, 24 Mar 2002 06:39:00 -0500
+Message-ID: <phish-14-1e6fb5eb-f7a4-4d08-8123-dac2ea634e08@secure-dhl.xyz>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 12 Mar 2002 23:40:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 15 Mar 2002 14:55:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 18 Mar 2002 03:12:00 -0500
+Return-Path: <bounce@mail-8244a2bd.top>
+Reply-To: recovery4@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-8244a2bd.top; dkim=fail header.d=secure-dhl.xyz; dmarc=fail header.from=secure-dhl.xyz
+Received-SPF: fail (mx.example.com: domain of notice@secure-dhl.xyz does not designate 192.0.2.44 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=secure-dhl.xyz; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the schedule before Friday. No action needed beyond that.
+Reference: H08A7AE
+
+Thanks,
+Colleague

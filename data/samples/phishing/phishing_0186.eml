@@ -1,0 +1,50 @@
+From: notice@amazon-security.click
+To: victim6@example.com
+Subject: Lunch on Friday? [ref A4E6A9A]
+Date: Tue, 21 Mar 2002 09:38:00 -0500
+Message-ID: <phish-186-2b6a7f01-613a-4aff-a60f-01a112f33e55@amazon-security.click>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 28 Mar 2002 01:20:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 21 Mar 2002 00:48:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 27 Mar 2002 02:00:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 01 Mar 2002 09:10:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 21 Mar 2002 07:35:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 25 Mar 2002 00:06:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 22 Mar 2002 18:42:00 -0500
+Received: from relay7 (relay7.example.net [192.0.2.107]) by mx7.example.com; Tue, 17 Mar 2002 00:30:00 -0500
+Return-Path: <notice@amazon-security.click>
+Reply-To: notice@amazon-security.click
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=amazon-security.click; dkim=pass header.d=amazon-security.click; dmarc=pass header.from=amazon-security.click
+Received-SPF: pass (mx.example.com: domain of notice@amazon-security.click designates 192.0.2.46 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=amazon-security.click; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-186-f29f6337"
+
+--bnd-p-186-f29f6337
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: A4E6A9A
+
+Thanks,
+Colleague
+--bnd-p-186-f29f6337
+Content-Type: application/octet-stream; name="invoice.pdf.exe"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.pdf.exe"
+
+TVqQAE1WR4SXSay+BFxcZ7RyhKYIb917l36wXYhgZS31C7ybTtdtXVEgfgtantiq7AiNP8gf7SGK
+KQMb59N5myLq+W+LYc4BeGZvUH4tHfJw9+iHOchPhAdW3Zzmg9ptsf5a8wn7Mlv2CmcSFQt3TR2p
+vGql8aJq62oWxP3TECZecN02BCRsr6yjUInYaTgMym5IAMcn3+UDj6rYdX0AtWmwIhmsDuwCFFxT
+MV50ozeVzbQyKkBkCBvTcc3jLNyIacVM9kaHY7fb6yt5aGwE5VOEJQYujk4ZQJo37G64jsJyjmg2
+OBX2+O8OIfJEl4LwlqSVHz2Jrr7GwbQ3Xm0HDRZnz1WDz4pIkQgjlauGHIPFWOTio2z/qXgY6Cd3
+7g6KwK0MzR1hl+jWp36PrzFYDNvTss2PTX5BkZVVKZYp71nprcd3udASZSNPvRw0ZCT/LtZ1fMMj
+w8bf1Jl5IN+sQ6B1KdJ6auTxKIkg8WkFagPfb1LVaEI7dqxU77qyRxQE9gpJuQpwefHOlj+z1a7O
+9FpJOuaI1OQo1wQH55w/TKe1hxIHn/LWT52GRfVjGiRFbjK98by55O6ph8wHq5lPif2ZMqdkYMn+
+IFxQTAHsFTqENy0gdGxuKeXJgDiz8th3MueFks5VpEvCq3PqPkJ2jGvyeWp5TXWkjla7gGmtQ2XF
+3n84WxMOWZs/1EV6qsrXPnRIJQbuuCXl7tLrAXbXRlhfINg4L2BpxU90UhfcfHbjWdnCGMyV+yjs
+FX0Z4gx/uNTeRU0AFVaZpwzGOdpKNKJ+JjZkADQTfuZ4Z2qdOnkyKRqWPjDN03Vll+eL11tZVd2+
+mG5kf/qlFhMPxbg4zg==
+
+--bnd-p-186-f29f6337--

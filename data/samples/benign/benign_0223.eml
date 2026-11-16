@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee23@enron.com
+Subject: Confirm your payment method to avoid suspension [ref M53012F]
+Date: Tue, 25 Mar 2002 13:18:00 -0500
+Message-ID: <benign-223-2532bd75-fe2f-47d6-a044-c337ccacb2c3@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 27 Mar 2002 01:23:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.33 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-223-cdd6fd"
+
+--bnd-b-223-cdd6fd
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: M53012F
+--bnd-b-223-cdd6fd
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: M53012F</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-223-cdd6fd
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCpK32OPWpreP0JEGw+bx8IEz
+x3KDcV1PgeILdzvpqmTPQguhg3s8NihljeKY8rYHamDmA9IoD8kC7fvGqoewvcMcsP6FXQK6kz8x
+J7SQSRb8e8MhIC7+aaaJ0zhQ9+Y9SFXrNLXKEVDDBrnUPTRoM6r6xhijGiLiq/26oguOW4X0pOjg
+8GZKoOtstsy1GSfCRafoyIO/gFjeuzipn8P2R2xvrOTAEoi+nmANxnr8bEPms37BQBo7081Fmy4X
+xWr2a2zfSLGNrtUyTufWIDNwjjSDFZUWS8GvhG2Lljy2YSx0OOGh52AbEPf7DRIkrbb3o7bn6t0X
+paxRaFVxnxRoNa1ksnFfjP9Zqmo72XRbEeQM1VfI2mCM+RA0YfrEuCRHZXMqAXqBCGW6ad4wWnQi
+UDtCA6sSNsPag9Zd9+YJPvG+VQVDL9X9itMfx8MzJta13Njowo/c91c0
+
+--bnd-b-223-cdd6fd--

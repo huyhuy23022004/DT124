@@ -1,0 +1,16 @@
+{
+  "seeds": [42, 100, 2026],
+  "folds": 5,
+  "benignCount": 250,
+  "phishingCount": 250,
+  "generatorSeed": 20260101,
+  "groupHoldoutFraction": 0.3,
+  "maxEnronFiles": 0,
+  "samplesDir": "data/samples",
+  "enronDir": "data/raw/enron",
+  "phishingDir": "data/raw/phishing_eml",
+  "artifactsDir": "artifacts",
+  "rulesPath": "rules/safe_indicators.yar",
+  "manifestPath": "data/manifests/checksums_sha256.txt",
+  "regenerateSamples": true
+}

@@ -1,0 +1,22 @@
+From: john.lavorato@enron.com
+To: employee36@enron.com
+Subject: Updated holiday calendar [ref S242F2C]
+Date: Tue, 02 Mar 2002 16:27:00 -0500
+Message-ID: <benign-236-8ef28dd2-642b-4a85-8bfc-bb9968e55477@enron.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 11 Mar 2002 04:06:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 28 Mar 2002 03:24:00 -0500
+Return-Path: <john.lavorato@enron.com>
+Reply-To: john.lavorato@enron.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=enron.com; dkim=pass header.d=enron.com; dmarc=pass header.from=enron.com
+Received-SPF: pass (mx.example.com: domain of john.lavorato@enron.com designates 192.0.2.46 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=enron.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: B242F2C
+
+Thanks,
+Colleague

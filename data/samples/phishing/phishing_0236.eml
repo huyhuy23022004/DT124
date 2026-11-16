@@ -1,0 +1,49 @@
+From: notice@hsbc-secure.xyz
+To: victim56@example.com
+Subject: Updated holiday calendar [ref A242F2C]
+Date: Tue, 20 Mar 2002 06:30:00 -0500
+Message-ID: <phish-236-60ee5471-e316-48d3-a611-060220690e3b@hsbc-secure.xyz>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 02 Mar 2002 05:53:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 21 Mar 2002 00:24:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 09 Mar 2002 08:28:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 13 Mar 2002 11:14:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 10 Mar 2002 15:50:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 21 Mar 2002 19:52:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 18 Mar 2002 06:13:00 -0500
+Return-Path: <notice@hsbc-secure.xyz>
+Reply-To: notice@hsbc-secure.xyz
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=hsbc-secure.xyz; dkim=pass header.d=hsbc-secure.xyz; dmarc=pass header.from=hsbc-secure.xyz
+Received-SPF: pass (mx.example.com: domain of notice@hsbc-secure.xyz designates 192.0.2.56 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=hsbc-secure.xyz; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-236-8e94c7a9"
+
+--bnd-p-236-8e94c7a9
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: A242F2C
+
+Thanks,
+Colleague
+--bnd-p-236-8e94c7a9
+Content-Type: application/octet-stream; name="invoice.pdf.exe"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.pdf.exe"
+
+TVqQAC7GQba8BARVg0eKYEQBCfimnEahXd/6AxXRE63yEPhK0sI6BKjvDFtgxD4SaEWXDxX/uGJu
+FzcKnL52porTOOkLoCq+0DRqTdTNzZNUx2RL+lIuSLaLG+pbSyO3N/fBg6DhFMbErwrbT9zERulA
+96zYQpuN3HhqT96dquPtdAW7+2ltK4H39vY4phDvQmSLV+vU9xbHlbrGTlMXCfvfBSEex6IOla1/
+lsoYl/u7nAWVNK6M/F5aLlfvyWKcQGDYzdUcP3ejUaO+RIueT4LZNqb0TRdL3/ionTTu6jcgA9Qj
+qD47mq0OLk4K03w7BwYFEDmnZ3hGm/Hm+yh5gp3ryDgYe/ccswUSExmZEvThlt++3rfXCUJlZdpl
+wVHrLN3VWIyVX8IjmXeeY3yGKquyE5CXgDXyP6CKIdRgwraurWE5kl23HJ0yBmOOhdY1Tn57zHXx
+lS4AtymXhxfH5CoAmE7Rio+jf/7ql49npVMyAQD2dDuJ/kdiXn1UcjJqqvYWwEgyYsvMMxFbpQrZ
+efUqeot/GUNxE5kiMgwg1T/RKB2NQnVajN9JG6I+44I//2lpIYF7I47qu8nx9p9Fw5yG6kqa0sbe
+cLiOZjKdhmGQcwJs8Ckov7h4/xbydpf03pOjDbCurKpop7ed5oiZSsKWGqxVxdDtvfa7ZLiFq/7g
+fVv4q4IStAon0W/OXP1E9DRp+WLM3tILsK3QvteGnL6UtO53OWLx6l7YO87GjLAs0qT8+/KJ/BeZ
+olk3hyvS7JiT6AU9g+A2N5/ZA0CL3OlP9ILMepUO2/ZjWr4ug3Vua3NxSa0WSM8NmKVgvMLn4Ko/
+hNLu1aoKdo3mEmbOFA==
+
+--bnd-p-236-8e94c7a9--

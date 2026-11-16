@@ -1,0 +1,23 @@
+From: kay.mann@enron.com
+To: employee20@enron.com
+Subject: Meeting notes for the west power desk [ref SAC941C]
+Date: Tue, 01 Mar 2002 10:52:00 -0500
+Message-ID: <benign-220-ba69106f-6451-4592-9eb9-99566edf59f7@enron.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 05 Mar 2002 01:55:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 22 Mar 2002 23:25:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 15 Mar 2002 17:12:00 -0500
+Return-Path: <kay.mann@enron.com>
+Reply-To: kay.mann@enron.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=enron.com; dkim=pass header.d=enron.com; dmarc=pass header.from=enron.com
+Received-SPF: pass (mx.example.com: domain of kay.mann@enron.com designates 192.0.2.30 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=enron.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: BAC941C
+
+Thanks,
+Colleague

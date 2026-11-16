@@ -1,0 +1,32 @@
+From: newsletter@bloomberg.com
+To: employee14@enron.com
+Subject: Market briefing and weekly highlights [ref N5EAEFE]
+Date: Tue, 28 Mar 2002 03:37:00 -0500
+Message-ID: <benign-94-f39aab69-2fdc-4882-91b5-098cec0515b5@bloomberg.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 18 Mar 2002 04:16:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 27 Mar 2002 14:46:00 -0500
+Return-Path: <newsletter@bloomberg.com>
+Reply-To: newsletter@bloomberg.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=bloomberg.com; dkim=pass header.d=bloomberg.com; dmarc=pass header.from=bloomberg.com
+Received-SPF: pass (mx.example.com: domain of newsletter@bloomberg.com designates 192.0.2.54 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=bloomberg.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-b-94-ef7ed377"
+
+--bnd-b-94-ef7ed377
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Here is your market briefing.
+Read more:
+https://www.bloomberg.com/markets
+https://www.bloomberg.com/energy
+https://careers.bloomberg.com/openings
+
+Reference: N5EAEFE
+--bnd-b-94-ef7ed377
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Hello,<br/><br/>Here is your market briefing.<br/>Read more:<br/>https://www.bloomberg.com/markets<br/>https://www.bloomberg.com/energy<br/>https://careers.bloomberg.com/openings<br/><br/>Reference: N5EAEFE</p><p><a href="https://www.bloomberg.com/portal">Open portal</a></p></body></html>
+--bnd-b-94-ef7ed377--

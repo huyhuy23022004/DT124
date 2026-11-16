@@ -1,0 +1,46 @@
+From: notice@hsbc-secure.xyz
+To: victim56@example.com
+Subject: Updated holiday calendar [ref A232434]
+Date: Tue, 19 Mar 2002 14:04:00 -0500
+Message-ID: <phish-116-8aa98263-ea41-4e1f-827f-8369ef9608ea@hsbc-secure.xyz>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 12 Mar 2002 09:47:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 08 Mar 2002 19:34:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 21 Mar 2002 10:06:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 16 Mar 2002 22:05:00 -0500
+Return-Path: <notice@hsbc-secure.xyz>
+Reply-To: notice@hsbc-secure.xyz
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=hsbc-secure.xyz; dkim=pass header.d=hsbc-secure.xyz; dmarc=pass header.from=hsbc-secure.xyz
+Received-SPF: pass (mx.example.com: domain of notice@hsbc-secure.xyz designates 192.0.2.56 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=hsbc-secure.xyz; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-116-ca6bbd5e"
+
+--bnd-p-116-ca6bbd5e
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: A232434
+
+Thanks,
+Colleague
+--bnd-p-116-ca6bbd5e
+Content-Type: application/octet-stream; name="invoice.pdf.exe"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.pdf.exe"
+
+TVqQAOy4WicVDRryELF4A8DF8pdLRXLSDm7/CrQaXBSFqOgUUcMZMqX/bOCqoXEH8RgK3gbMGxzJ
+oeS4OJZ9z3rQ/m1Y0i+kDSVyKF2zIU7NTb9gd/zG2x5byyk6HHl+SNnhezUj1EgKBn0uQZir0F4o
+Tjvx6u2Jl9ynp9yYrgQ5aRXmBSw46BkwxnCt5CK3OvP0SOAoFtSK+IH7nfoLWyLvq44vLIqJ2EaT
+QEl8tmYVpFbkx6uvUqBlM8icQibjrVFRzCv/0DvXNKNYmODOs+KyYE/pOvcRDm60Bpe3dStxliSA
+JMz9Blj8ftqQ7YnaBDIcAAnrbnMAfoYjK806qVsNrVwB8tlfh6IeN6aHKp4Urv+P2S9N67UHuEjb
+Nozs8HKh+UjPKr6YsGx06LLqKLEyPJN26IUGy03/SFCeEcDVj9ova8mxwWDfF1mKmLUT6iJ7EZsO
+z0k+gnCrXp3hxy3aADPsLWFp2lVIBIH5TTOxRJ7t5WQ9a5TQSmlMSw8JSZF2+OtWbusfB6xhlItf
+jOSK8Ny+r9Vdv6tdv9oGWfko0vtZjqCak0yyVwV5yPIBZRtWXWkKu6stE42xheiJakczgITOrVM9
+2/T/82mm0DjEFPM/rrZcrYgq566VYvcAQ1DAKiRxEenzAxO+ur5JM/aKyBuqCCgWqaXW2WWNtZLO
+3Ar4mJKK2xiAKZn7XOgapErRZjjXUVE+oet3aqTtA22xxdOujR7U4+RGxwsGjsKJzxB6h/kWL55N
+wwOEJdgNlVIvVbcuHeIXDn7uuuN6YVcBGylEVxd5SvqFZAos74SKe9YUANNKQrFwatZllq/8vyKg
+VvP/LMep/3POEm+5iw==
+
+--bnd-p-116-ca6bbd5e--

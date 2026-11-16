@@ -1,0 +1,48 @@
+From: notice@microsoft-support.vip
+To: victim16@example.com
+Subject: Updated holiday calendar [ref A792B84]
+Date: Tue, 25 Mar 2002 11:30:00 -0500
+Message-ID: <phish-196-8ba054c4-7ef9-463b-9c50-08d17632b5ee@microsoft-support.vip>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 24 Mar 2002 18:20:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 05 Mar 2002 14:16:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 20 Mar 2002 02:10:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 17 Mar 2002 16:42:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 06 Mar 2002 21:36:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 27 Mar 2002 21:38:00 -0500
+Return-Path: <notice@microsoft-support.vip>
+Reply-To: notice@microsoft-support.vip
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=microsoft-support.vip; dkim=pass header.d=microsoft-support.vip; dmarc=pass header.from=microsoft-support.vip
+Received-SPF: pass (mx.example.com: domain of notice@microsoft-support.vip designates 192.0.2.56 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=microsoft-support.vip; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-196-8a1a034f"
+
+--bnd-p-196-8a1a034f
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: A792B84
+
+Thanks,
+Colleague
+--bnd-p-196-8a1a034f
+Content-Type: application/octet-stream; name="invoice.pdf.exe"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.pdf.exe"
+
+TVqQACyH8mxRinsdsiEYu1uKwRp9Luij8Ib0s5MIShrsXJQGm10YQJW1QdGZV47u6UiKWVPJyneP
+yaW4txHGDFy2rtmL8L/F/fHYaC0XDvymMYxslxr/Ac+oRP7oPWWs4YWn2bvLRI59iDX+MMsfq2Sb
+qNkfZBjeX0IQjxe4ftmAmXwc9tzv0+XyBgmQNLqcz0b4OLvV1qMmU8lLHF9HBbvEpZ6peIpbjJ8/
+smI3PWz9GNUZ18n6HnkcPcJCFQ6ARAoob6h2krY+mbzEGVoMxFJjEiNzTuEmx2Yh7lIGXPYtjx9x
+ic9fRMSFeNeCcFfkNR3xBwiIbYk2IcpWm1aAnz+/PRUiS+KjsIPlB//uhxwRnFCtwU2vha8fQBF/
+wQOnzjrGnK3CauDRZtbnhm7bwjBIkimjneBg3XIhMgSjiE2u+YFjBWXqCdfPhgfc46gX3tbA9gli
+JI2a3usZ3vKPMLErK6qOj1OKrqI5p5X0xaBicV/3C/yN6lTwESZ9n6hXM1rUbDOwb+0EVe8RUwed
+fEdrgrpAG/SS1it1UaPpiHBCQcayDbjGX4SkuhbIenAoduebgWRnDsQS2rEu8RuQusrqVvIrmRWW
+QRojKfWGNTafAneSXXFWYFH6v8z4OS4vXoI67PJOvYbO+zOtMFOphHnyAkgiezZ2Vbx3/1EUvFwH
+a82UqvTNa5EIidpntQpZSK84cAN8AG/xM2qOLVQzc64N13umbQetu6cR0SIa+AdEithh1AQrRI6M
+k8js6FYMj+JFP4gVeBV439RQzCD6cj5PSmNzYF5VI3Vg9zJkwCBCQGCANfwS1c+3Woy2WzcaKFhB
+0zeOvkUZE5RBANFXuQ==
+
+--bnd-p-196-8a1a034f--

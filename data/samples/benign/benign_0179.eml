@@ -1,0 +1,41 @@
+From: service@netflix.com
+To: employee19@enron.com
+Subject: Please confirm your billing information immediately [ref MCA16C3]
+Date: Tue, 24 Mar 2002 18:45:00 -0500
+Message-ID: <benign-179-b17df785-cc57-4010-9f37-42b94923634a@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 15 Mar 2002 19:40:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 07 Mar 2002 06:21:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 04 Mar 2002 21:11:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.39 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-179-32471b11"
+
+--bnd-b-179-32471b11
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: MCA16C3
+--bnd-b-179-32471b11
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: MCA16C3</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-179-32471b11
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCvdZ2fIshVhFYN36hyAi8m7u
++q24TpkntF6WVyPvxqwgBEsMrNet4yo1OCChCN5hz4qBR6QwCpBgFYP0yOuyjAogAP1RrNBhFdKF
+g4YURuSwazO8K09ezxBOrH8SyBMnrz4sZrgpB7Z+k0P4ih3rGcIDSHIUz+rNqQum2jBeD+Vsa2lg
+5NgLK0mG73yAaKL+gr+O70J7Cbbz8PtyyJwCJe9TzPIuof6oY/bsKv2Eq0OE7vjTjhtphKH3mufu
+RLMqBzOGF+bGRzFO9pQ7IX0Fd9VYaoI+w5cKiXakBOQ26Ce+tP6m1yIDHzN17JBt53OU+vhD9beU
+avqf4iF9G9T87Fgd7q8wD36U3VVwURo4s2UHUyw7y3C4ZyfaDggM/NqpoXsBw2GKSK08DIkKgfxm
+T0oBqSg1K95JmfVSMkoS7VQYH3KmWAlR79pBH+oGYCjvFNDksLunmXXH
+
+--bnd-b-179-32471b11--

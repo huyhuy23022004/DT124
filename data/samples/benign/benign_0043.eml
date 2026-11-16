@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee3@enron.com
+Subject: Confirm your payment method to avoid suspension [ref M5170BB]
+Date: Tue, 26 Mar 2002 12:37:00 -0500
+Message-ID: <benign-43-a4ba1f85-a67f-4fbb-b3fc-ed50d3b17377@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 08 Mar 2002 02:56:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.53 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-43-8c65f699"
+
+--bnd-b-43-8c65f699
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: M5170BB
+--bnd-b-43-8c65f699
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: M5170BB</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-43-8c65f699
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqChnrq+trROO02xPt5MJz5Mze
+oL7vxwgcmSPImdi1KJFD7WgDCHMBeoGBy7+HHtRQXnzepzEGdli0DOginEdHMU6LfDgBiNd0vWso
+USZKGO0WLnkET2HI0RuoY77j1gcMhkerrpVuTf5/ZQkIip7qBo8N1ME0b/q2yKCixlQvOfw4FQgc
+2Fl5MRc+yHEnYJz3t8QBiJ85v5SS77E2JbQHymNfrNbEtMxezT+G04FBTPyNGTJH6VjPwOTYGcjP
+Cy5pe95GLFM/BDa1SLtzRdpacAm1jP2Xtqbe1M9C+p3/0+Kp9UtLpgHUUR8Tg/5+krMMzbLWVzBT
+NQYNtc6GsBRchvsSSjK1k8CLHxstp3qEZKkBdJSg46kAAxEGe8DnVefZGZnlN/85osusqI5s2tIK
++PI++G5yKDUxWmcHZS/UzLvny9+M0FNpl9x/kA5G7oi34RM0r+I8LHbM
+
+--bnd-b-43-8c65f699--

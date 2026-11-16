@@ -1,0 +1,23 @@
+From: notice@pay-ap.top
+To: victim24@example.com
+Subject: Weekly trading summary [ref H336898]
+Date: Tue, 20 Mar 2002 00:01:00 -0500
+Message-ID: <phish-24-39418557-ca52-475f-9cf0-4c1d7eefe0bc@pay-ap.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 20 Mar 2002 10:31:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 20 Mar 2002 03:15:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 22 Mar 2002 23:35:00 -0500
+Return-Path: <bounce@mail-1fbd33db.top>
+Reply-To: recovery4@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-1fbd33db.top; dkim=fail header.d=pay-ap.top; dmarc=fail header.from=pay-ap.top
+Received-SPF: fail (mx.example.com: domain of notice@pay-ap.top does not designate 203.0.113.10 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=pay-ap.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the schedule before Friday. No action needed beyond that.
+Reference: H336898
+
+Thanks,
+Colleague

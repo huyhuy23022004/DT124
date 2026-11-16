@@ -1,0 +1,23 @@
+From: sally.beck@enron.com
+To: employee33@enron.com
+Subject: Quarterly compliance reminder [ref S26AFD1]
+Date: Tue, 08 Mar 2002 20:32:00 -0500
+Message-ID: <benign-33-a7e8b5d9-37d7-40f3-9322-d771bfb76850@enron.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 16 Mar 2002 17:56:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 13 Mar 2002 06:46:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 25 Mar 2002 04:04:00 -0500
+Return-Path: <sally.beck@enron.com>
+Reply-To: sally.beck@enron.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=enron.com; dkim=pass header.d=enron.com; dmarc=pass header.from=enron.com
+Received-SPF: pass (mx.example.com: domain of sally.beck@enron.com designates 192.0.2.43 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=enron.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: B26AFD1
+
+Thanks,
+Colleague

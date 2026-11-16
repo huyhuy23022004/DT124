@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee7@enron.com
+Subject: Your subscription is about to expire - update payment [ref MDA5B27]
+Date: Tue, 27 Mar 2002 17:04:00 -0500
+Message-ID: <benign-87-bbc4ac6b-bad9-428a-9040-416a6984d812@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 23 Mar 2002 09:38:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.47 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-87-d562a945"
+
+--bnd-b-87-d562a945
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: MDA5B27
+--bnd-b-87-d562a945
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: MDA5B27</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-87-d562a945
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCsr2eP4WjitTkRp941P/TA/B
+ECEQuuV/CuIbcv9YtIccjemgFpinZ/YmXeTwdocIi490XAGnDyBsiK3koMZJN2o4sGSUbW93Bf8O
+uiq2Q59DNQkr9nCRr9vi0zlsqnK5kuZy4ZO7Qu9NSolxR0HHHSt7dbOU0sC9tW4Il/4eUkMwkqxp
+o5wgbcU+SleTYHVcVUlkP9QR+YV+79TjBkmb45H0X9/SuMt/7knaecinEO2HC+jbtD78cyXcazLa
+BONgOfm9JhrBbnkdbUFHYbT8jdXagkF3jPjodEwXOaxH2+KyULc6n1dDtjhWi23m7pCkwwZnrQde
+5p0u1/s4Bt/v6ySGDVlMz7bJTaDhba3JFVR1b2sI6m2gOk7onuD84bodNz8/0UNhkBec3LJ4nxPg
+mmA1IfZRmDSb9gTSvZRq5kq//vborTWbZIy9aQNnvg7sDjqxNsPYAj6A
+
+--bnd-b-87-d562a945--

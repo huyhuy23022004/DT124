@@ -1,0 +1,16 @@
+target/
+artifacts/
+data/raw/
+data/processed/
+data/manifests/
+.idea/
+*.iml
+.vscode/
+*.log
+.DS_Store
+
+# Source paper and reference decks are kept locally, not committed.
+tyag020.pdf
+Slide/DT135_*
+Slide/DT124_Bao_Cao_Giua_Ky_v2.pptx
+Slide/DT124_Bao_Cao_Giua_Ky_BuiNgocHuy.pptx

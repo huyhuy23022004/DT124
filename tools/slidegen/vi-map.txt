@@ -1,0 +1,212 @@
+BAO CAO GIUA KY  ·  DE TAI 124  ·  JAVA / MAVEN|||BÁO CÁO GIỮA KỲ  ·  ĐỀ TÀI 124  ·  JAVA / MAVEN
+Phan tich Email Phishing Offline tu tep .eml|||Phân tích Email Phishing Offline từ tệp .eml
+Tai lap ket qua bai bao tyag020 (RQ1-RQ4) + mo hinh hoc may cai tien|||Tái lập kết quả bài báo tyag020 (RQ1–RQ4) + mô hình học máy cải tiến
+Sinh vien: Bui Ngoc Huy   |   GVHD: Pham Trong Huynh   |   11/2026|||Sinh viên: Bùi Ngọc Huy   |   GVHD: Phạm Trọng Huynh   |   11/2026
+NOI DUNG TRINH BAY|||NỘI DUNG TRÌNH BÀY
+Lo trinh bao cao giua ky|||Lộ trình báo cáo giữa kỳ
+Tong quan bai bao & muc tieu de tai|||Tổng quan bài báo & mục tiêu đề tài
+Tai lap RQ1 - RQ4: Paper vs Offline proxy|||Tái lập RQ1–RQ4: Paper vs Offline proxy
+Chuyen hoa offline: 4 module Java|||Chuyển hoá offline: 4 module Java
+Du lieu, provenance & manifest|||Dữ liệu, provenance & manifest
+Mo hinh cai tien & danh gia dinh luong|||Mô hình cải tiến & đánh giá định lượng
+Ket luan, han che & huong phat trien|||Kết luận, hạn chế & hướng phát triển
+slide 3 - 4|||slide 3–4
+slide 5 - 6|||slide 5–6
+slide 7 - 8|||slide 7–8
+slide 10 - 15|||slide 10–15
+slide 16 - 17|||slide 16–17
+1. TONG QUAN BAI BAO & MUC TIEU|||1. TỔNG QUAN BÀI BÁO & MỤC TIÊU
+Agarwal & Vasek (2026) - nghien cuu 15.126 phishing NRD trong 11 thang|||Agarwal & Vasek (2026) – nghiên cứu 15.126 phishing NRD trong 11 tháng
+BAI BAO GOC|||BÀI BÁO GỐC
+Nguon du lieu: WHOIS, Passive DNS,|||Nguồn dữ liệu: WHOIS, Passive DNS,
+Pham vi: 15.126 domain phishing moi|||Phạm vi: 15.126 domain phishing mới
+  dang ky trong 11 thang|||  đăng ký trong 11 tháng
+4 cau hoi nghien cuu (RQ1 - RQ4)|||4 câu hỏi nghiên cứu (RQ1–RQ4)
+Diem manh: quy mo lon, da nguon|||Điểm mạnh: quy mô lớn, đa nguồn
+Diem yeu: phu thuoc truy van online|||Điểm yếu: phụ thuộc truy vấn online
+MUC TIEU DE TAI 124|||MỤC TIÊU ĐỀ TÀI 124
+Dich bai bao va tai lap RQ1 - RQ4 tren|||Dịch bài báo và tái lập RQ1–RQ4 trên
+  phan du lieu co the suy ra tu tep .eml|||  phần dữ liệu có thể suy ra từ tệp .eml
+Dung lai mo hinh du lieu 20+ truong|||Dựng lại mô hình dữ liệu 20+ trường
+Xay pipeline Java offline, zero-execution|||Xây pipeline Java offline, zero-execution
+Cai tien mo hinh ML vuot baseline|||Cải tiến mô hình ML vượt baseline
+  (muc tieu diem 9 - 10)|||  (mục tiêu điểm 9–10)
+Ha tang, TLS, Cloudflare, free-hosting|||Hạ tầng, TLS, Cloudflare, free-hosting
+Thuong hieu, hyphen, TLD bi lam dung|||Thương hiệu, hyphen, TLD bị lạm dụng
+Vong doi domain, tai dang ky|||Vòng đời domain, tái đăng ký
+Blind spot subdomain cua GSB|||Blind spot subdomain của GSB
+1. PHUONG PHAP & PIPELINE CUA BAI BAO|||1. PHƯƠNG PHÁP & PIPELINE CỦA BÀI BÁO
+Tu thu thap NRD den lam giau da nguon, roi tra loi 4 RQ|||Từ thu thập NRD đến làm giàu đa nguồn, rồi trả lời 4 RQ
+Thu thap NRD\n15.126 domain\nphishing moi dang ky|||Thu thập NRD\n15.126 domain\nphishing mới đăng ký
+Lam giau\nWHOIS / Passive DNS\n/ CT logs / ASN / GSB|||Làm giàu\nWHOIS / Passive DNS\n/ CT logs / ASN / GSB
+Phan tich\nTLS, Cloudflare,\nfree hosting, hyphen|||Phân tích\nTLS, Cloudflare,\nfree hosting, hyphen
+4 RQ\nHa tang - Thuong hieu\n- Vong doi - GSB|||4 RQ\nHạ tầng – Thương hiệu\n– Vòng đời – GSB
+DIEM CHOT: BAI BAO DUNG TRUY VAN ONLINE|||ĐIỂM CHỐT: BÀI BÁO DÙNG TRUY VẤN ONLINE
+WHOIS / Passive DNS / CT logs / GSB deu la truy van online. De tai 124 thay bang dac trung tinh\n|||WHOIS / Passive DNS / CT logs / GSB đều là truy vấn online. Đề tài 124 thay bằng đặc trưng tĩnh\n
+trich xuat truc tiep tu header, URL va tep dinh kem cua .eml -> 100% offline, khong thuc thi ma.|||trích xuất trực tiếp từ header, URL và tệp đính kèm của .eml → 100% offline, không thực thi mã.
+ANH XA SANG DE TAI 124|||ÁNH XẠ SANG ĐỀ TÀI 124
+Thong tin ha tang  ->  SPF/DKIM/DMARC, From/Return-Path, TLS-URL proxy\n|||Thông tin hạ tầng  →  SPF/DKIM/DMARC, From/Return-Path, TLS-URL proxy\n
+Thong tin thuong hieu  ->  brand + hyphen, TLD, free-hosting, do sau subdomain\n|||Thông tin thương hiệu  →  brand + hyphen, TLD, free-hosting, độ sâu subdomain\n
+Thong tin noi dung  ->  keyword phishing, so URL, magic-byte mismatch, 8 luat YARA-style|||Thông tin nội dung  →  keyword phishing, số URL, magic-byte mismatch, 8 luật YARA-style
+2. MO HINH DU LIEU TAI LAP|||2. MÔ HÌNH DỮ LIỆU TÁI LẬP
+PaperDomainRecord: 20+ truong, moi nhom phuc vu mot RQ|||PaperDomainRecord: 20+ trường, mỗi nhóm phục vụ một RQ
+Nhom truong|||Nhóm trường
+Vi du|||Ví dụ
+Phuc vu|||Phục vụ
+Dinh danh & nguon|||Định danh & nguồn
+Ha tang|||Hạ tầng
+Thuong hieu|||Thương hiệu
+Vong doi|||Vòng đời
+Phan giai|||Phân giải
+Noi dung email|||Nội dung email
+VI SAO PHAI DUNG LAI MO HINH DU LIEU?|||VÌ SAO PHẢI DỰNG LẠI MÔ HÌNH DỮ LIỆU?
+Bai bao mo ta 20+ truong nhung khong phat hanh dataset. Chung toi dung lai schema va sinh du lieu\n|||Bài báo mô tả 20+ trường nhưng không phát hành dataset. Chúng tôi dựng lại schema và sinh dữ liệu\n
+co kiem soat, de moi truong deu co the do duoc offline. Nho vay phan tai lap la trung thuc:\n|||có kiểm soát, để mọi trường đều có thể đo được offline. Nhờ vậy phần tái lập là trung thực:\n
+truong nao can truy van online (WHOIS lich su, CT logs, GSB) duoc danh dau n/a thay vi doan bua.|||trường nào cần truy vấn online (WHOIS lịch sử, CT logs, GSB) được đánh dấu n/a thay vì đoán bừa.
+2. DOI CHIEU TAI LAP RQ1 - RQ4|||2. ĐỐI CHIẾU TÁI LẬP RQ1–RQ4
+Chi bao cao phan suy ra duoc offline; truong can online duoc danh dau n/a|||Chỉ báo cáo phần suy ra được offline; trường cần online được đánh dấu n/a
+Chi so|||Chỉ số
+Danh gia|||Đánh giá
+15.126 (11 thang)|||15.126 (11 tháng)
+TLS hop le|||TLS hợp lệ
+khac dinh nghia|||khác định nghĩa
+n/a (thieu CT logs)|||n/a (thiếu CT logs)
+n/a (thieu DNS/ASN)|||n/a (thiếu DNS/ASN)
+dinh tinh|||định tính
+tai lap|||tái lập
+Vong doi TB|||Vòng đời TB
+8.6 ngay (vs 21h)|||8.6 ngày (vs 21h)
+n/a (can DNS doc thoi gian)|||n/a (cần DNS dọc thời gian)
+Tai dang ky|||Tái đăng ký
+n/a (can WHOIS lich su)|||n/a (cần WHOIS lịch sử)
+Luu y hoc thuat: cac chi so n/a can WHOIS lich su / CT logs / GSB - deu la truy van online, bi cam boi\n|||Lưu ý học thuật: các chỉ số n/a cần WHOIS lịch sử / CT logs / GSB – đều là truy vấn online, bị cấm bởi\n
+yeu cau offline. Chung toi khong suy dien thay the; cac proxy o tren chi tinh tu noi dung .eml.|||yêu cầu offline. Chúng tôi không suy diễn thay thế; các proxy ở trên chỉ tính từ nội dung .eml.
+3. 5 HAN CHE BAI BAO -> 4 MODULE JAVA|||3. 5 HẠN CHẾ BÀI BÁO → 4 MODULE JAVA
+Moi han che duoc xu ly bang mot thanh phan offline cu the|||Mỗi hạn chế được xử lý bằng một thành phần offline cụ thể
+Han che cua bai bao|||Hạn chế của bài báo
+Giai phap trong de tai|||Giải pháp trong đề tài
+Phu thuoc WHOIS/DNS/CT online|||Phụ thuộc WHOIS/DNS/CT online
+Trich xuat tinh tu header, URL, attachment|||Trích xuất tĩnh từ header, URL, attachment
+Chi phan tich domain, bo qua email|||Chỉ phân tích domain, bỏ qua email
+Dac trung subject/body/keyword|||Đặc trưng subject/body/keyword
+Khong kiem tra xac thuc email|||Không kiểm tra xác thực email
+Khong phan tich tep dinh kem|||Không phân tích tệp đính kèm
+Magic-byte, macro, 8 luat YARA-style|||Magic-byte, macro, 8 luật YARA-style
+Khong co mo hinh ML tai su dung|||Không có mô hình ML tái sử dụng
+30 dac trung + Weka + hybrid rule|||30 đặc trưng + Weka + hybrid rule
+KET QUA: 100% OFFLINE, KHONG GOI MANG|||KẾT QUẢ: 100% OFFLINE, KHÔNG GỌI MẠNG
+44 tep Java chinh + 10 tep test; 38/38 test pass. Parser gioi han 5 MB/tep, kiem tra charset, magic bytes,\n|||44 tệp Java chính + 10 tệp test; 38/38 test pass. Parser giới hạn 5 MB/tệp, kiểm tra charset, magic bytes,\n
+va chan path traversal. Khong resolve DNS, khong mo URL, khong thuc thi macro -> an toan khi demo.|||và chặn path traversal. Không resolve DNS, không mở URL, không thực thi macro → an toàn khi demo.
+3. KIEN TRUC PIPELINE JAVA + ZERO-EXECUTION|||3. KIẾN TRÚC PIPELINE JAVA + ZERO-EXECUTION
+Tu .eml den bao cao, tat ca chay cuc bo|||Từ .eml đến báo cáo, tất cả chạy cục bộ
+Extractor\n5 nhom dac trung\n(30 features)|||Extractor\n5 nhóm đặc trưng\n(30 features)
+Khong chay macro, khong mo URL, khong resolve DNS, khong goi API. Chi doc byte va phan tich tinh.\n|||Không chạy macro, không mở URL, không resolve DNS, không gọi API. Chỉ đọc byte và phân tích tĩnh.\n
+Moi truy cap file deu qua SafeIoUtil (gioi han kich thuoc, chuan hoa duong dan).|||Mọi truy cập file đều qua SafeIoUtil (giới hạn kích thước, chuẩn hoá đường dẫn).
+tep .eml|||tệp .eml
+trung lap|||trùng lặp
+4. DU LIEU & PROVENANCE|||4. DỮ LIỆU & PROVENANCE
+505 tep .eml, manifest SHA-256, nhan do generator kiem soat|||505 tệp .eml, manifest SHA-256, nhãn do generator kiểm soát
+Nguon|||Nguồn
+Vai tro|||Vai trò
+So mau|||Số mẫu
+Ghi chu|||Ghi chú
+Enron-style lanh tinh|||Enron-style lành tính
+sinh co kiem soat|||sinh có kiểm soát
+5 ho phishing|||5 họ phishing
+Enron that (hook)|||Enron thật (hook)
+mo rong benign|||mở rộng benign
+tuy chon|||tuỳ chọn
+mo rong phishing|||mở rộng phishing
+can bang|||cân bằng
+TAI LAP DUOC|||TÁI LẬP ĐƯỢC
+data/manifests/checksums_sha256.txt  ghi hash tung file;  artifacts/reports/*  ghi moi con so tren slide.\n|||data/manifests/checksums_sha256.txt  ghi hash từng file;  artifacts/reports/*  ghi mọi con số trên slide.\n
+Chay lai: .\\mvnw.cmd compile exec:java  ->  sinh lai toan bo ket qua.|||Chạy lại: .\\mvnw.cmd compile exec:java  →  sinh lại toàn bộ kết quả.
+5. THIET KE MO HINH CAI TIEN|||5. THIẾT KẾ MÔ HÌNH CẢI TIẾN
+30 dac trung chia 4 nhom + hybrid rule ensemble|||30 đặc trưng chia 4 nhóm + hybrid rule ensemble
+CHONG LEAKAGE|||CHỐNG LEAKAGE
+Group-disjoint holdout theo sender domain: train khong bao gio thay domain cua test.\n|||Group-disjoint holdout theo sender domain: train không bao giờ thấy domain của test.\n
+Ket qua leakage-free: Baseline 0.41 / Paper URL-only 0.41 / Proposed 1.00 F1.|||Kết quả leakage-free: Baseline 0.41 / Paper URL-only 0.41 / Proposed 1.00 F1.
+5. KET QUA 3 MO HINH|||5. KẾT QUẢ 3 MÔ HÌNH
+5-fold CV x seeds 42/100/2026; F1 trinh bay mean +/- SD|||5-fold CV × seeds 42/100/2026; F1 trình bày mean ± SD
+Mo hinh|||Mô hình
+F1 (mean +/- SD)|||F1 (mean ± SD)
+95% CI cua F1: Baseline +/-0.0144   ·   Paper 0.0000   ·   Proposed +/-0.0026|||95% CI của F1: Baseline ±0.0144   ·   Paper 0.0000   ·   Proposed ±0.0026
+Delta Proposed vs Baseline: F1 +0.2609 tuyet doi (+35% tuong doi), ROC-AUC +0.2396, PR-AUC +0.1992.\n|||Delta Proposed vs Baseline: F1 +0.2609 tuyệt đối (+35% tương đối), ROC-AUC +0.2396, PR-AUC +0.1992.\n
+Recall cua Paper URL-only chi 0.60 -> bo sot cac email phishing khong co URL / chi co attachment.|||Recall của Paper URL-only chỉ 0.60 → bỏ sót các email phishing không có URL / chỉ có attachment.
+Seed 42, positive = phishing; TP/TN/FP/FN la so dem|||Seed 42, positive = phishing; TP/TN/FP/FN là số đếm
+SPECIFICITY - BAO DONG SAI|||SPECIFICITY – BÁO ĐỘNG SAI
+Baseline 0.60 -> bao dong sai 100/250 email lanh (40%).\n|||Baseline 0.60 → báo động sai 100/250 email lành (40%).\n
+Proposed 1.00 -> khong con false positive tren seed 42.|||Proposed 1.00 → không còn false positive trên seed 42.
+MCC - CHI SO BO TRO|||MCC – CHỈ SỐ BỔ TRỢ
+MCC phu hop khi du lieu mat can bang (benign >> phishing).|||MCC phù hợp khi dữ liệu mất cân bằng (benign >> phishing).
+Nguon: artifacts/reports/confusion_matrix.csv (day du 3 seed) va model_comparison.csv (mean specificity/MCC).|||Nguồn: artifacts/reports/confusion_matrix.csv (đầy đủ 3 seed) và model_comparison.csv (mean specificity/MCC).
+Thong diep: Paper URL-only co Precision 1.00 nhung Recall 0.60 (FN=100) - no bo sot moi email phishing khong co URL.\n|||Thông điệp: Paper URL-only có Precision 1.00 nhưng Recall 0.60 (FN=100) – nó bỏ sót mọi email phishing không có URL.\n
+Proposed Hybrid giam FN ve 0, giu FP = 0, dong thoi MCC 1.00 -> cai thien ca hai phia.|||Proposed Hybrid giảm FN về 0, giữ FP = 0, đồng thời MCC 1.00 → cải thiện cả hai phía.
+5. TRUC QUAN HOA KET QUA|||5. TRỰC QUAN HOÁ KẾT QUẢ
+Bieu do sinh truc tiep tu artifacts/reports/*.csv|||Biểu đồ sinh trực tiếp từ artifacts/reports/*.csv
+Hinh 1. So sanh 3 mo hinh tren 4 chi so chinh.|||Hình 1. So sánh 3 mô hình trên 4 chỉ số chính.
+Hinh 2. Ablation: bo Header-Auth lam F1 giam manh nhat.|||Hình 2. Ablation: bỏ Header-Auth làm F1 giảm mạnh nhất.
+Doc hinh: Paper URL-only giu Precision/Specificity tuyet doi nhung Recall thap -> chi bat duoc email co URL ro rang.\n|||Đọc hình: Paper URL-only giữ Precision/Specificity tuyệt đối nhưng Recall thấp → chỉ bắt được email có URL rõ ràng.\n
+Proposed Hybrid day ca F1, ROC-AUC, PR-AUC va Specificity len 1.00 (mean). Ablation xac nhan Header-Auth la nhom\n|||Proposed Hybrid đẩy cả F1, ROC-AUC, PR-AUC và Specificity lên 1.00 (mean). Ablation xác nhận Header-Auth là nhóm\n
+dac trung quan trong nhat: bo di lam Recall tut tu 0.9947 xuong 0.896 va MCC tu 0.9947 xuong 0.9009.|||đặc trưng quan trọng nhất: bỏ đi làm Recall tụt từ 0.9947 xuống 0.896 và MCC từ 0.9947 xuống 0.9009.
+Loai bo tung nhom dac trung de do dong gop|||Loại bỏ từng nhóm đặc trưng để đo đóng góp
+Cau hinh|||Cấu hình
+Nhan xet|||Nhận xét
+tham chieu|||tham chiếu
+giam manh nhat|||giảm mạnh nhất
+khong doi|||không đổi
+giam nhe|||giảm nhẹ
+KET LUAN ABLATION|||KẾT LUẬN ABLATION
+Bo Header-Auth: F1 0.9973 -> 0.9451, Recall 0.9947 -> 0.8960, MCC 0.9947 -> 0.9009.\n|||Bỏ Header-Auth: F1 0.9973 → 0.9451, Recall 0.9947 → 0.8960, MCC 0.9947 → 0.9009.\n
+Bo Paper-URL: gan nhu khong doi tren corpus nay. Bo Attachment-YARA: F1 0.9960, MCC 0.9920.\n|||Bỏ Paper-URL: gần như không đổi trên corpus này. Bỏ Attachment-YARA: F1 0.9960, MCC 0.9920.\n
+=> Xac thuc email (SPF/DKIM/DMARC + mismatch) la nhom dac trung then chot cua mo hinh.|||=> Xác thực email (SPF/DKIM/DMARC + mismatch) là nhóm đặc trưng then chốt của mô hình.
+Luu y: cac con so la mean qua 3 seed; group-holdout F1 tuong ung: Full 1.00 · w/o Header 0.8333 ·\n|||Lưu ý: các con số là mean qua 3 seed; group-holdout F1 tương ứng: Full 1.00 · w/o Header 0.8333 ·\n
+w/o URL 1.00 · w/o Attachment-YARA 0.9945. Nguon: artifacts/reports/ablation.csv.|||w/o URL 1.00 · w/o Attachment-YARA 0.9945. Nguồn: artifacts/reports/ablation.csv.
+5. ERROR ANALYSIS & CHI PHI|||5. ERROR ANALYSIS & CHI PHÍ
+False positive / false negative that + chi phi tinh toan|||False positive / false negative thật + chi phí tính toán
+Hinh 3. Top TLD bi lam dung trong corpus offline.|||Hình 3. Top TLD bị lạm dụng trong corpus offline.
+False negative dieu tra tren group-holdout:|||False negative điều tra trên group-holdout:
+  email chi co attachment, khong URL ro rang|||  email chỉ có attachment, không URL rõ ràng
+  -> Baseline/URL-only bo sot (Recall 0.60)|||  → Baseline/URL-only bỏ sót (Recall 0.60)
+  -> Proposed bat duoc nho magic-byte + rule|||  → Proposed bắt được nhờ magic-byte + rule
+False positive: Baseline gan nhu khong co|||False positive: Baseline gần như không có
+  (FPR 0.40 -> 100/250 benign bi bao dong sai)|||  (FPR 0.40 → 100/250 benign bị báo động sai)
+Chi phi (do tren may demo):|||Chi phí (đo trên máy demo):
+  ~54 MB heap  ·  khong goi mang, khong I/O online|||  ~54 MB heap  ·  không gọi mạng, không I/O online
+VI SAO TAI LAP DUOC|||VÌ SAO TÁI LẬP ĐƯỢC
+Moi con so trong slide deu co file nguon: model_comparison.csv, per_seed_metrics.csv, confusion_matrix.csv,\n|||Mọi con số trong slide đều có file nguồn: model_comparison.csv, per_seed_metrics.csv, confusion_matrix.csv,\n
+ablation.csv, replication.csv, tld_distribution.csv, checksums_sha256.txt. Khong co so lieu go tay.|||ablation.csv, replication.csv, tld_distribution.csv, checksums_sha256.txt. Không có số liệu gõ tay.
+6. KET LUAN & HUONG PHAT TRIEN|||6. KẾT LUẬN & HƯỚNG PHÁT TRIỂN
+Paper vs Tai lap vs Cai tien - va cac buoc tiep theo|||Paper vs Tái lập vs Cải tiến – và các bước tiếp theo
+Hang muc|||Hạng mục
+Tai lap offline|||Tái lập offline
+Cai tien|||Cải tiến
+Don vi phan tich|||Đơn vị phân tích
+F1 mo hinh|||F1 mô hình
+HUONG PHAT TRIEN|||HƯỚNG PHÁT TRIỂN
+Bo sung corpus Enron that +|||Bổ sung corpus Enron thật +
+  phishing .eml cong khai|||  phishing .eml công khai
+Them ROC/PR curve + bootstrap CI|||Thêm ROC/PR curve + bootstrap CI
+Mo rong YARA rules (macro, OLE)|||Mở rộng YARA rules (macro, OLE)
+Dong goi CLI + Docker offline|||Đóng gói CLI + Docker offline
+Thu nghiem tren du lieu mat can bang|||Thử nghiệm trên dữ liệu mất cân bằng
+3 THONG DIEP CHINH|||3 THÔNG ĐIỆP CHÍNH
+1. Tai lap trung thuc: noi ro phan suy ra duoc offline va phan n/a do du lieu dong / truy van online.\n|||1. Tái lập trung thực: nói rõ phần suy ra được offline và phần n/a do dữ liệu đóng / truy vấn online.\n
+2. Cai tien co kiem chung: 30 dac trung + hybrid rule dat F1 0.9973, Specificity 1.00, MCC 0.9947 (mean).\n|||2. Cải tiến có kiểm chứng: 30 đặc trưng + hybrid rule đạt F1 0.9973, Specificity 1.00, MCC 0.9947 (mean).\n
+3. Chong leakage: group-disjoint holdout 0.41 vs 1.00 chung minh cai tien khong phai do ro ri domain.|||3. Chống leakage: group-disjoint holdout 0.41 vs 1.00 chứng minh cải tiến không phải do rò rỉ domain.
+THAM KHAO & LOI CAM ON|||THAM KHẢO & LỜI CẢM ƠN
+Cam on thay va cac ban da theo doi!|||Cảm ơn thầy và các bạn đã theo dõi!
+Q&A: san sang demo truc tiep pipeline va chay lai toan bo artifact.|||Q&A: sẵn sàng demo trực tiếp pipeline và chạy lại toàn bộ artifact.
+TAI LIEU|||TÀI LIỆU
+Agarwal & Vasek (2026). DOI 10.1093/cybsec/tyag020 - bai bao goc.|||Agarwal & Vasek (2026). DOI 10.1093/cybsec/tyag020 – bài báo gốc.
+Weka 3.8.6 - thu vien hoc may (NaiveBayes, RandomForest).|||Weka 3.8.6 – thư viện học máy (NaiveBayes, RandomForest).
+Enron Email Dataset (CMU) - nguon benign tham khao.|||Enron Email Dataset (CMU) – nguồn benign tham khảo.
+Ma nguon: Java 21 / Maven; artifacts/reports/* la bang chung so lieu.|||Mã nguồn: Java 21 / Maven; artifacts/reports/* là bằng chứng số liệu.
+De tai 124 · Bao cao giua ky · 11/2026 · Bui Ngoc Huy|||Đề tài 124 · Báo cáo giữa kỳ · 11/2026 · Bùi Ngọc Huy
+So sanh mo hinh (mean qua 3 seed)|||So sánh mô hình (mean qua 3 seed)
+5-fold CV x seeds 42/100/2026 - positive = phishing|||5-fold CV × seeds 42/100/2026 – positive = phishing
+Bo tung nhom dac trung - Hybrid RF + Rule|||Bỏ từng nhóm đặc trưng – Hybrid RF + Rule
+Top TLD bi lam dung trong corpus offline|||Top TLD bị lạm dụng trong corpus offline
+Tong hop tu artifacts/reports/tld_distribution.csv|||Tổng hợp từ artifacts/reports/tld_distribution.csv
+So email|||Số email
+Chi so tai lap duoc tu noi dung .eml (%)|||Chỉ số tái lập được từ nội dung .eml (%)

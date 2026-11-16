@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee27@enron.com
+Subject: Please confirm your billing information immediately [ref M2FDCFB]
+Date: Tue, 04 Mar 2002 13:37:00 -0500
+Message-ID: <benign-107-07bf4f6f-d4a2-476a-91af-fba3e8353926@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 10 Mar 2002 19:47:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.17 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-107-d5620f35"
+
+--bnd-b-107-d5620f35
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: M2FDCFB
+--bnd-b-107-d5620f35
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: M2FDCFB</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-107-d5620f35
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCoMw7+beP6Qjb/9wBPsLuG7x
+jPUC4jMbKlGpnwqiqW30ZSEQEdjzbh7bEG6oJy4x0xZYm3szvWl12EfZd5h1BqbOxAdjbQKfMln+
+RPGEwnsoiWEJRna8eE1HwsUhHYq/LzUijfem4vIMlx+3c9VKhe7gEjEUft4Dbi88z9xeckKlHtUo
+O7lR+g++sWDIMtPFU4FWzZlRhksSI5+Ze+kYNidW4VCemWqkFRla0NsSKPWnFPs17I3nNyVYJzDX
+XpLt3y66ncvb7Jc/Ud1p0UFSTQktb4a6bpWS1y5uJMpchMh7Qd6D62kr7WXZnmQtWvS60cNglbra
+/eIFFXwXiBaI4qE5nB9xljrMmPpaf4Qm8I8t7cIv7QxaYPtgUzLnKzFq3R5yie78wFxEBafcdn/c
+OHxfrygrU5ONEXp7CA4oGEmDqJM6crYFl2Yrt4w4Hcxn4S+qsnJgiuCc
+
+--bnd-b-107-d5620f35--

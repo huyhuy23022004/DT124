@@ -1,0 +1,21 @@
+From: jeff.skilling@enron.com
+To: employee1@enron.com
+Subject: Meeting notes for the west power desk [ref S3884A9]
+Date: Tue, 04 Mar 2002 00:46:00 -0500
+Message-ID: <benign-121-3b14a215-99a1-495e-bbdd-32fb61af210f@enron.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 06 Mar 2002 16:47:00 -0500
+Return-Path: <jeff.skilling@enron.com>
+Reply-To: jeff.skilling@enron.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=enron.com; dkim=pass header.d=enron.com; dmarc=pass header.from=enron.com
+Received-SPF: pass (mx.example.com: domain of jeff.skilling@enron.com designates 192.0.2.31 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=enron.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: B3884A9
+
+Thanks,
+Colleague

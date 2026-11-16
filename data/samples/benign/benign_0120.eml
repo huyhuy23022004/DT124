@@ -1,0 +1,23 @@
+From: kay.mann@enron.com
+To: employee0@enron.com
+Subject: Meeting notes for the west power desk [ref S010AF8]
+Date: Tue, 02 Mar 2002 14:11:00 -0500
+Message-ID: <benign-120-3e2c7627-f1da-42ff-82f3-d6656371ea8a@enron.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 24 Mar 2002 03:16:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 26 Mar 2002 16:25:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 19 Mar 2002 12:18:00 -0500
+Return-Path: <kay.mann@enron.com>
+Reply-To: kay.mann@enron.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=enron.com; dkim=pass header.d=enron.com; dmarc=pass header.from=enron.com
+Received-SPF: pass (mx.example.com: domain of kay.mann@enron.com designates 192.0.2.30 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=enron.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: B010AF8
+
+Thanks,
+Colleague

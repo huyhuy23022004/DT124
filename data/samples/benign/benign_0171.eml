@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee11@enron.com
+Subject: Your subscription is about to expire - update payment [ref M0E493B]
+Date: Tue, 20 Mar 2002 11:41:00 -0500
+Message-ID: <benign-171-51e2ec19-fcff-4a8b-a576-e451cfb31880@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 20 Mar 2002 11:39:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.31 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-171-f5d4f880"
+
+--bnd-b-171-f5d4f880
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: M0E493B
+--bnd-b-171-f5d4f880
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: M0E493B</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-171-f5d4f880
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCvp65WK3c4kpYFVw2LjLmu/V
+xOeWlwo5F4nf/6M2VP4vdl485Z6cP/mrX08iPqf9K/iLRu1QHU4M3Snz5F5cxhQQscQpjFIaWwS5
+jRDe/H5nM9DZiStAVILFoAgE0Mk3p0/2wxBxPvbQHqhyQmmVxzB3MOWbe53O55myvd5vxSN3Po8n
+GDYZnj5/IQDf5NoeNqQ007agokscjdQSP1AVvTe7j2/3NRPo+u75k4I2FXrOiShFl+j1nWqiRa4S
+oYAgRLm1kLYMbbHZgFc6zdoUIaEcTnq89Nc433lP/n22v5asGvxz3EbKNurV5zgp+4w6GYT5fz47
+did5i4y7Z9uFGyB/WIAeUqNLO+xPMjKJ39sKW/+teiGzI7FFqGThTxGda6YLqhpYffFFKmCMQsSi
+HBDBGvUCINpC3JAlGvz51nfeyR+cn11Cv2X4j3CvvYGiJ6mbeE6Mx8rk
+
+--bnd-b-171-f5d4f880--

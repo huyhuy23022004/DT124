@@ -1,0 +1,41 @@
+From: service@netflix.com
+To: employee3@enron.com
+Subject: Your subscription is about to expire - update payment [ref MA66D13]
+Date: Tue, 27 Mar 2002 23:50:00 -0500
+Message-ID: <benign-3-77e489f8-e395-439a-a385-35a64d820c88@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 12 Mar 2002 08:53:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 20 Mar 2002 10:02:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 08 Mar 2002 01:26:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.13 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-3-f8c85ad2"
+
+--bnd-b-3-f8c85ad2
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: MA66D13
+--bnd-b-3-f8c85ad2
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: MA66D13</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-3-f8c85ad2
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCv968nZ2jOSfjWv5YFxxfpHR
+9e47pDew0KUyv9kZiJcur3fawRJD7pOB2cR4u0fA2BHaCYCXJtFchdcnYK6Ft0CdR62On7LMO6XZ
+FcyIObv21n3J7FF6BMuq+1zdgjWP5kpPRFIioG/IygJKNZlJD05ICmO4pxotelZH9L/XCph6dmNU
+/MPZGnVTPe4qg7jFB8YXh2eWXa2ERrcV6zD1RWircgXvwZGNpolX/tjvT9/ye1X+gOMOgXDg0hOs
+HdPMsnVwO59kGapMPu+HAogcCMnP0zo29PQUW+JwnqPqnVIQtwUKX1hkIvg1RP8l/SHaSUQ7TXRb
+c1odIbT4Q5m29R+peNXLDN+VLshu/WqedUWmN43V0Zm5nuXBnMFYtPYwOfpgnG11GrRsWmyy3wNO
+ltUC4UrzkgGR0XeyxBF64x1WmpP4+di82W4LlrZ5U4mRMAijRdg7Yhj3
+
+--bnd-b-3-f8c85ad2--

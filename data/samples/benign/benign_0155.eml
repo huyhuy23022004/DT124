@@ -1,0 +1,40 @@
+From: service@netflix.com
+To: employee35@enron.com
+Subject: Please confirm your billing information immediately [ref M96AE2B]
+Date: Tue, 21 Mar 2002 22:07:00 -0500
+Message-ID: <benign-155-ed2119e9-5b3b-4e5f-84f8-993bd0d2e940@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 13 Mar 2002 13:28:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 18 Mar 2002 00:07:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.15 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-155-b53e07d9"
+
+--bnd-b-155-b53e07d9
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: M96AE2B
+--bnd-b-155-b53e07d9
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: M96AE2B</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-155-b53e07d9
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCmFCDds4+cOR27pHKE8YPRdw
+mQ3gbdSov+rU5xUZergm3w8yOhrdLmlryPn/qiEkePWmSB/Ob8VNTtZZDJPTq5noTftjIQ0hu3cZ
+A4EDZv7VdGfqov+cBRJhwY15FvRnWLAwg18V8bLqZSrFoyO8cKJAHR/sZnah3HgedxKjiIlfYKsN
+LD3orfhw3blGj8M53Gs/h3b5St1VCJBU1Ut95JzQA708dataYEtXGn2GESfQnud+OgVcV7kgID1z
+qS5HrBU5FzxKmOzXENsDOqhxT+PwZXzYTeAttobQZmFg2cHHRePTo7VwA1knKXTl2LUBy0Bt9bT7
+n4LS++aMGALn4W0K3XiM6gjSGYncxFnXkfDInnNUqOjR4PggeBLx84NyR3VaRlq3bGLA6E4K0ggP
+JU4qmHO3vKb4l4LHSDfACDq/l9vuofztaY9Ac+E4+BYlsgTBL1BYAj7c
+
+--bnd-b-155-b53e07d9--

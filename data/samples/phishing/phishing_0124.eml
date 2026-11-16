@@ -1,0 +1,28 @@
+From: notice@microsoft-support.vip
+To: victim4@example.com
+Subject: Weekly trading summary [ref HDEF1BC]
+Date: Tue, 20 Mar 2002 18:55:00 -0500
+Message-ID: <phish-124-68e33ec6-4529-43cd-9b0b-2efadc3e42f6@microsoft-support.vip>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 23 Mar 2002 17:30:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 12 Mar 2002 20:22:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 23 Mar 2002 13:01:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 23 Mar 2002 10:44:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 26 Mar 2002 06:09:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 15 Mar 2002 18:58:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 28 Mar 2002 13:00:00 -0500
+Received: from relay7 (relay7.example.net [192.0.2.107]) by mx7.example.com; Tue, 28 Mar 2002 16:46:00 -0500
+Return-Path: <bounce@mail-b23aff1f.top>
+Reply-To: recovery4@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-b23aff1f.top; dkim=fail header.d=microsoft-support.vip; dmarc=fail header.from=microsoft-support.vip
+Received-SPF: fail (mx.example.com: domain of notice@microsoft-support.vip does not designate 198.51.100.24 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=microsoft-support.vip; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the schedule before Friday. No action needed beyond that.
+Reference: HDEF1BC
+
+Thanks,
+Colleague

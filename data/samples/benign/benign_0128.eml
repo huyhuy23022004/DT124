@@ -1,0 +1,21 @@
+From: mark.taylor@enron.com
+To: employee8@enron.com
+Subject: Draft contract for review [ref SBCD880]
+Date: Tue, 27 Mar 2002 04:14:00 -0500
+Message-ID: <benign-128-bc57c099-d25c-443c-b012-f0599287c0cb@enron.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 16 Mar 2002 22:50:00 -0500
+Return-Path: <mark.taylor@enron.com>
+Reply-To: mark.taylor@enron.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=enron.com; dkim=pass header.d=enron.com; dmarc=pass header.from=enron.com
+Received-SPF: pass (mx.example.com: domain of mark.taylor@enron.com designates 192.0.2.38 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=enron.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: BBCD880
+
+Thanks,
+Colleague

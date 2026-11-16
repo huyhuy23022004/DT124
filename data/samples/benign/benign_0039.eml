@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee39@enron.com
+Subject: Your subscription is about to expire - update payment [ref M7389F7]
+Date: Tue, 11 Mar 2002 17:49:00 -0500
+Message-ID: <benign-39-80f7f31e-75fe-482b-8f8f-7b816273692c@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 06 Mar 2002 15:04:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.49 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-39-e04eabf5"
+
+--bnd-b-39-e04eabf5
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: M7389F7
+--bnd-b-39-e04eabf5
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: M7389F7</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-39-e04eabf5
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCvLdOQ6GHmQN4TQ9VVJ8NPKa
+BnVo5frkIkuaWG9vv6ALUO4wZY8A5S5rePztdE5LwVKsAHVfTsS9FkvjpR25FL/g/XjgW7cd2234
+4fiPKvI6n2A2AEM9qSAu+KibU5m4lCMoGP5x/esNccIBatKAINdoIwaqtLmIYRwOoPp3PavlN3gl
+SuEtSmTF0PT28YjsZbW5dJAvxTxLyvejgz2dSsSObBMMooJeN8dUgiRhEWbWinjEvCUD2G/CPUnx
+BnKa6Hk0YaEGGK/RrMtPFWgdQl3ED01z+khlqBm+Ac83+M4ZCxQr3uEvB1c9cf6MaezIVZ6yXdzp
+q42JnG7nxhtZSqvNigwaziuN2gN3Xq334ZZoPUTGgE2etSqiK9TryTLAfNGS7EQX23sIbpAB7C7J
+rozY6oIhzHv/6SEkNX+Qu9AFh6gcnMt5DxZyUOPD0ghUPfGR8m3tHsGO
+
+--bnd-b-39-e04eabf5--

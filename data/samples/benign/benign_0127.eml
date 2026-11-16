@@ -1,0 +1,41 @@
+From: service@netflix.com
+To: employee7@enron.com
+Subject: Confirm your payment method to avoid suspension [ref M855ECF]
+Date: Tue, 23 Mar 2002 17:05:00 -0500
+Message-ID: <benign-127-5a555210-2349-4f28-9c20-d578a0d71456@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 11 Mar 2002 00:02:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 07 Mar 2002 15:00:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 02 Mar 2002 13:03:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.37 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-127-c237f757"
+
+--bnd-b-127-c237f757
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: M855ECF
+--bnd-b-127-c237f757
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: M855ECF</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-127-c237f757
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCoJBHYGh1QRhbvaBU1m97j4a
+kZBBvSuErxxgzjSY8/hWEChQLTaHr8TrvfGRvBkM8Fj66Vz0M2BPKB/XeW5sour1yCkUQyNQE4B9
+pRgbzlZMYJcmkTVz5lSXktBFbeXzLagva1YoEmGDmsNOYgo+BbUNw/E+IkZncDpeGf0GLWirSxjX
+0OzxHqDZmJXKcn3NQ+jJ7psWu06Q2wOg3fQ2JBggfH+VXZQ39mqHQ0FhAmKPURwCwRIyIVcQAFhP
+sfYdAf6CkKJ3a8N//gydZs3U53DVE00qOqcSpum0BuEXAXCsNzYgR4bDDWPL9kh0qb/MGkS9YiVJ
+E56r82HrSpxza5tuknDNn3ClezA6W4fuA58q80c6yZt0t/oN7dAQvI28P+1eONTLVEAeXbYBugIJ
+Oha3am7fLPb4MJPL7EECmk9N5ldi44FC6bahaUGjCJf0kBV4IkMmuHGb
+
+--bnd-b-127-c237f757--

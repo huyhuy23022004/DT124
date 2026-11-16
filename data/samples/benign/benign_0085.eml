@@ -1,0 +1,21 @@
+From: michelle.lokay@enron.com
+To: employee5@enron.com
+Subject: Weekly trading summary [ref S6B67C5]
+Date: Tue, 07 Mar 2002 18:33:00 -0500
+Message-ID: <benign-85-e86cc7ab-8a95-4677-98d6-382a4d7b9389@enron.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 08 Mar 2002 13:07:00 -0500
+Return-Path: <michelle.lokay@enron.com>
+Reply-To: michelle.lokay@enron.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=enron.com; dkim=pass header.d=enron.com; dmarc=pass header.from=enron.com
+Received-SPF: pass (mx.example.com: domain of michelle.lokay@enron.com designates 192.0.2.45 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=enron.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: B6B67C5
+
+Thanks,
+Colleague

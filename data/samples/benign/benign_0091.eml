@@ -1,0 +1,40 @@
+From: service@netflix.com
+To: employee11@enron.com
+Subject: Confirm your payment method to avoid suspension [ref MB841EB]
+Date: Tue, 14 Mar 2002 11:11:00 -0500
+Message-ID: <benign-91-09681589-a4d5-455b-af93-284522322c0e@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 05 Mar 2002 10:34:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 05 Mar 2002 08:31:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.51 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-91-ab54707e"
+
+--bnd-b-91-ab54707e
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: MB841EB
+--bnd-b-91-ab54707e
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: MB841EB</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-91-ab54707e
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCghfk6LJhDb79Sz63crC9Lsh
+ywrfdRLDan0hvwsC6NDK2hDgzb0sGaA5TxGF4Z2O0aiPhTErpy3XKIENixA/wKSVb3xmChhhNIvN
+Ke/4CE6ad8O5tO3EZabo9JgXMzpIyyvyNjldo05AAaOhO38mcAv1nBwlriytAnrTE6nC+uaEd1tL
+ZT7gsylP1BdoFl2PW+sJKw6G2JV0S8oMkeVEHbCOd/0R1sDI5jCuLxN2i+noaMUdEaYFywQ9DCff
+kDD3Htyy+Wy9KpGWMxXWnQtQzhavnJi+sHXDYR3K+mlmKw4aeRgHfWyEbGtrRms8zebao6BB/XLW
+YcOxL28jARvFkKhSMYwutDAzcYWjT3XFDWL5MEy8vVeawmpxFwJWwti8CIo9VDLXc4Cqyf9vf8yD
+ofdj2znXyF2q1/DJo/ebe1zlqFUrILJTjglz5TIM+5UpsERQupXAXHmi
+
+--bnd-b-91-ab54707e--

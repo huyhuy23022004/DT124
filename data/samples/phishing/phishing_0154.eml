@@ -1,0 +1,24 @@
+From: notice@wells-fargo-alert.top
+To: victim34@example.com
+Subject: Conference call dial-in details [ref H5F347A]
+Date: Tue, 16 Mar 2002 00:51:00 -0500
+Message-ID: <phish-154-12c1edec-5b79-40ed-af99-7c72d7ac9b78@wells-fargo-alert.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 10 Mar 2002 17:06:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 04 Mar 2002 16:53:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 24 Mar 2002 21:52:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 16 Mar 2002 06:52:00 -0500
+Return-Path: <bounce@mail-ac71c34d.top>
+Reply-To: recovery4@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-ac71c34d.top; dkim=fail header.d=wells-fargo-alert.top; dmarc=fail header.from=wells-fargo-alert.top
+Received-SPF: fail (mx.example.com: domain of notice@wells-fargo-alert.top does not designate 198.51.100.24 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=wells-fargo-alert.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the schedule before Friday. No action needed beyond that.
+Reference: H5F347A
+
+Thanks,
+Colleague

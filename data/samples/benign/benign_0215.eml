@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee15@enron.com
+Subject: Please confirm your billing information immediately [ref M9733A7]
+Date: Tue, 21 Mar 2002 11:54:00 -0500
+Message-ID: <benign-215-709b7a83-4312-44e8-af1b-39c102eba2ba@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 17 Mar 2002 08:13:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.25 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-215-b165abe7"
+
+--bnd-b-215-b165abe7
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: M9733A7
+--bnd-b-215-b165abe7
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: M9733A7</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-215-b165abe7
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCmZKZ2SnHPOyzgZrdRYuyQns
+FGFewHrNdaRGTUpkghokCFMMDJt3k9J9Wqi++/hKBfiKoPJLHw/8iMWTj3rXyrqixQTrfjC6pqsq
+0zJJQaeBdBWCyWJyDWUTSqPKTmlwBprTk3pitkBcudRFFu9ObF8h4Ocb4kj/rgpyK9A+51JXr1NC
+lKre+lj3kPhCient19dg76isUFtuGNKjEaeTdIFLV8eJVKB048U9e4DPHn7KVBQhZ48QQl8vedWn
+vsfHKG02FIctaJq35ruoZYKVQiPf9/XPX5gKF2k/XhAzSShXq4X142Va0fmIU5UaYBT6v0QhNzmv
+gntj3GmsNBURrdjCgtq5DSD3HYGyQK2dmG1goh3H3KynPM/gIP4TgeK93EFyM1z4sdYyQPd5TGCZ
+0x6QaznepR7o1U8w2beSTXhoyG3tMH6hgRP5UpADyOfU9xG4zwSv+FE5
+
+--bnd-b-215-b165abe7--

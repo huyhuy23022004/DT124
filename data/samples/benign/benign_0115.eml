@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee35@enron.com
+Subject: Confirm your payment method to avoid suspension [ref MEBAA83]
+Date: Tue, 24 Mar 2002 11:55:00 -0500
+Message-ID: <benign-115-f450f8aa-456f-444f-ba29-0ac953b8b07d@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 18 Mar 2002 00:38:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.25 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-115-6af32cbd"
+
+--bnd-b-115-6af32cbd
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: MEBAA83
+--bnd-b-115-6af32cbd
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: MEBAA83</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-115-6af32cbd
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCuuP7mmzQ+tFPqB0SHy/fyac
+0G+SFlm3vffLfwOc9LxXAgtzQE7LEp/aKCcGsrLK/fGZ5UkNwsWomRCs8sSnY/8M7E1ifs5E1um2
+ggAL+D6SsIMVkR58Ey+eH4kw8QdfZY9mG2GsSO+OUrSp7Fz34gr0c4aw064CZPrlhBtz3EikmPdB
+XW6C1rwVeSIDXtSKX292uD546u4AcoDlgMd/fDXokZwQEoQcPKYGLmgGkjXtdl/MVzKkB+et+10t
+S3mdfHbJuFHaroRpXOo5DDFQQhipn9GDAPqf6ZF25FWDkCKq5oTeeWvNeyRXwc6qKUkHh8fpQ789
+R347XiRrNnrIk3VZqJ009VZQ3nndlkB79UCCKA42MQwTsCkXsNOQstPOLyhKOTWOHTEX2ITwmaXm
+5uBWoKwBQMVMfqyFs1sqdQGzBt6MXEIvaNI7WopcFtbREE/Vn+g3tcAx
+
+--bnd-b-115-6af32cbd--

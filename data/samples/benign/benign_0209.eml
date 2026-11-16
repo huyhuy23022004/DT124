@@ -1,0 +1,23 @@
+From: david.delainey@enron.com
+To: employee9@enron.com
+Subject: Draft contract for review [ref S4A5981]
+Date: Tue, 28 Mar 2002 14:12:00 -0500
+Message-ID: <benign-209-234ee451-9e54-45d2-9951-c10914632aad@enron.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 10 Mar 2002 17:09:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 14 Mar 2002 20:05:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 12 Mar 2002 03:12:00 -0500
+Return-Path: <david.delainey@enron.com>
+Reply-To: david.delainey@enron.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=enron.com; dkim=pass header.d=enron.com; dmarc=pass header.from=enron.com
+Received-SPF: pass (mx.example.com: domain of david.delainey@enron.com designates 192.0.2.19 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=enron.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: B4A5981
+
+Thanks,
+Colleague

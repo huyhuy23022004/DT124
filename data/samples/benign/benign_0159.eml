@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee39@enron.com
+Subject: Your subscription is about to expire - update payment [ref M7494EF]
+Date: Tue, 04 Mar 2002 01:50:00 -0500
+Message-ID: <benign-159-6fd6fc02-b9ca-40ba-bf39-558829859b0e@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 21 Mar 2002 12:13:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.19 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-159-14444927"
+
+--bnd-b-159-14444927
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: M7494EF
+--bnd-b-159-14444927
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: M7494EF</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-159-14444927
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCiLhCC/2vCGyfHJG+9zjaggH
+ZkxQ34yOv9w2asCUkqr5It0CKwylf1eLtffeYz4hB6z21pq+2r4fxB3UIfwtP2IKcNEo2EPQoEaU
+GfhCAgzE/cXmXOBFHc7LZ4LunPMb0AP5p0MMtuZorRiq80mqDehMGT/2jEphAcgJ2GV1EL5u0EcT
+LHStwMrPs2PzKaNhpX90tgb/8w5hjLHyvFr/L5yMFhSjD0wnRtQME0Olv3rbP3bxOhobJ7kigAIp
+h+40vu1wK7Tz6yEhGMKQxCSeQ6zhyGIUFtD3OGnuffLYXT2tclDlJW4+pqHen8bOMaRQ8H6iDCu3
+W120f2qpJR98f1cJHGqm8Fgrgha0adNS5XwYxVtzXYtgLH6GHRBbLs+2Aap0gTI8EXI9vPK9a9Cd
+dvkAj1eFqqoVODRsPyD4khi7Z8eUK1dOLpJGqv4z4Z25/tBPpSR8D6A2
+
+--bnd-b-159-14444927--

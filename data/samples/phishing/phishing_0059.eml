@@ -1,0 +1,23 @@
+From: notice@citibank-verify.xyz
+To: victim59@example.com
+Subject: Team offsite planning [ref HC90BCB]
+Date: Tue, 01 Mar 2002 16:02:00 -0500
+Message-ID: <phish-59-574c2ccc-ddfd-4cef-b6b1-9a992d6f880d@citibank-verify.xyz>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 14 Mar 2002 17:30:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 10 Mar 2002 09:20:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 18 Mar 2002 05:48:00 -0500
+Return-Path: <bounce@mail-d7aaec1a.top>
+Reply-To: recovery9@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-d7aaec1a.top; dkim=fail header.d=citibank-verify.xyz; dmarc=fail header.from=citibank-verify.xyz
+Received-SPF: fail (mx.example.com: domain of notice@citibank-verify.xyz does not designate 192.0.2.44 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=citibank-verify.xyz; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the schedule before Friday. No action needed beyond that.
+Reference: HC90BCB
+
+Thanks,
+Colleague

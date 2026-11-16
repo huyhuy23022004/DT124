@@ -1,0 +1,7 @@
+* text=auto
+*.pptx binary
+*.docx binary
+*.pdf binary
+*.png binary
+*.jar binary
+*.eml -text

@@ -1,0 +1,47 @@
+From: notice@amazon-security.click
+To: victim6@example.com
+Subject: Lunch on Friday? [ref A4CDA26]
+Date: Tue, 11 Mar 2002 23:28:00 -0500
+Message-ID: <phish-6-45e5aa7d-16c0-4ed1-a140-063fb7bd6b07@amazon-security.click>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 04 Mar 2002 00:29:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 26 Mar 2002 17:02:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 05 Mar 2002 03:37:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 23 Mar 2002 22:17:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 04 Mar 2002 00:38:00 -0500
+Return-Path: <notice@amazon-security.click>
+Reply-To: notice@amazon-security.click
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=amazon-security.click; dkim=pass header.d=amazon-security.click; dmarc=pass header.from=amazon-security.click
+Received-SPF: pass (mx.example.com: domain of notice@amazon-security.click designates 192.0.2.26 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=amazon-security.click; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-6-6e40aa03"
+
+--bnd-p-6-6e40aa03
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: A4CDA26
+
+Thanks,
+Colleague
+--bnd-p-6-6e40aa03
+Content-Type: application/octet-stream; name="invoice.pdf.exe"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.pdf.exe"
+
+TVqQAKV1TOJqdjEL/ODarQyx0KUAPIA5WNx/sdv8TNB93sjqJ4BgPHSTdxLUsoKqmSiI8kAJQiKH
+GqdQml9xDuxUu5Wy/KQyiGImV0WgGQpoRGPo61zZz8joV+3jKBU7IJQiKv7k58pA6ZnbN4Y6THkw
+lXJtrWejVdMgLTzBN+Z2uySFzg5jfN5ZrKEg+Udz8bMGtCKah+VPueGswnqCfcCRf7UEMSfDNx1o
+vefqS5AxcHfFDY7n95ApKpy4j+/UVeT7lxPECJSGIj8XO8F55PwGWM4ih6q3pjVwVM8HQ3pq/8IT
+SkyJUq7UW3PsjM8HH3bPALCE/pJtNJlppcjyUzKyMG91jUqcW06AMrKnWJ8oZ27qXhd+xOQEUL/9
+eOUMRGqXRlkbepaVQvdQ93KOI6XEH6xBndY9mTmtEDSjl9HR62yXhdnEHDgUFSIShmAtZx67hY+a
+Hb1LwbJ+aaMj1h4QanEH0kJa1anKTIPwWNNUd9I/aLh6my5/E5Xl0KEoxysnwGn/8GB7bsN7oPNg
+mkLVLPg68YevWF3VUzNwc1NQdZe3mXQcEO0RpFM+0KllUit0yzxX8vfeUTanfPXrS3UU/k0aZF0M
+wHHGI9gNNv5kH5POggfnZBLScO+Q9dQqzzfbZxueiAbbQxPQqMeBpgQbP/ctu69Na0/E+DRwWzg7
+xDwR3uAl++nra4A6ic03Zjk/WDGIHBidCl3wINbcvYggCF3+keblMggcffwhh0nzhNU2NDotjlH4
+f983VA0n9Yi2WgpoolJYPe3hRQZd8c8M5YQG2XxYCgqGG3/mCfj0ffmp93FKaIKiN25Ss2SB+U1G
+NzjU3y63dD4ySqrBAQ==
+
+--bnd-p-6-6e40aa03--

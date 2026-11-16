@@ -1,0 +1,26 @@
+From: notice@netflix-billing.shop
+To: victim29@example.com
+Subject: Draft contract for review [ref H49D405]
+Date: Tue, 03 Mar 2002 06:02:00 -0500
+Message-ID: <phish-149-280eb5cf-21d1-48fa-aad5-058b52b4a2b1@netflix-billing.shop>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 21 Mar 2002 20:33:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 18 Mar 2002 18:21:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 13 Mar 2002 23:59:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 24 Mar 2002 01:48:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 05 Mar 2002 22:49:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 14 Mar 2002 11:39:00 -0500
+Return-Path: <bounce@mail-5b85b4e4.top>
+Reply-To: recovery9@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-5b85b4e4.top; dkim=fail header.d=netflix-billing.shop; dmarc=fail header.from=netflix-billing.shop
+Received-SPF: fail (mx.example.com: domain of notice@netflix-billing.shop does not designate 192.0.2.44 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix-billing.shop; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the schedule before Friday. No action needed beyond that.
+Reference: H49D405
+
+Thanks,
+Colleague

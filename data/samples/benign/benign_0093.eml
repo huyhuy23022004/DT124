@@ -1,0 +1,21 @@
+From: sally.beck@enron.com
+To: employee13@enron.com
+Subject: Quarterly compliance reminder [ref S27354D]
+Date: Tue, 11 Mar 2002 21:06:00 -0500
+Message-ID: <benign-93-41140a8f-6643-45b2-b069-bcd245a31b98@enron.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 11 Mar 2002 19:37:00 -0500
+Return-Path: <sally.beck@enron.com>
+Reply-To: sally.beck@enron.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=enron.com; dkim=pass header.d=enron.com; dmarc=pass header.from=enron.com
+Received-SPF: pass (mx.example.com: domain of sally.beck@enron.com designates 192.0.2.53 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=enron.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: B27354D
+
+Thanks,
+Colleague

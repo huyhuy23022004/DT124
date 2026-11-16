@@ -1,0 +1,25 @@
+From: notice@pay-ap.top
+To: victim24@example.com
+Subject: Weekly trading summary [ref H34F90C]
+Date: Tue, 24 Mar 2002 04:54:00 -0500
+Message-ID: <phish-204-111f53b0-0867-4b23-bb8e-39faf1a91ae4@pay-ap.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 09 Mar 2002 09:54:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 27 Mar 2002 18:04:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 05 Mar 2002 04:38:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 06 Mar 2002 20:53:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 25 Mar 2002 01:49:00 -0500
+Return-Path: <bounce@mail-1fbd33db.top>
+Reply-To: recovery4@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-1fbd33db.top; dkim=fail header.d=pay-ap.top; dmarc=fail header.from=pay-ap.top
+Received-SPF: fail (mx.example.com: domain of notice@pay-ap.top does not designate 203.0.113.10 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=pay-ap.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the schedule before Friday. No action needed beyond that.
+Reference: H34F90C
+
+Thanks,
+Colleague

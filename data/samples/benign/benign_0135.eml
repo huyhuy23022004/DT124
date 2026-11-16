@@ -1,0 +1,41 @@
+From: service@netflix.com
+To: employee15@enron.com
+Subject: Your subscription is about to expire - update payment [ref M412C57]
+Date: Tue, 19 Mar 2002 10:01:00 -0500
+Message-ID: <benign-135-a38d4e87-4719-4f93-9dea-15e7bd99a698@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 20 Mar 2002 17:08:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 16 Mar 2002 17:53:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 08 Mar 2002 06:33:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.45 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-135-3c32caaf"
+
+--bnd-b-135-3c32caaf
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: M412C57
+--bnd-b-135-3c32caaf
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: M412C57</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-135-3c32caaf
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCmLNTOK1p2uqtX6/pXTkmI50
+/VCVfBg+jdhaL4laJvhr+Uv1WLLGjqXkfaN6XRiQ3VorrtqdKXR6LBNC3F8g2uY3GWvDLsCWkTG0
+Vtk0AZrdWsOO6yDaGMMQCyECTRHsDw6VdWjN0wjqzkDojnEVlnMYj7CMvz6E/VxE3HtDcXHSx6Mb
+RlHUQBpnYsEGYps64OIWXG7tMjYmYKCCUm3qLyJplpz0rpqgAUjIBiJPPjKxbwprBndfhG0tR/wA
+dBFqK3pHK5TNqnUqbB58Run8kmQ6Km3HALNL6xeUnMeAsWyfitkdZWypAiMUeWsndvsTbvAMcCbn
+4/rE7BTsDTpGFn8mtedrows9gz8S+stJvZ3xbGTeABFqnCthGTsjUAsB9Is0fq2UgbYWosyHQfY0
+nNLYMvzaFo1B2S5dZBMEM62tuXWSj7uvKrSWEIOb1Ting1BohHZX11ti
+
+--bnd-b-135-3c32caaf--

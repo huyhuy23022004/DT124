@@ -1,0 +1,24 @@
+From: notice@amazon-security.click
+To: victim54@example.com
+Subject: Conference call dial-in details [ref HB53BCA]
+Date: Tue, 13 Mar 2002 04:16:00 -0500
+Message-ID: <phish-234-69fbb627-1874-45c4-9c6f-345ced669121@amazon-security.click>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 04 Mar 2002 10:58:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 17 Mar 2002 04:21:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 18 Mar 2002 14:12:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 01 Mar 2002 19:55:00 -0500
+Return-Path: <bounce@mail-49291843.top>
+Reply-To: recovery4@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-49291843.top; dkim=fail header.d=amazon-security.click; dmarc=fail header.from=amazon-security.click
+Received-SPF: fail (mx.example.com: domain of notice@amazon-security.click does not designate 203.0.113.10 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=amazon-security.click; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the schedule before Friday. No action needed beyond that.
+Reference: HB53BCA
+
+Thanks,
+Colleague

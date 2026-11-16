@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee15@enron.com
+Subject: Please confirm your billing information immediately [ref M9628AF]
+Date: Tue, 14 Mar 2002 00:18:00 -0500
+Message-ID: <benign-95-da58f10c-5c24-4906-9a50-87d053ba51f5@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 05 Mar 2002 23:18:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.55 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-95-e22ba2fb"
+
+--bnd-b-95-e22ba2fb
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: M9628AF
+--bnd-b-95-e22ba2fb
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: M9628AF</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-95-e22ba2fb
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCknAJcuAqmQ+jhtCVYplogw5
+6KLscArTcKKG3u2GkTSv9hjJ11yLYdRbKnwHsqm41UcBXY2fqUgcd+1hziMZlUfTFE4/Y8fHWItL
+ZgGpevGQRjSS8zCYy7sTiiBQcce1ukDHO71HFLS9x35xX+cn+ppOogJH+i60jCKhW12kn/+blMSW
+u3SocsRrbAFHczX+PAfiZTuRs/TKpzMtOL1McbBSLrxxvkb2WET70m3lOp1Nw+lo+wtQLxRw/2HX
+aXB6wdyaMrLTLzMuWt/jYsqxTzthCPEHvxvkb9+4KFCQJ4r9Ekb2/+9ptDRXkpBE9Fm9/VB1Ho2U
+xxo9iugr6ABWxpdsFMlGWfIERf8+P0cpjn1wWuh9uUlwJM4uAHU5wDV3BAjp/OMlUGemQR0sk7cm
+wZiWxQiFTQ7t8Hgjw+eMnJZkJ8syWbYCWdFWx9QAcEtzUhRiVXWRCU4I
+
+--bnd-b-95-e22ba2fb--

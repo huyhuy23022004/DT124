@@ -1,0 +1,21 @@
+From: greg.whalley@enron.com
+To: employee17@enron.com
+Subject: Updated holiday calendar [ref S5A1869]
+Date: Tue, 22 Mar 2002 03:54:00 -0500
+Message-ID: <benign-57-790cef55-9408-406e-8dd5-bccfe2ba3d67@enron.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 13 Mar 2002 13:02:00 -0500
+Return-Path: <greg.whalley@enron.com>
+Reply-To: greg.whalley@enron.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=enron.com; dkim=pass header.d=enron.com; dmarc=pass header.from=enron.com
+Received-SPF: pass (mx.example.com: domain of greg.whalley@enron.com designates 192.0.2.17 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=enron.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: B5A1869
+
+Thanks,
+Colleague

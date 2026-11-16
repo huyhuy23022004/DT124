@@ -1,0 +1,39 @@
+From: service@netflix.com
+To: employee19@enron.com
+Subject: Your subscription is about to expire - update payment [ref M751A6B]
+Date: Tue, 08 Mar 2002 08:10:00 -0500
+Message-ID: <benign-219-ccff5574-7347-4a26-a9c5-5ecd10b8af22@netflix.com>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 13 Mar 2002 21:42:00 -0500
+Return-Path: <service@netflix.com>
+Reply-To: service@netflix.com
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=netflix.com; dkim=pass header.d=netflix.com; dmarc=pass header.from=netflix.com
+Received-SPF: pass (mx.example.com: domain of service@netflix.com designates 192.0.2.29 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=netflix.com; s=sel; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-b-219-924d98e1"
+
+--bnd-b-219-924d98e1
+Content-Type: text/plain; charset="UTF-8"
+
+Dear customer,
+
+Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.
+Reference: M751A6B
+--bnd-b-219-924d98e1
+Content-Type: text/html; charset="UTF-8"
+
+<html><body><p>Dear customer,<br/><br/>Please verify your account and confirm your billing information to update the payment method. Click here to sign in and reset your password if needed. This is a secure notice about your account and payment details.<br/>Reference: M751A6B</p><p><a href="https://www.netflix.com/portal">Open portal</a></p></body></html>
+--bnd-b-219-924d98e1
+Content-Type: application/pdf; name="statement.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.pdf"
+
+JVBERi0xLjQKMSAwIG9iajw8L1R5cGUvQ2F0YWxvZz4+ZW5kb2JqCq+kfnW3zDJTPbn+9ybgk55H
+exzqUd8sWZjcs1gwBR1aiIq8w3SNK/j6mS1CT3BlNVMH0/99LtBDtvXnoJPV94rdGMLRgoQ6I1L0
+bnV60pu5lcG4xRNABokDaxbrjIdhSwDp8HuW1yiz4n3VpuZiAU2VlbC9H3B3Y9f8WzBG6gvnJNTO
+ESjc3CQgPbm3eatwcF7ynQl/y38F3CkvnkeeZnZ/6JPxRsdfaxeY9HU+nbiLNCz6m/CfMdMrLw5k
+8sbnzzhMgW58Q3uwhl+QJpbd0XBT+o7xcUY0uhNB0BkGDrW4mn2LflGCdl3qV2z8oqG8UTaZqtV/
+l/sb/ocwYJKBbc8Fc8ax3jhwC+XJPvRcoa+81whtqp6N5NL/XPgg161JqSggKvL0DNW9jY2SnOyP
+7wCE8qHDv6Gm04RLYPeqoVmnB9Qfjlb4dAQlIChCqrL2l6urmzv1T6jh
+
+--bnd-b-219-924d98e1--

@@ -1,0 +1,26 @@
+From: notice@secure-dhl.xyz
+To: victim14@example.com
+Subject: Conference call dial-in details [ref H09B2A6]
+Date: Tue, 21 Mar 2002 06:48:00 -0500
+Message-ID: <phish-134-ca7b4aa1-6c2d-4f73-aae3-08f55215bc91@secure-dhl.xyz>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 01 Mar 2002 18:57:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 02 Mar 2002 18:42:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 08 Mar 2002 00:50:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 10 Mar 2002 07:24:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 25 Mar 2002 13:52:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 02 Mar 2002 15:21:00 -0500
+Return-Path: <bounce@mail-8244a2bd.top>
+Reply-To: recovery4@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-8244a2bd.top; dkim=fail header.d=secure-dhl.xyz; dmarc=fail header.from=secure-dhl.xyz
+Received-SPF: fail (mx.example.com: domain of notice@secure-dhl.xyz does not designate 192.0.2.44 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=secure-dhl.xyz; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the schedule before Friday. No action needed beyond that.
+Reference: H09B2A6
+
+Thanks,
+Colleague

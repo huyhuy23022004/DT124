@@ -1,0 +1,28 @@
+From: notice@citibank-verify.xyz
+To: victim59@example.com
+Subject: Team offsite planning [ref HCA9C3F]
+Date: Tue, 10 Mar 2002 09:44:00 -0500
+Message-ID: <phish-239-f23c45e4-f299-4eda-88eb-84a885751ce7@citibank-verify.xyz>
+Received: from relay0 (relay0.example.net [192.0.2.100]) by mx0.example.com; Tue, 11 Mar 2002 13:07:00 -0500
+Received: from relay1 (relay1.example.net [192.0.2.101]) by mx1.example.com; Tue, 20 Mar 2002 18:11:00 -0500
+Received: from relay2 (relay2.example.net [192.0.2.102]) by mx2.example.com; Tue, 28 Mar 2002 17:22:00 -0500
+Received: from relay3 (relay3.example.net [192.0.2.103]) by mx3.example.com; Tue, 21 Mar 2002 22:23:00 -0500
+Received: from relay4 (relay4.example.net [192.0.2.104]) by mx4.example.com; Tue, 23 Mar 2002 23:08:00 -0500
+Received: from relay5 (relay5.example.net [192.0.2.105]) by mx5.example.com; Tue, 06 Mar 2002 20:18:00 -0500
+Received: from relay6 (relay6.example.net [192.0.2.106]) by mx6.example.com; Tue, 19 Mar 2002 12:18:00 -0500
+Received: from relay7 (relay7.example.net [192.0.2.107]) by mx7.example.com; Tue, 09 Mar 2002 09:00:00 -0500
+Return-Path: <bounce@mail-d7aaec1a.top>
+Reply-To: recovery9@gmail.com
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=mail-d7aaec1a.top; dkim=fail header.d=citibank-verify.xyz; dmarc=fail header.from=citibank-verify.xyz
+Received-SPF: fail (mx.example.com: domain of notice@citibank-verify.xyz does not designate 192.0.2.44 as permitted sender)
+DKIM-Signature: v=1; a=rsa-sha256; d=citibank-verify.xyz; s=default; h=from:to:subject;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+Please review the schedule before Friday. No action needed beyond that.
+Reference: HCA9C3F
+
+Thanks,
+Colleague
